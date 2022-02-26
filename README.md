@@ -1,2 +1,2 @@
 # fbook
-Buddha books
+Buddha book
