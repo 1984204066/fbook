@@ -1,0 +1,9 @@
+[book]
+title = "散落集"
+authors = []
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "scatter-book"

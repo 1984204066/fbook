@@ -1,0 +1,9 @@
+[book]
+title = "关于这颗心"
+authors = ["阿姜查"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "foodOfTheHeart-book"

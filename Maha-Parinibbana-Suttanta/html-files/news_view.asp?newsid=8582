@@ -1,0 +1,878 @@
+<html>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+
+
+
+
+
+
+<style type="text/css">
+<!--
+body,td,th {
+	color: #996600;
+}
+body {
+	background-color: #FFFFFF;
+}
+-->
+</style>
+<head>
+
+
+
+<title>南传大般涅槃经 第一章 - 南传大般涅槃经 - 显密文库 佛教文集</title>
+<LINK href="../main.css" rel=stylesheet type=text/css>
+
+<!--to_top-->
+<script type="text/javascript" src="http://read.goodweb.net.cn/top_js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="http://read.goodweb.net.cn/top_js/scrolltopcontrol.js"></script>
+<style>
+#scrollBar A {
+	TEXT-INDENT: -2000em; WIDTH: 19px; DISPLAY: block; BACKGROUND: url(top_js/top.png) no-repeat; HEIGHT: 57px; OVERFLOW: hidden; CURSOR: pointer
+}
+#scrollBar A:hover {
+	BACKGROUND-POSITION: right 0px
+}
+</style>
+<!--to_top end-->
+
+<style type="text/css">
+<!--
+.style17 {color: #FFFFCC}
+-->
+</style>    
+<style type="text/css">
+<!--
+.style18 {
+	color: #FFFFCC;
+	font-weight: bold;
+}
+body {
+	background-image: url(imges/bg.gif);
+	background-color: #FFFFFF;
+}
+a:visited {
+	color: #c36d28;
+	text-decoration: none;
+}
+a:hover {
+	color: #FF0000;
+	text-decoration: underline;
+	}
+a:link {
+	color: #836243;
+	text-decoration: none;
+}
+.style19 {color: #000000}
+body,td,th {
+	color: #996600;
+}
+a:active {
+	color: #FF0000;
+	text-decoration: none;
+}
+-->
+    </style>
+	
+	
+
+<!--右侧撕角广告-1-->
+<SCRIPT src="http://read.goodweb.net.cn/js/jquery-latest.js" type=text/javascript></SCRIPT>
+<SCRIPT type=text/javascript> 
+$(document).ready(function(){
+//Page Flip on hover
+	$("#pageflip").hover(function() {
+		$("#pageflip img , .msg_block").stop()
+			.animate({
+				width: '307px', 
+				height: '319px'
+			}, 500); 
+		} , function() {
+		$("#pageflip img").stop() 
+			.animate({
+				width: '50px', 
+				height: '52px'
+			}, 220);
+		$(".msg_block").stop() 
+			.animate({
+				width: '50px', 
+				height: '50px'
+			}, 200);
+	});	
+});
+</SCRIPT>
+<STYLE type=text/css>
+#pageflip {RIGHT: 0px; FLOAT: right; POSITION: relative; TOP: 0px}
+#pageflip IMG {Z-INDEX: 99; RIGHT: 0px; WIDTH: 50px; POSITION: absolute; TOP: 0px; HEIGHT: 52px; ms-interpolation-mode: bicubic}
+#pageflip .msg_block {RIGHT: 0px; BACKGROUND: url(image/subscribe.png) no-repeat right top; OVERFLOW: hidden; WIDTH: 50px; POSITION: absolute; TOP: 0px; HEIGHT: 50px}
+</STYLE>
+<!--右侧撕角广告-2-->
+
+
+</head>
+<body>
+
+<!--右侧撕角广告-3
+<div id=pageflip><A href="http://weidian.com/?userid=832276198" target="_blank"><IMG src="http://read.goodweb.net.cn/ad_pic/page_flip.png" border="0"></A> 
+<div class=msg_block></div></div>-->
+<!--右侧撕角广告-4-->
+
+<script language="javascript">
+<!--
+var mytest=0
+document.write("000"）
+-->
+</script>
+<style type="text/css">
+<!--
+input.smallInput{background:#ffffff;border-bottom-color:#ff6633; border-bottom-width:1px;border-top-width:0px;border-left-width:0px;border-right-width:0px; solid #ff6633; color: #000000; FONT-SIZE: 9pt; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; HEIGHT: 28px; LINE-HEIGHT: normal}
+input.buttonface{BACKGROUND: #ffcc00; border:1 solid #ff6633; COLOR: #c36d28; FONT-SIZE: 14px; FONT-STYLE: normal; FONT-VARIANT: normal; FONT-WEIGHT: normal; HEIGHT:26px; LINE-HEIGHT: normal;}
+-->
+</style>
+
+<table width="100%"  border="0" align="center" cellpadding="0" cellspacing="0" background="imges/bg_index.jpg" bgcolor="#006633">
+  <tr>
+    <td valign="top"><table width="980" height="34"  border="0" align="center" cellpadding="0" cellspacing="0">
+          <tr>
+            <td width="25%" align="center"><a href="http://read.goodweb.net.cn/"><img src="imges/w_logo.jpg" width="230" height="90" border="0"></a></td>
+            <td width="75%">              <table width="722" border="0" cellpadding="0" cellspacing="2" bgcolor="#75B98C">
+              <tr>
+                <td><table width="100%" height="37"  border="0" cellpadding="0" cellspacing="0" bgcolor="#C2DAD9">
+                    <form name="form1" method="get" action="http://www.baidu.com/s">
+                      <tr>
+                        <td width="11%" align="center">站内搜索: </td>
+                        <td width="50%" align="center"><input name="wd" type="text" size="50" maxlength="60" style="border:1px #cccccc solid; FONT-SIZE:14px;HEIGHT: 28px; PADDING-TOP: 6px;PADDING-left: 6px;">
+                            <input type="hidden" name="tn" value="baidulocal">
+                            <input type="hidden" name="ie" value="gb2312">
+                            <input type="hidden" name="ct" value="2097152">
+                            <input type="hidden" name="si" value="read.goodweb.net.cn">
+                            <input type="hidden" name="cl" value="3">
+                        </td>
+                        <td width="9%"><input type="submit" value="搜索" name="B1" class="buttonface" style="font-size:14px;HEIGHT:26px;"></td>
+                        <td width="30%"><a href="http://read.goodweb.net.cn/" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://read.goodweb.net.cn/');return(false);" class="black_1">设为首页</a> | <a href="javascript:window.external.addfavorite('http://read.goodweb.net.cn/','显密文库－佛教文集')" class="black_1">加入收藏</a> 　<A href="javascript:StranBody()" class=fontswitch id=StranLink><strong>[繁体版]</strong></A> </td>
+                      </tr>
+                    </form>
+                </table></td>
+              </tr>
+            </table></td></tr>
+        </table>
+    </td>
+  </tr>
+</table>
+<table width="100%" height="2"  border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#D2E9BC">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(imges/bg.gif);
+}
+
+-->
+</style>
+
+<style type="text/css">
+<!--
+.style23 {color: #CCCCCC}
+-->
+</style>
+<body>
+
+<table width="970" border="0" align="center" cellpadding="10" cellspacing="0" bgcolor="#E9E8CF">
+  <tr>
+    <td align="center"><table width="100%" height="40" border="0" cellpadding="4" cellspacing="1" bgcolor="#E4DEAE">
+        <tr bgcolor="#FFFCD9">
+          <td align="center" bgcolor="#FFFCD9">              <table width="100%" border="0" cellpadding="4" cellspacing="0">
+                <tr>
+                  <td align="center"><a href="http://read.goodweb.net.cn/index.asp">文库首页</a> ┊ <a href="http://read.goodweb.net.cn/yuedu/index.asp" target="_blank">智慧悦读</a> ┊ <a href="http://read.goodweb.net.cn/page01.asp" target="_blank">基础读物</a> ┊ <a href="http://read.goodweb.net.cn/page02.asp" target="_blank">汉传佛教</a> ┊ <a href="http://read.goodweb.net.cn/page03.asp" target="_blank">藏传佛教</a> ┊ <a href="http://read.goodweb.net.cn/page04.asp" target="_blank">南传佛教</a> ┊ <a href="http://read.goodweb.net.cn/page04.asp#5" target="_blank">古 印 度</a> ┊ <a href="http://read.goodweb.net.cn/page05.asp" target="_blank">白话经典</a> ┊ <a href="http://read.goodweb.net.cn/page06.asp" target="_blank">英文佛典</a> ┊ <a href="http://read.goodweb.net.cn/page08.asp" target="_blank">随机阅读</a> ┊ <A 
+href="http://goodweb.net.cn/wenfo.asp" target=_blank>佛学问答</A> ┊ <A 
+href="http://goodweb.net.cn/fhjt.asp" target=_blank>佛化家庭</A>  ┊ <a href="http://wap.goodweb.net.cn/" target="_blank">手 机 站</a></td>
+                </tr>
+                <tr>
+                  <td align="center"><A 
+href="http://goodweb.net.cn/gushi.asp" target=_blank>佛教故事</A> ┊ <A 
+href="http://goodweb.net.cn/chanhua.asp" target=_blank>禅话故事</A> ┊ <A 
+href="http://goodweb.net.cn/fojiaoshuwu.asp" target=_blank>佛教书屋</A> ┊ <A 
+href="http://goodweb.net.cn/jielv.asp" target=_blank>戒律学习</A> ┊ <A 
+href="http://goodweb.net.cn/fashi.asp" target=_blank>法师弘法</A> ┊ <A 
+href="http://goodweb.net.cn/jushi.asp" target=_blank>居士佛教</A> ┊ <A 
+href="http://goodweb.net.cn/jingyexiufu.asp" target=_blank>净业修福</A> ┊ <A href="http://goodweb.net.cn/jingtuzong.asp" target=_blank>净宗在线</A> ┊ <A 
+href="http://goodweb.net.cn/ahan.asp" target=_blank>阿含专题</A> ┊ <A 
+href="http://goodweb.net.cn/tiantai.asp" target=_blank>天台在线</A> ┊ <A 
+href="http://goodweb.net.cn/chanzong.asp" target=_blank>禅宗在线</A> ┊ <A 
+href="http://goodweb.net.cn/weishizong.asp" target=_blank>唯识法相</A> ┊ <A href="http://read.goodweb.net.cn/news/news_more.asp?lm2=2209">人物访谈</A></td>
+                </tr>
+                <tr>
+                  <td align="center"><a href="http://read.goodweb.net.cn/page07.asp" target="_blank">分类标签</a> ┊ <A href="http://goodweb.net.cn/sushi.asp" target=_blank>素食生活</A> ┊ <A 
+href="http://goodweb.net.cn/fhjt.asp" target=_blank>佛化家庭</A> ┊ <A 
+href="http://goodweb.net.cn/ganyin.asp" target=_blank>感应事迹</A>  ┊ <A href="http://goodweb.net.cn/xj/" target=_blank><FONT 
+color=#ff0000>在线抄经</FONT></A> ┊ <A 
+href="http://goodweb.net.cn/jushi.asp" target=_blank></A><A 
+href="http://goodweb.net.cn/nianfo/" target=_blank>在线念佛</A> ┊ <A href="http://goodweb.net.cn/fojiaowenhua.asp" target=_blank>佛教文化</A> ┊ <a href="http://read.goodweb.net.cn/sutra/index.asp" target="_blank">大 正 藏</a> ┊ <A href="http://goodweb.net.cn/sushi.asp" target=_blank></A> <a href="http://goodweb.net.cn/sutra/" target="_blank">藏经阅读</a> ┊ <a href="http://read.goodweb.net.cn/esutra/so.asp" target="_blank">藏经检索</a> ┊ <a href="http://fodian.goodweb.net.cn/" target="_blank">佛教辞典</a> ┊ <A href="http://goodweb.net.cn/tv/" target=_blank>网络电视</A> ┊ <a href="http://read.goodweb.net.cn/page09.asp" target="_blank">电 子 书</a></td>
+                </tr>
+              </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="970"  border="0" align="center" cellpadding="0" cellspacing="0" style="border: 1px solid #EAE1C6;">
+  <tr>
+    <td valign="top"><table width="100%" height="98" border="0" cellpadding="0" cellspacing="0">
+
+
+      <tr>
+        <td><table width="100%"  border="0" cellpadding="10" cellspacing="0" background="../imges/b03.jpg">
+          <tr>
+            <td><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#FFFFFF" id="bb1"  style="border: 1px solid #EAE1C6;">
+                <tr>
+                  <td valign="top"><table width="200" height="21" border="0" align="center" cellpadding="0" cellspacing="0">
+                      <tr>
+                        <td colspan="3"></td>
+                      </tr>
+                    </table>
+                      <table width="93%" border="0" align="center" cellpadding="0" cellspacing="0" id="table1">
+                        <tr>
+                          <td valign="top"><div align="center">
+                              <table border="0" cellpadding="10" cellspacing="0" width="100%" id="table4">
+                                <tr>
+                                  <td align=center><b> <font style="font-size: 19pt"><font face="Verdana, Arial, Helvetica, sans-serif"  style="FONT-SIZE: 24px"><span class="style_txt" id="tt">南传大般涅槃经 第一章</span></font></font></b><br>
+                                      <font style="font-size: 11pt"><b>Maha-Parinibbana-Suttanta 巴宙 译</b></font>
+                                      <hr color="#CCC4A8" size="1">
+                                      <font color=#cccccc><a href=http://read.goodweb.net.cn/news/news_more.asp?lm2=554&open=_blank&tj=0&hot=0><font color=#669900 class=style24><u>[南传大般涅槃经]</u></font></a>　[点击：5710]</font>　
+                                      <script language=JavaScript src="article.js" 
+            type=text/JavaScript></script>
+                          &nbsp;<a href=http://fowap.goodweb.net.cn/news/news_view.asp?newsid=8582>[手机版]</a>
+                          <noscript>
+                          您的浏览器禁用了脚本功能，无法支持繁简体切换和编辑字体大小。
+                          <style type='text/css'>
+<!--
+.style_txt{font-size:11pt;line-height:30px;}
+-->
+</style>
+                          </noscript>
+                          <br>
+                          <table width="16%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+                            <tr>
+                              <td></td>
+                            </tr>
+                          </table>
+                          <table width="230" border="0" cellspacing="0" cellpadding="0">
+                            <tr>
+                              <td align="center" width="55"><span class="style23"><span style="font-size: 9pt">背景色</span></span></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFFFFF';set_color('FFFFFF');set_fontcolor('666666')" bgcolor="#FFFFFF" width="12" style="cursor:pointer"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FEFBE9';set_color('FEFBE9');set_fontcolor('836243')" bgcolor="#F3E4B8" width="12" style="cursor:pointer"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFFFFF';set_color('F1FAF8');set_fontcolor('55773f')" bgcolor="#ADE0B5" width="12" style="cursor:pointer"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFFFFF';set_color('F9F4FF');set_fontcolor('335d97')" bgcolor="#AAD3EA" width="12" style="cursor:pointer"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC">
+
+
+
+
+
+
+
+
+
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFFBEC';set_color('FFFBEC');set_fontcolor('777777')" bgcolor="#FFFBEC" width="12" style="cursor:pointer"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='F4F9FF';set_color('F4F9FF');set_fontcolor('777777')" bgcolor="#F4F9FF" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFEEEE';set_color('FFEEEE');set_fontcolor('666666')" bgcolor="#FFEEEE" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='f6f6f6';set_color('EEEEEE');set_fontcolor('333333')" bgcolor="#BFBFBF" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='F4EBE1';set_color('F4EBE1');set_fontcolor('633000')" bgcolor="#E9D7C2" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='FFEEEE';set_color('FFEEEE');set_fontcolor('CC3333')" bgcolor="#CC6666" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='1562A8';set_color('1562A8');set_fontcolor('ffffff')" bgcolor="#4E92D6" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='006666';set_color('006666');set_fontcolor('ffffff')" bgcolor="#319999" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='333333';set_color('333333');set_fontcolor('cccccc')" bgcolor="#999999" width="12"></td>
+                                  </tr>
+                              </table></td>
+                              <td><table width="9" height="9" border="0" cellpadding="1" cellspacing="1" bgcolor="#CCCCCC" style="cursor:pointer">
+                                  <tr>
+                                    <td onClick="bb1.style.backgroundColor='191919';set_color('191919');set_fontcolor('#CCCCCC')" bgcolor="#666666" width="12"></td>
+                                  </tr>
+                              </table></td>
+                            </tr>
+                          </table>
+                                  </td>
+                                </tr>
+                                <tr>
+                                  <td class="style_txt"><span class="style_txt" id=zoom><P>第一章</P>
+<P>01 如是我闻，一时薄伽梵住在王舍城灵鹫山峰。尔时摩竭陀阿□世王━━韦提希之子立意欲征伐越祗人，彼自念言：「我将摧毁越祗人使之根绝种灭，虽然说彼等是很强盛」。</P>
+<P>02 于是他告摩竭陀宰相瓦沙卡罗说：「来，婆罗门，你去薄伽梵处称我名顶礼佛足，问其少病少恼，健愉轻安否？你白佛言：『世尊，摩竭陀阿□世王顶礼佛足，并问候世尊少病少恼，健愉轻安否？』又说：『世尊，摩竭陀阿□世王立意欲征伐越祗人，他曾说：『我将摧毁越祗人使之根绝种灭，虽然说彼等是很强盛。』凡薄伽梵所指示者应善忆念，转述于我，因为如来是不语虚妄。」</P>
+<P>03 「诚然」，摩竭陀宰相瓦沙卡罗回答说。他下令准备好许多辆精美车乘，自己坐上一辆车，与其侍从离开王舍城进向灵鹫山峰。凡可通车的地方皆以车行，后乃下车步行去到佛陀的住处，到已，同佛陀互叙寒暄及问候起居，就座其侧以后，摩竭陀宰相瓦沙卡罗白佛言：「世尊，摩竭陀阿□世王━━韦提希之子，顶礼佛足，并问候慈座少病少恼，健愉轻安否？彼立意欲征伐越祗人，他曾说：『我将摧毁越祗人使之根绝种灭，虽然说彼等是很强盛』」</P>
+<P>04 尔时尊者阿难立于佛后用扇扇佛。薄伽梵语尊者阿难说：「阿难，你是否听闻越祗人常相集会？」「我听闻越祗人常相集会，世尊。」「阿难，当越祗人仍常相集会，则彼等是只会兴盛，不会衰微。阿难，你是否听闻越祗人是一心一德相会、相起及相负责任？」「我听闻越祗人是一心一德相会、相起及相负责任，世尊。」「阿难，当越祗人仍是一心一德相会、相起及相负责任，则彼等是只会兴盛，不会衰微。阿难，你是否听闻越祗人凡有所作为皆依照越祗古昔所传制度，而是未兴者不兴，已兴者不废？」「世尊，我听闻越祗人凡有所作为皆依照越祗古昔所传制度，是未兴者不兴，已兴者不废。」「阿难，当越祗人凡有所作为皆依照越祗古昔所传制度，仍是未兴者不兴，已兴者不废，则彼等是只会兴盛，不会衰微。阿难，你是否听闻越祗人恭敬尊奉其年长者并接受其忠告？」「我听闻越祗人恭敬尊奉其年长者并接受其忠告，世尊。」「阿难，当越祗人仍恭敬尊奉其年长者并接受其忠告，则彼等是只会兴盛，不会衰微。阿难，你是否听闻过越祗人不诱迫其本族的妇女与之同居？」「我听闻越祗人不诱迫其本族的妇女与之同居，世尊。」「阿难，当越祗人仍不诱迫其本族的妇女与之同居，则彼等是只会兴盛，不会衰微。阿难，你是否听闻越祗人恭敬尊奉其城市或乡镇的神舍，不废弃往昔所规定，所遵行的正当祭献？」「我听闻越祗人恭敬尊奉其城市或乡镇的神舍，不废弃往昔所规定，所遵行的正当祭献，世尊。」「阿难，当越祗人仍恭敬尊奉其城市或乡镇的神舍，不废弃往昔所规定，所遵行的正当祭献，则彼等是只会兴盛，不会衰微。阿难，你是否听闻越祗人对诸阿罗汉有适当的保护，防卫及供养，其在远地者将趋赴境内，而已在境内者会平安居处？」「我听闻越祗人对诸阿罗汉有适当的保护、防卫及供养，其在远地者将趋赴境内，而已在境内者会平安居处，世尊。」「阿难，当越祗人仍对诸阿罗汉有适当的保护、防卫及供养，其在远地者将趋赴境内，而已在境内者会平安居处，则彼等是只会兴盛，不会衰微。」</P>
+<P>05 于是佛陀语摩竭陀宰相瓦沙卡罗婆罗门说：「婆罗门，往昔我住在□舍离的沙然达达神舍，以此七兴盛法教越祗人，当此七法尚存在于越祗人中，当越祗人仍谆谆以此相训，婆罗门，则彼等是只会兴盛，不会衰微。」时摩竭陀宰相瓦沙卡罗白佛言：「乔达摩，若越祗人有此七兴盛法之一，已只会兴盛，不会衰微，何况彼等有此七法，若如是，乔达摩，摩竭陀国王是不能屈伏越祗人；那是说在战争中得采用诡谋，或离间其同盟，国事繁忙，现请告辞。」佛言：「婆罗门，可宜知时。」时摩竭陀宰相瓦沙卡罗对佛陀的教言发生欣喜，遂离座而去。</P>
+<P>06 瓦沙卡罗去已，薄伽梵语尊者阿难说：「阿难，你往告住在王舍城附近的诸比丘尽集讲堂。」「是，世尊。」尊者阿难回答说。他即往告住在王舍城附近的诸比丘尽会讲堂。回来时他向佛作礼，退立一面说：「世尊，比丘僧众已齐集讲堂，唯圣知时。」尔时佛陀即从座起，走向讲堂，就座后，告诸比丘说：「诸比丘，我将宣说七种兴盛法，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说：「诸比丘，当诸比丘(一)仍常相集会；(二)当彼等仍是一心一德相会、相起及相尽力于僧团职务；(三)当彼等依照所制定的律法而行，仍是未兴者不兴，已兴者不废；(四)当彼等仍恭敬尊奉年高望重富于经验之长老，僧伽之师父，并接受其忠告；(五)当能使人转世的贪欲既起，彼等仍不为其所影响；(六)当彼等仍乐于隐居；(七)当彼等仍守心于一，其同道中之良善者将趋赴之，而已来者将平安居处，则彼等是只会兴盛，不会衰微。当此七法尚存在于诸比丘中，当诸比丘仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>07 「诸比丘，复有七种兴盛法，我将宣说，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说：「诸比丘，(一)当诸比丘仍不喜沾染俗务；(二)当彼等仍不爱好闲谈；(三)当彼等仍不喜偷懒；(四)当彼等仍不喜交游；(五)当彼等仍不怀邪欲，或为邪欲所左右；(六)当彼等仍不与恶人为友或伴侣；(七)当彼等仍不因已证小果而停止进趣最高圣位，则彼等是只会兴盛，不会衰微。当此七兴盛法尚存在于诸比丘中，当彼等仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>08 「诸比丘，复有七种兴盛法，我将宣说，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说；「当诸比丘仍有(一)信心，(二)耻心，(三)畏恶，(四)多闻，(五)精进，(六)警勤，(七)多智慧，则彼等是只会兴盛，不会衰微。当此七兴盛法尚存在于诸比丘中，当彼等仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>09 「诸比丘，复有七种兴盛法，我将宣说，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说：「诸比丘，当诸比丘仍修七菩提分：(一)念菩提分，(二)择法菩提分，(三)精进菩提分，(四)喜菩提分，(五)轻安菩提分，(六)禅定菩提分，(七)舍菩提分，则彼等是只会兴盛，不会衰微。当此七兴盛法尚存在于诸比丘中，当彼等仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>10 「诸比丘，复有七种兴盛法，我将宣说，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说：「诸比丘，当诸比丘仍有(一)无常观，(二)无我观，(三)不净观，(四)邪念危险观，(五)舍离观，(六)心清净观，(七)涅槃观，则彼等是只会兴盛，不会衰微。当此七兴盛法尚存在于诸比丘中，当彼等仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>11 「诸比丘，复有六种兴盛法，我将宣说，且专心谛听！」「是，世尊。」诸比丘回答说。薄伽梵说：「诸比丘，当诸比丘仍在公在私均以(一)身慈，(二)口慈及(三)意慈对待其同道；(四)当彼等仍公平分配及与其善友分享从僧伽所获得之法定净物，下至钵中所有；(五)当彼等在公在私仍与圣者同居，修习那圆满、不缺、不染、清净、助长智慧，为贤者所称赞，及不为后世欲所玷污的德行；(六)当彼等与圣者同居仍在公在私执持那依之而行可以使痛苦完全毁灭的正见，则彼等是只会兴盛，不会衰微。当此六兴盛法尚存在于诸比丘中，当彼等仍谆谆以此相训，则彼等是只会兴盛，不会衰微。」</P>
+<P>12 薄伽梵住王舍城灵鹫山峰与诸比丘如是宣说关于戒定慧的法要。彼谓：「修戒则定有很大利益与果报；修定则慧有很大利益与果报；修慧则心从漏得解脱━━欲漏、有漏、见漏及无明漏。」</P>
+<P>13 尔时薄伽梵在王舍城随宜住已，语尊者阿难说：「来，阿难，我等去安巴拉提卡。」「是，世尊。」尊者阿难回答说。于是佛与大比丘僧众向安巴拉提卡进行。</P>
+<P>14 于安巴拉提卡，佛陀住在王宫内。彼亦向诸比丘宣说关于戒定慧的法要。彼谓：「修戒则定有很大利益与果报；修定则慧有很大利益与果报；修慧则心从漏得解脱━━欲漏、有漏、见漏及无明漏。」</P>
+<P>15 尔时薄伽梵在安巴拉提卡随宜住已，语尊者阿难说：「来，阿难，我等去那烂陀。」「是，世尊。」尊者阿难回答说。于是佛与大比丘僧众向那烂陀进行。到已，佛住在帕瓦哩卡□果林。</P>
+<P>16 尔时尊者舍利弗走向佛之住处向佛作礼，就座其侧以后，白佛言：「世尊，我于如来有如是信心：于过去、未来及现在，在高深智慧方面，没有任何其他沙门或婆罗门比如来为更伟大及聪慧。」「舍利弗，你所说如狮子吼是伟大而勇敢。舍利弗，诚然，你发出喜不自胜之歌。你当然知久远世过去诸佛为阿罗汉，正等正觉。是否以你的心了悟彼等的心，并觉知其操行、智慧、生活方式及所证之解脱？」「世尊，不如是。」「既如是，舍利弗，你当然知久远世未来诸佛为阿罗汉正等正觉。是否以你的心了悟彼等的心，并觉知其操行、智慧、生活方式及所证之解脱？」「世尊，不如是。」「既如是，舍利弗，最低限度你知我为现在世阿罗汉、正等正觉。是否以你的心了悟我的心，并觉知我之操行、智慧、生活方式及所证之解脱？」「世尊，不如是。」「既如此，舍利弗，你是不能以你的心了悟过去、现在及未来阿罗汉、正等正觉诸佛的心。舍利弗，为何你所说如狮子吼，是伟大而勇敢？你为何发出如是喜不自胜之歌？」</P>
+<P>17 「世尊，我不能了解过去、未来及现在阿罗汉、正等正觉诸佛的心，我只知传承的信仰。世尊，譬如国王有城在其边境，城基城墙及城楼均甚坚固，且唯有一门；其守门者精敏多智，拒纳陌生人，唯许相识者入内。当其环巡该城附近，或许未察及城墙相联处，或有孔之罅隙可容小猫出入。但彼知任何较大动物欲出入此城，非从此门进出不可。世尊，我所知传承的信仰亦复如是。世尊，过去世阿罗汉，正等正觉诸佛舍弃贪、嗔、懒惰、烦恼、困惑。此五障为心病能使解悟羸弱；持心于四正念。兼修习七菩提分而证无上正等正觉之圆果。未来世阿罗汉、正等正觉诸佛亦将如此行之。」</P>
+<P>18 薄伽梵住那烂陀的帕瓦哩卡□果林与诸比丘如是宣说关于戒定慧的法要。彼谓：「修戒则定有很大利益与果报；修定则慧有很大利益与果报；修慧则心从漏得解脱──欲漏、有漏、见漏及无明漏。」</P>
+<P>19 尔时薄伽梵在那烂陀随宜住已，语尊者阿难说：「来，阿难，我等去拔塔里村。」「是，世尊。」尊者阿难回答说。于是佛与大比丘僧众向拔塔里村进行。</P>
+<P>20 尔时拔塔里村诸优婆塞闻佛已到达该处。彼等走向佛所，向佛作礼，就座其侧以后，白佛言：「世尊慈愍，请到村上休息室去。」薄伽梵默然许可。</P>
+<P>21 拔塔里村诸优婆塞知佛已接受邀请，从座起向佛作礼，右□毕，即向村上休息室走去。到已，彼等散鲜沙于地，铺设地毯于休息室，安置水瓶并挂上油灯。彼等再到佛前向佛作礼，就座其侧以后白佛言：「世尊，村上休息室已全部布置就绪，鲜沙、地毯、水瓶、油灯，均已安置，唯圣知时。</P>
+<P>22 尔时薄伽梵著衣持钵与大比丘僧众走向村上休息室。到已，洗脚入室，靠中柱而坐面向东。比丘僧众亦洗脚入室，靠西壁□佛而坐面向东。拔塔里村诸优婆塞亦洗脚入室，靠东壁坐在佛之对方，面向西。</P>
+<P>23 尔时薄伽梵告拔塔里村诸优婆塞说：「诸居士，此是行恶不正直的五失。何者为五？第一，行恶不正直，因懒惰而遭贫困。第二、恶名远播。第三、无论其参加任何社团如刹帝利、婆罗门、居士或沙门━━彼觉得自惭与忐忑不宁。第四、死时忧虑不安。第五、身坏命终，堕入地狱。诸居士，此是行恶的五失。」</P>
+<P>24 「诸居士，此是行善的五得。何者为五？第一、行善者因实行正直，因勤奋而获大财富。第二、善名远播。第三、无论其参加任何社团如刹帝利、婆罗门、居士或沙门━━他有自信力和镇定。第四、死时无忧虑。第五、身坏命终，上生天界。诸居士，此是行善的五得。」</P>
+<P>25 尔时薄伽梵向拔塔里村的优婆塞开示法要至于深夜，使彼等皆大欢喜。彼谓：「诸居士，现已深夜，可宜知时。」「是，世尊。」彼等回答说；即从座起，向佛作礼，右□而去。于彼等归去后不久，薄伽梵亦退入其丈室。</P>
+<P>26 尔时摩竭陀大臣苏尼陀与瓦沙卡罗为抵抗越祗人，在拔塔里村筑城一座。同时有无数神祗，在拔塔里村划封数以千计的宅地。凡宅地是属于有大威力的神祗，彼等恿怂最有权威的国王大臣去该处建造居宅。凡宅地是属于中等神祗，彼等恿怂中等的国王大臣去该处建造屋宇。凡宅地是属于下等神祗，彼等亦怂恿下等的国王大臣去该处兴建房舍。</P>
+<P>27 尔时薄伽梵以其伟大超人的天眼望见数以千计的神祗在拔塔里村划封宅地。彼于破晓时分起来语尊者阿难说：「阿难，谁在拔塔里村筑城？」「世尊，摩竭陀大臣苏尼陀与瓦沙卡罗在该处筑城，为抵御越祗人。」</P>
+<P>28 「阿难，摩竭陀大臣苏尼陀与瓦沙卡罗为抵御越祗人在拔塔里村筑城，彼等曾与忉利天天神约定。我以我之伟大清明超人的天眼望见数以千计的神祗在拔塔里村划封宅地。凡宅地是属于有大威力的神祗，彼等怂恿最有权威的国王大臣去该处建造居宅。其中神下神亦复如此(其全文见本章第二十六节)。阿难，当阿利安人仍常往还及商贾云集，此拔塔里子城将成为一大都市与商业中心。但此拔塔里子城将有三种危险，一者从火，二者从水，三者从朋友失和。」</P>
+<P>29 尔时摩竭陀大臣苏尼陀与瓦沙卡罗走向佛前互叙寒暄及问候起居，侍立其侧以后白佛言：「唯愿世尊慈允今日与大比丘僧众赴舍间午餐。」佛陀默然许可。</P>
+<P>30 摩竭陀大臣苏尼陀与瓦沙卡罗知佛许可遂各还家。归家后，备办甜粥糕饼已讫，即来白佛言：「世尊，诸事已备，唯圣知时。」尔时薄伽梵于清晨著衣持钵与大比丘僧众走向摩竭陀大臣苏尼陀与瓦沙卡罗的宅第。到已，坐于敷座。摩竭陀大臣苏尼陀与瓦沙卡罗即亲手奉献甜粥糕饼，以佛为首，下至诸比丘僧。佛食既竟，置钵已，彼等取两小凳，就座其侧。</P>
+<P>31 当彼等就座已，佛陀以偈赞曰：任何智者居住此地供养僧众━━能自调伏之善人，以此功德回向划封宅地之神祗。互相敬礼，互相尊敬。彼等以仁慈待之如母亲之对于独子；人为神所眷顾者，彼等常有幸福。佛陀以偈赞叹摩竭陀大臣苏尼陀与瓦沙卡罗己。即从座起。离去。</P>
+<P>32 尔时摩竭陀大臣苏尼陀与瓦沙卡罗尾随佛后说：「今天沙门乔达摩从某门出，该门将名为『乔达摩门』；从某渡头渡河，该渡头将名为『乔达摩渡』。」其后佛所从出之门是名为「乔达摩门」。</P>
+<P>33 尔时薄伽梵走向河边。时恒河水涨泛，欲渡河者或求船，或求筏，或求桴。世尊此时如大力士一屈伸臂顷即不见于恒河此岸，与诸大比丘僧众再出现于恒河彼岸。</P>
+<P>34 尔时薄伽梵见人求船、求筏或求桴，欲用渡河，遂说偈曰：幻世正缚扎筏桴，已渡苦海者造桥梁以渡池沼，彼为知者，彼为得救者。<BR></P></span>
+                                    <hr color="#CCC4A8" size="1"></td>
+                                </tr>
+                                <tr>
+                                  <td align="center" class="style_txt">
+								  
+<!-- 将此标记放在您希望显示like按钮的位置 -->
+<div class="bdlikebutton"></div>
+
+<!-- 将此代码放在适当的位置，建议在body结束前 -->
+<script id="bdlike_shell"></script>
+<script>
+var bdShare_config = {
+	"type":"large",
+	"color":"green",
+	"uid":"518334",
+	"likeText":"智慧好文~恭敬礼赞！",
+	"likedText":"您已顶过，谢谢！"
+	
+};
+document.getElementById("bdlike_shell").src="http://bdimg.share.baidu.com/static/js/like_shell.js?t=" + Math.ceil(new Date()/3600000);
+</script>  
+								  
+								  </td>
+                                </tr>
+
+                                <tr>
+                                  <td><hr color="#CCC4A8" size="1">
+                                      <!-- JiaThis Button BEGIN -->
+                                      <div id="ckepop"> <span class="jiathis_txt">分享到：</span> <a class="jiathis_button_tools_1"></a> <a class="jiathis_button_tools_2"></a> <a class="jiathis_button_tools_3"></a> <a class="jiathis_button_tools_4"></a> <a class="jiathis_button_tools_5"></a> <a class="jiathis_button_tools_6"></a> <a class="jiathis_button_tools_7"></a> <a class="jiathis_button_tools_8"></a> <a class="jiathis_button_tools_9"></a> <a class="jiathis_button_tools_10"></a> <a href="http://www.jiathis.com/share?uid=1566714" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank">更多</a> <a class="jiathis_counter_style"></a> </div>
+                                      <script type="text/javascript">var jiathis_config = {data_track_clickback:true};</script>
+                                      <script type="text/javascript" src="http://v2.jiathis.com/code/jia.js?uid=1566714" charset="utf-8"></script>
+                                      <!-- JiaThis Button END -->
+                                      <br>
+                                      <br>
+                                      <br>
+                          <font  style="font-size:18px;">上一篇：</font><a href=news_view.asp?newsid=8581 style="font-size:18px;">南传大般涅槃经 第二章</a><BR><font  style="font-size:18px;">下一篇：</font><a href=news_view.asp?newsid=8583 style="font-size:18px;">序言</a><br>
+                          <br>
+                          <table width='100%' height='30' border='0' cellpadding='2' cellspacing='0'><tr><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=8581 title='南传大般涅槃经 第二章'>南传大般涅槃经 第二章</a></td><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=8580 title='南传大般涅槃经 第三章'>南传大般涅槃经 第三章</a></td></tr><tr><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=8579 title='南传大般涅槃经 第四章'>南传大般涅槃经 第四章</a></td><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=8578 title='南传大般涅槃经 第五章'>南传大般涅槃经 第五章</a></td></tr><tr><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=8577 title='南传大般涅槃经 第六章'>南传大般涅槃经 第六章</a></td><td height='18' width='51%'><IMG height=7 src='http://read.goodweb.net.cn/news/image/icon.gif' width=7>&nbsp;<a href=news_view.asp?newsid=1715 title='南传大般涅槃经'>南传大般涅槃经</a></td></tr></table>
+                          <hr color="#CCC4A8" size="1">
+                                  </td>
+                                </tr>
+                              </table>
+                          </div></td>
+                        </tr>
+                      </table>
+                      <table width="200" height="21" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td colspan="3" align="center"><a href="#">△TOP</a></td>
+                        </tr>
+                        <tr>
+                          <td colspan="3" align="center"></td>
+                        </tr>
+                      </table>
+                      <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+                        <tr>
+                          <td></td>
+                        </tr>
+                    </table></td>
+                </tr>
+            </table></td>
+          </tr>
+        </table></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="970"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top"><table width="100%" height="98" border="0" cellpadding="10" cellspacing="0" bgcolor="#E9E8CF">
+        <tr>
+          <td><table width="100%"  border="0" cellpadding="5" cellspacing="1" bgcolor="#EAE1C6">
+              <tr>
+                <td bgcolor="#FFFFFF"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#F3EEDE">
+                    <tr>
+                      <td valign="top" bgcolor="#FFFFFF"><table width="200" height="10" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td colspan="3"></td>
+                          </tr>
+                        </table>
+                          <table width="100%" height="25" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td align="center"><a href="http://vod.goodweb.net.cn/index.asp" target="_blank">佛海影音</a> － <a href="http://vod.goodweb.net.cn/fs.asp" target="_blank">法师视频</a>　<a href="http://vod.goodweb.net.cn/foyue.asp" target="_blank">音乐视频</a>　<a href="http://vod.goodweb.net.cn/tj.asp" target="_blank">视频推荐</a>　<a href="http://vod.goodweb.net.cn/zt.asp" target="_blank">视频分类</a> － <a href="http://goodweb.net.cn/tv/" target="_blank">佛教电视</a> · <a href="http://vod.goodweb.net.cn/movie.asp" target="_blank">佛教电影</a> · <a href="http://vod.goodweb.net.cn/tv.asp" target="_blank">佛教连续剧</a> · <a href="http://vod.goodweb.net.cn/cartoon.asp" target="_blank">佛教卡通</a> · <a href="http://vod.goodweb.net.cn/celebrity.asp" target="_blank">佛教人物</a> · <a href="http://vod.goodweb.net.cn/ms.asp" target="_blank">名山名寺</a> · <a href="http://vod.goodweb.net.cn/slz.asp" target="_blank">舍利专题</a> · <A href="http://vod.goodweb.net.cn/v/news_more.asp?lm2=62" target="_blank">慧思文库</A></td>
+                            </tr>
+                          </table>
+                          <table width="890" height="130" border="0" align="center" cellpadding="0" cellspacing="0" id="table1">
+                            <tr>
+                              <td valign="top">
+							  <iframe name="myvideo" width="890" height="130" scrolling="no" frameborder="0" marginwidth="0" src="http://vod.goodweb.net.cn/ad03.asp"></iframe> 
+							  
+							  </td>
+                            </tr>
+                        </table>
+                          <table width="200" height="10" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td colspan="3"></td>
+                            </tr>
+                        </table>
+                          <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td></td>
+                            </tr>
+                        </table></td>
+                    </tr>
+                </table></td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="970"  border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td valign="top"><table width="100%" height="98" border="0" cellpadding="10" cellspacing="0" bgcolor="#E9E8CF">
+        <tr>
+          <td><table width="100%"  border="0" cellpadding="5" cellspacing="1" bgcolor="#FFFCD9">
+              <tr>
+                <td bgcolor="#FFFCD9"><table width="100%"  border="0" cellpadding="0" cellspacing="1" bgcolor="#F3EEDE">
+                    <tr>
+                      <td valign="top" bgcolor="#FFFCD9"><table width="200" height="21" border="0" align="center" cellpadding="0" cellspacing="0">
+                          <tr>
+                            <td colspan="3"></td>
+                          </tr>
+                        </table>
+                          <table width="95%" border="0" align="center" cellpadding="0" cellspacing="0" id="table1">
+                            <tr>
+                              <td valign="top"><div align="center">
+                                  <table border="0" cellpadding="0" cellspacing="0" width="100%" id="table4">
+                                    <tr>
+
+                                      <td align=center> 
+                                      </td>
+                                    </tr>
+                                </table>
+                              </div></td>
+                            </tr>
+                          </table>
+                          <table width="200" height="21" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td colspan="3"></td>
+                            </tr>
+                          </table>
+                          <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
+                            <tr>
+                              <td></td>
+                            </tr>
+                      </table></td>
+                    </tr>
+                </table></td>
+              </tr>
+          </table></td>
+        </tr>
+    </table></td>
+  </tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<table width="970" border="0" align="center" cellpadding="10" cellspacing="0" bgcolor="#E9E8CF">
+  <tr>
+    <td align="center"><table width="100%" height="40" border="0" cellpadding="0" cellspacing="1" bgcolor="#E4DEAE">
+      <tr bgcolor="#FFFCD9">
+        <td align="center" bgcolor="#FFFCD9"><A href="http://goodweb.net.cn/" target="_blank">无量香光</A> | <A href="http://buddha.goodweb.net.cn/music/index.htm" target=_blank>佛教音乐</A> | <A href="http://vod.goodweb.net.cn/" target=_blank>佛海影音</A> | <A href="http://foli.goodweb.net.cn/" target=_blank>佛教日历</A> | <A href="http://tianyan.goodweb.net.cn/" target=_blank>天眼佛教网址</A> | <A href="http://boruo.goodweb.net.cn/" target=_blank>般若文海</A> | <A href="http://pic.goodweb.net.cn/" target=_blank>心灵佛教桌面</A> | <A class=style33 href="http://slz.goodweb.net.cn/" target=_blank>万世佛香·佛骨舍利</A> | <A href="http://buddha.goodweb.net.cn/music/zt/jgsd/index.asp" 
+target=_blank>金刚萨埵如意宝珠</A> | <A href="http://tingfo.goodweb.net.cn/" target=_blank>佛教音乐试听</A> | <A href="http://foli.goodweb.net.cn/" target=_blank></A><A href="http://goodweb.net.cn/tv/" target=_blank>佛教网络电视</A></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<script>
+var Default_isFT = 0
+var StranIt_Delay = 100
+
+function StranText(txt,toFT,chgTxt)
+{
+if(txt==""||txt==null)return ""
+toFT=toFT==null?BodyIsFt:toFT
+if(chgTxt)txt=txt.replace((toFT?"简":"繁"),(toFT?"繁":"简"))
+if(toFT){return Traditionalized(txt)}
+else {return Simplized(txt)}
+}
+function StranBody(fobj)
+{
+if(typeof(fobj)=="object"){var obj=fobj.childNodes}
+else 
+{
+   var tmptxt=StranLink_Obj.innerHTML.toString()
+   if(tmptxt.indexOf("简")<0)
+   {
+    BodyIsFt=1
+    StranLink_Obj.innerHTML=StranText(tmptxt,0,1)
+    document.getElementById("StranLink").title=StranText(document.getElementById("StranLink").title,0,1)
+   }
+   else
+   {
+    BodyIsFt=0
+    StranLink_Obj.innerHTML=StranText(tmptxt,1,1)
+    document.getElementById("StranLink").title=StranText(document.getElementById("StranLink").title,1,1)
+   }
+   setCookie(JF_cn,BodyIsFt,7)
+   var obj=document.body.childNodes
+}
+for(var i=0;i<obj.length;i++)
+{
+   var OO=obj.item(i)
+   if("||BR|HR|TEXTAREA|OBJECT|".indexOf("|"+OO.tagName+"|")>0||OO==StranLink_Obj)continue;
+   if(OO.title!=""&&OO.title!=null)OO.title=StranText(OO.title);
+   if(OO.alt!=""&&OO.alt!=null)OO.alt=StranText(OO.alt);
+   if(OO.tagName=="INPUT"&&OO.value!=""&&OO.type!="text"&&OO.type!="hidden")OO.value=StranText(OO.value);
+   if(OO.nodeType==3){OO.data=StranText(OO.data)}
+   else StranBody(OO)
+}
+}
+function JTPYStr()
+{
+return '台号皑蔼碍爱翱袄奥坝罢摆败颁办绊帮绑镑谤剥饱宝报鲍辈贝钡狈备惫绷笔毕毙闭边编贬变辩辫鳖瘪濒滨宾摈饼拨钵铂驳卜补参蚕残惭惨灿苍舱仓沧厕侧册测层诧搀掺蝉馋谗缠铲产阐颤场尝长偿肠厂畅钞车彻尘陈衬撑称惩诚骋痴迟驰耻齿炽冲虫宠畴踌筹绸丑橱厨锄雏础储触处传疮闯创锤纯绰辞词赐聪葱囱从丛凑窜错达带贷担单郸掸胆惮诞弹当挡党荡档捣岛祷导盗灯邓敌涤递缔点垫电淀钓调迭谍叠钉顶锭订东动栋冻斗犊独读赌镀锻断缎兑队对吨顿钝夺鹅额讹恶饿儿尔饵贰发罚阀珐矾钒烦范贩饭访纺飞废费纷坟奋愤粪丰枫锋风疯冯缝讽凤肤辐抚辅赋复负讣妇缚该钙盖干赶秆赣冈刚钢纲岗皋镐搁鸽阁铬个给龚宫巩贡钩沟构购够蛊顾剐关观馆惯贯广规硅归龟闺轨诡柜贵刽辊滚锅国过骇韩汉阂鹤贺横轰鸿红后壶护沪户哗华画划话怀坏欢环还缓换唤痪焕涣黄谎挥辉毁贿秽会烩汇讳诲绘荤浑伙获货祸击机积饥讥鸡绩缉极辑级挤几蓟剂济计记际继纪夹荚颊贾钾价驾歼监坚笺间艰缄茧检碱硷拣捡简俭减荐槛鉴践贱见键舰剑饯渐溅涧浆蒋桨奖讲酱胶浇骄娇搅铰矫侥脚饺缴绞轿较秸阶节茎惊经颈静镜径痉竞净纠厩旧驹举据锯惧剧鹃绢杰洁结诫届紧锦仅谨进晋烬尽劲荆觉决诀绝钧军骏开凯颗壳课垦恳抠库裤夸块侩宽矿旷况亏岿窥馈溃扩阔蜡腊莱来赖蓝栏拦篮阑兰澜谰揽览懒缆烂滥捞劳涝乐镭垒类泪篱离里鲤礼丽厉励砾历沥隶俩联莲连镰怜涟帘敛脸链恋炼练粮凉两辆谅疗辽镣猎临邻鳞凛赁龄铃凌灵岭领馏刘龙聋咙笼垄拢陇楼娄搂篓芦卢颅庐炉掳卤虏鲁赂禄录陆驴吕铝侣屡缕虑滤绿峦挛孪滦乱抡轮伦仑沦纶论萝罗逻锣箩骡骆络妈玛码蚂马骂吗买麦卖迈脉瞒馒蛮满谩猫锚铆贸么霉没镁门闷们锰梦谜弥觅绵缅庙灭悯闽鸣铭谬谋亩钠纳难挠脑恼闹馁腻撵捻酿鸟聂啮镊镍柠狞宁拧泞钮纽脓浓农疟诺欧鸥殴呕沤盘庞国爱赔喷鹏骗飘频贫苹凭评泼颇扑铺朴谱脐齐骑岂启气弃讫牵扦钎铅迁签谦钱钳潜浅谴堑枪呛墙蔷强抢锹桥乔侨翘窍窃钦亲轻氢倾顷请庆琼穷趋区躯驱龋颧权劝却鹊让饶扰绕热韧认纫荣绒软锐闰润洒萨鳃赛伞丧骚扫涩杀纱筛晒闪陕赡缮伤赏烧绍赊摄慑设绅审婶肾渗声绳胜圣师狮湿诗尸时蚀实识驶势释饰视试寿兽枢输书赎属术树竖数帅双谁税顺说硕烁丝饲耸怂颂讼诵擞苏诉肃虽绥岁孙损笋缩琐锁獭挞抬摊贪瘫滩坛谭谈叹汤烫涛绦腾誊锑题体屉条贴铁厅听烃铜统头图涂团颓蜕脱鸵驮驼椭洼袜弯湾顽万网韦违围为潍维苇伟伪纬谓卫温闻纹稳问瓮挝蜗涡窝呜钨乌诬无芜吴坞雾务误锡牺袭习铣戏细虾辖峡侠狭厦锨鲜纤咸贤衔闲显险现献县馅羡宪线厢镶乡详响项萧销晓啸蝎协挟携胁谐写泻谢锌衅兴汹锈绣虚嘘须许绪续轩悬选癣绚学勋询寻驯训讯逊压鸦鸭哑亚讶阉烟盐严颜阎艳厌砚彦谚验鸯杨扬疡阳痒养样瑶摇尧遥窑谣药爷页业叶医铱颐遗仪彝蚁艺亿忆义诣议谊译异绎荫阴银饮樱婴鹰应缨莹萤营荧蝇颖哟拥佣痈踊咏涌优忧邮铀犹游诱舆鱼渔娱与屿语吁御狱誉预驭鸳渊辕园员圆缘远愿约跃钥岳粤悦阅云郧匀陨运蕴酝晕韵杂灾载攒暂赞赃脏凿枣灶责择则泽贼赠扎札轧铡闸诈斋债毡盏斩辗崭栈战绽张涨帐账胀赵蛰辙锗这贞针侦诊镇阵挣睁狰帧郑证织职执纸挚掷帜质钟终种肿众诌轴皱昼骤猪诸诛烛瞩嘱贮铸筑驻专砖转赚桩庄装妆壮状锥赘坠缀谆浊兹资渍踪综总纵邹诅组钻致钟么为只凶准启板里雳余链泄';
+}
+function FTPYStr()
+{
+return '臺號皚藹礙愛翺襖奧壩罷擺敗頒辦絆幫綁鎊謗剝飽寶報鮑輩貝鋇狽備憊繃筆畢斃閉邊編貶變辯辮鼈癟瀕濱賓擯餅撥缽鉑駁蔔補參蠶殘慚慘燦蒼艙倉滄廁側冊測層詫攙摻蟬饞讒纏鏟産闡顫場嘗長償腸廠暢鈔車徹塵陳襯撐稱懲誠騁癡遲馳恥齒熾沖蟲寵疇躊籌綢醜櫥廚鋤雛礎儲觸處傳瘡闖創錘純綽辭詞賜聰蔥囪從叢湊竄錯達帶貸擔單鄲撣膽憚誕彈當擋黨蕩檔搗島禱導盜燈鄧敵滌遞締點墊電澱釣調叠諜疊釘頂錠訂東動棟凍鬥犢獨讀賭鍍鍛斷緞兌隊對噸頓鈍奪鵝額訛惡餓兒爾餌貳發罰閥琺礬釩煩範販飯訪紡飛廢費紛墳奮憤糞豐楓鋒風瘋馮縫諷鳳膚輻撫輔賦複負訃婦縛該鈣蓋幹趕稈贛岡剛鋼綱崗臯鎬擱鴿閣鉻個給龔宮鞏貢鈎溝構購夠蠱顧剮關觀館慣貫廣規矽歸龜閨軌詭櫃貴劊輥滾鍋國過駭韓漢閡鶴賀橫轟鴻紅後壺護滬戶嘩華畫劃話懷壞歡環還緩換喚瘓煥渙黃謊揮輝毀賄穢會燴彙諱誨繪葷渾夥獲貨禍擊機積饑譏雞績緝極輯級擠幾薊劑濟計記際繼紀夾莢頰賈鉀價駕殲監堅箋間艱緘繭檢堿鹼揀撿簡儉減薦檻鑒踐賤見鍵艦劍餞漸濺澗漿蔣槳獎講醬膠澆驕嬌攪鉸矯僥腳餃繳絞轎較稭階節莖驚經頸靜鏡徑痙競淨糾廄舊駒舉據鋸懼劇鵑絹傑潔結誡屆緊錦僅謹進晉燼盡勁荊覺決訣絕鈞軍駿開凱顆殼課墾懇摳庫褲誇塊儈寬礦曠況虧巋窺饋潰擴闊蠟臘萊來賴藍欄攔籃闌蘭瀾讕攬覽懶纜爛濫撈勞澇樂鐳壘類淚籬離裏鯉禮麗厲勵礫曆瀝隸倆聯蓮連鐮憐漣簾斂臉鏈戀煉練糧涼兩輛諒療遼鐐獵臨鄰鱗凜賃齡鈴淩靈嶺領餾劉龍聾嚨籠壟攏隴樓婁摟簍蘆盧顱廬爐擄鹵虜魯賂祿錄陸驢呂鋁侶屢縷慮濾綠巒攣孿灤亂掄輪倫侖淪綸論蘿羅邏鑼籮騾駱絡媽瑪碼螞馬罵嗎買麥賣邁脈瞞饅蠻滿謾貓錨鉚貿麽黴沒鎂門悶們錳夢謎彌覓綿緬廟滅憫閩鳴銘謬謀畝鈉納難撓腦惱鬧餒膩攆撚釀鳥聶齧鑷鎳檸獰甯擰濘鈕紐膿濃農瘧諾歐鷗毆嘔漚盤龐國愛賠噴鵬騙飄頻貧蘋憑評潑頗撲鋪樸譜臍齊騎豈啓氣棄訖牽扡釺鉛遷簽謙錢鉗潛淺譴塹槍嗆牆薔強搶鍬橋喬僑翹竅竊欽親輕氫傾頃請慶瓊窮趨區軀驅齲顴權勸卻鵲讓饒擾繞熱韌認紉榮絨軟銳閏潤灑薩鰓賽傘喪騷掃澀殺紗篩曬閃陝贍繕傷賞燒紹賒攝懾設紳審嬸腎滲聲繩勝聖師獅濕詩屍時蝕實識駛勢釋飾視試壽獸樞輸書贖屬術樹豎數帥雙誰稅順說碩爍絲飼聳慫頌訟誦擻蘇訴肅雖綏歲孫損筍縮瑣鎖獺撻擡攤貪癱灘壇譚談歎湯燙濤縧騰謄銻題體屜條貼鐵廳聽烴銅統頭圖塗團頹蛻脫鴕馱駝橢窪襪彎灣頑萬網韋違圍爲濰維葦偉僞緯謂衛溫聞紋穩問甕撾蝸渦窩嗚鎢烏誣無蕪吳塢霧務誤錫犧襲習銑戲細蝦轄峽俠狹廈鍁鮮纖鹹賢銜閑顯險現獻縣餡羨憲線廂鑲鄉詳響項蕭銷曉嘯蠍協挾攜脅諧寫瀉謝鋅釁興洶鏽繡虛噓須許緒續軒懸選癬絢學勳詢尋馴訓訊遜壓鴉鴨啞亞訝閹煙鹽嚴顔閻豔厭硯彥諺驗鴦楊揚瘍陽癢養樣瑤搖堯遙窯謠藥爺頁業葉醫銥頤遺儀彜蟻藝億憶義詣議誼譯異繹蔭陰銀飲櫻嬰鷹應纓瑩螢營熒蠅穎喲擁傭癰踴詠湧優憂郵鈾猶遊誘輿魚漁娛與嶼語籲禦獄譽預馭鴛淵轅園員圓緣遠願約躍鑰嶽粵悅閱雲鄖勻隕運蘊醞暈韻雜災載攢暫贊贓髒鑿棗竈責擇則澤賊贈紮劄軋鍘閘詐齋債氈盞斬輾嶄棧戰綻張漲帳賬脹趙蟄轍鍺這貞針偵診鎮陣掙睜猙幀鄭證織職執紙摯擲幟質鍾終種腫衆謅軸皺晝驟豬諸誅燭矚囑貯鑄築駐專磚轉賺樁莊裝妝壯狀錐贅墜綴諄濁茲資漬蹤綜總縱鄒詛組鑽緻鐘麼為隻兇準啟闆裡靂餘鍊洩';
+}
+function Traditionalized(cc){
+var str='',ss=JTPYStr(),tt=FTPYStr();
+for(var i=0;i<cc.length;i++)
+{
+   if(cc.charCodeAt(i)>10000&&ss.indexOf(cc.charAt(i))!=-1)str+=tt.charAt(ss.indexOf(cc.charAt(i)));
+   else str+=cc.charAt(i);
+}
+return str;
+}
+function Simplized(cc){
+var str='',ss=JTPYStr(),tt=FTPYStr();
+for(var i=0;i<cc.length;i++)
+{
+   if(cc.charCodeAt(i)>10000&&tt.indexOf(cc.charAt(i))!=-1)str+=ss.charAt(tt.indexOf(cc.charAt(i)));
+   else str+=cc.charAt(i);
+}
+return str;
+}
+
+function setCookie(name, value)
+{
+var argv = setCookie.arguments;
+var argc = setCookie.arguments.length;
+var expires = (argc > 2) ? argv[2] : null;
+if(expires!=null)
+{
+   var LargeExpDate = new Date ();
+   LargeExpDate.setTime(LargeExpDate.getTime() + (expires*1000*3600*24));
+}
+document.cookie = name + "=" + escape (value)+((expires == null) ? "" : ("; expires=" +LargeExpDate.toGMTString()));
+}
+
+function getCookie(Name)
+{
+var search = Name + "="
+if(document.cookie.length > 0) 
+{
+   offset = document.cookie.indexOf(search)
+   if(offset != -1) 
+   {
+    offset += search.length
+    end = document.cookie.indexOf(";", offset)
+    if(end == -1) end = document.cookie.length
+    return unescape(document.cookie.substring(offset, end))
+   }
+else return ""
+   }
+}
+
+var StranLink_Obj=document.getElementById("StranLink")
+if (StranLink_Obj)
+{
+var JF_cn="ft"+self.location.hostname.toString().replace(/\./g,"")
+var BodyIsFt=getCookie(JF_cn)
+if(BodyIsFt!="1")BodyIsFt=Default_isFT
+with(StranLink_Obj)
+{
+   if(typeof(document.all)!="object")
+   {
+    href="javascript:StranBody()"
+   }
+   else
+   {
+    href="#";
+    onclick= new Function("StranBody();return false")
+   }
+   title=StranText("切换到简体中文版本",1,1)
+   innerHTML=StranText(innerHTML,1,1)
+}
+if(BodyIsFt=="1"){setTimeout("StranBody()",StranIt_Delay)}
+}
+</script> 
+
+
+ 
+<table width="970" border="0" align="center" cellpadding="10" cellspacing="0" bgcolor="#EBE7D8">
+<tr>
+<td align="center">      <table width="100%"  border="0" align="center" cellspacing="1" bgcolor="#E4DEAE">
+<tr>
+<td width="19" align="center" valign="middle" bgcolor="#CBBA7E"><strong>友情链接</strong> </td>
+<td width="939" valign="top" bgcolor="#FFFCD9"><table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table>
+<table width="99%"  border="0" align="center" cellpadding="3" cellspacing="0">
+<!--
+<tr align="center">
+<td width="12%"><a style="color:red;" href="http://www.dangdaifojiao.org/" target="_blank">中国当代佛教网</a></td>
+<td width="12%"><a style="color:red;" href="http://www.fjgsw.org/" target="_blank">当代佛教故事网</a></td>
+<td width="12%"><a style="color:red;" href="http://wenhua.dangdaifojiao.com/" target="_blank">当代佛教文化网</a></td>
+<td width="12%"><a style="color:red;" href="http://www.shengdi.org.cn/" target="_blank">当代佛教圣地</a></td>
+<td width="12%"><a style="color:red;" href="http://www.chanzong.org.cn/" target="_blank">当代佛教禅宗网</a></td>
+<td width="12%"><a style="color:red;" href="http://www.fjxw.org.cn/" target="_blank">当代佛教新闻网</a></td>
+<td width="12%"><a style="color:red;" href="http://www.shelizi.net.cn/" target="_blank">当代佛教舍利网</a></td>
+<td width="12%"><a style="color:red;" href="http://www.jingtuzong.top/" target="_blank">当代佛教净土网</a></td>
+</tr>
+<tr align="center">
+<td><A style="color:red;" href="http://www.fojiaoyinyue.com.cn/" target=_blank>当代佛教音乐网</A></td>
+ <td><A style="color:red;" href="http://www.fomenrenwu.cn/" target=_blank>当代佛教佛门人物</A></td> 
+<td><A style="color:red;" href="http://www.fojiaotupian.cn/" target=_blank>当代佛教图片网</A></td>
+<td><a style="color:red;" href="http://www.fojiaosushi.cn/" target="_blank">当代佛教素食网</a></td>
+ <td><a style="color:red;" href="http://www.fjcsw.org/" target="_blank">当代佛教慈善网</a></td> 
+<td><a style="color:red;" href="http://www.fjfsw.net.cn/" target="_blank">当代佛教放生网</a></td> 
+<td><a style="color:red;" href="http://www.fojiaodianying.cn/" target="_blank">当代佛教电影网</a></td>
+<td><a style="color:red;" href="http://www.zangjingge.org/">当代佛教藏经阁</a></td>
+<td ><A style="color:red;" href="http://www.borewenhai.cn/" target="_blank">当代佛教般若文海</A></td>
+<td ><a style="color:red;" href="http://www.xianmiwenku.cn/" target="_blank">当代佛教显密文库</a></td>
+</tr>
+-->
+<tr align="center">
+<td><a href="http://buddha.goodweb.net.cn/diamond/index.asp" target="_blank">金刚经</a></td>
+<td><a href="http://fo.sina.com.cn/" target="_blank">新浪佛学</a></td>
+<td><A href="http://fodian.goodweb.net.cn/" target=_blank>佛教辞典</A></td>
+<td><A href="http://tingfo.goodweb.net.cn" target=_blank>听佛</A></td>
+<td><A href="http://sutra.goodweb.net.cn/" target=_blank>大藏经</A></td>
+<td ><A href="http://www.goodweb.net.cn/xj/" target=_blank>在线抄经</A></td>
+<td ><a href="http://www.fodu.cn/" target="_blank">佛都信息港</a></td>
+<td ><a href="http://www.baitasi.net/" target="_blank">白塔寺</a></td>
+</tr>
+<tr align="center">
+<td ><A href="http://pic.goodweb.net.cn/" target="_blank">心灵桌面</A></td>
+<td ><A href="http://read.goodweb.net.cn" target=_blank>显密文库</A></td>
+<td ><a href="http://www.goodweb.net.cn/" target="_blank">无量香光</a></td>
+<td ><a href="http://tianyan.goodweb.net.cn/" target="_blank">天眼网址</a></td>
+<td ><A href="http://boruo.goodweb.net.cn/" target=_blank>般若文海</A></td>
+<td ><a href="http://putizhixia.com/" target="_blank">菩提之夏</a></td>
+<td ><A href="http://www.fosss.org/" target="_blank">生死书</A></td>
+<td ><a href="http://www.wenshu123.cn/" target="_blank">文殊增慧</a></td>
+</tr>
+<tr align="center">
+<td ><A href="http://www.fotang.org.cn/" target="_blank">网上礼佛</A></td>
+<!-- <td ><a href="http://www.fjsyw.org/" target="_blank">寺院中心</a></td> -->
+<td ><A href="http://www.fo5.cn/" target="_blank">佛眼导航</A></td>
+<td><a href="http://buddha.goodweb.net.cn/music/" target="_blank">佛教音乐</a></td>
+<td ><a href="http://tushu.dangdaifojiao.com/" target="_blank">佛教图书</a></td>
+<td ><a href="http://www.fojiaocidian.cn/" target="_blank">佛教辞典</a></td>
+</tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"><style type="text/css">
+<!--
+.styleFF66 {color: #FF6600}
+.style1 {
+font-family: Verdana, Arial, Helvetica, sans-serif;
+font-size: 10px;
+color: #FF6600;
+}
+-->
+</style>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table>
+<table width="970"  border="0" align="center" cellpadding="9" cellspacing="1" bgcolor="#E6E2DB">
+<tr>
+<td width="980" height="49" bgcolor="#EAE2CE">      <table width="100%" height="72" border="0" cellpadding="0" cellspacing="1" bgcolor="#D8C6B4">
+<tr>
+<td colspan="8" bgcolor="#F4F2EA">              <table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table>
+<table width="97%" height="120"  border="0" align="center" cellpadding="5" cellspacing="0">
+<tr>
+<td width="79%" >
+
+ <!-- JiaThis Button BEGIN -->
+<div class="jiathis_style fenxiang">
+            <div class="bdsharebuttonbox"><a href="#" class="bds_more" data-cmd="more">分享到：</a><a href="#" class="bds_weixin" data-cmd="weixin" title="分享到微信">微信</a><a href="#" class="bds_qzone" data-cmd="qzone" title="分享到QQ空间">QQ空间</a><a href="#" class="bds_tsina" data-cmd="tsina" title="分享到新浪微博">新浪微博</a><a href="#" class="bds_tqq" data-cmd="tqq" title="分享到腾讯微博">腾讯微博</a><a href="#" class="bds_renren" data-cmd="renren" title="分享到人人网">人人网</a></div>
+            <script>
+            window._bd_share_config={"common":{"bdSnsKey":{},"bdText":"","bdMini":"2","bdMiniList":false,"bdPic":"","bdStyle":"0","bdSize":"16"},"share":{"bdSize":16}};with(document)0[(getElementsByTagName('head')[0]||body).appendChild(createElement('script')).src='http://bdimg.share.baidu.com/static/api/js/share.js?v=89860593.js?cdnversion='+~(-new Date()/36e5)];
+            </script>
+<!-- JiaThis Button END -->
+
+<br>
+<p class="styleFF66" style="font-weight: bold;">客服QQ：1280183689</p>
+<a href="http://read.goodweb.net.cn/">[显密文库·佛教文集]</a> 白玛若拙佛教文化传播工作室制作 <a href="http://goodweb.net.cn/" target="_blank">[无量香光·佛教世界]</a> 教育性、非赢利性、公益性的佛教文化传播<br>                     <A href="" target=_blank>[京ICP备16063509号-26 ]</A> goodweb.net.cn Copyrights Reserved 
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/1475655.js"></script>
+<noscript>
+<a href="http://www.51.la/?1475655" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/1475655.asp" style="border:none" /></a>
+</noscript>                     
+<script type="text/javascript">
+var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fcb5164db73b994e87955f6b19a640326' type='text/javascript'%3E%3C/script%3E"));
+</script>                    <br>
+如无意中侵犯您的权益或含有非法内容，请与我们联系。站长信箱:alanruochu_99@126.com<br>
+<span class="styleFF66">敬请诸位善心佛友在论坛、博客、facebook或其他地方转贴或相告本站网址或文章链接，功德无量。<br>
+</span>愿以此功德，消除宿现业，增长诸福慧，圆成胜善根，所有刀兵劫，及与饥馑等，悉皆尽消除，人各习礼让，一切出资者，<br>
+辗转流通者，现眷咸安宁，先亡获超升，风雨常调顺，人民悉康宁，法界诸含识，同证无上道。<br>      </td>
+<td width="1%">&nbsp;</td>
+<td width="20%" align="center">
+<div align="center">
+<select name="menu2" onChange="MM_jumpMenu('parent',this,0)">
+<option selected>佛教文化系列站点</option>
+<option value="http://art.goodweb.net.cn">佛教艺术欣赏</option>
+<option value="http://buddha.goodweb.net.cn/music/">佛教音乐-MP3下载</option>
+<option value="http://buddha.goodweb.net.cn/diamond/">金刚经专辑</option>
+<option value="http://sutra.goodweb.net.cn/">大藏经-在线阅读</option>
+<option value="http://boruo.goodweb.net.cn/">般若文海</option>
+<option value="http://www.chuanxi.com.cn/">传喜法师</option>
+<option value="http://foli.goodweb.net.cn/">佛教日历[佛历]</option>
+<option value="http://cishan.goodweb.net.cn/">慈善点击</option>
+<option value="http://vod.goodweb.net.cn/">佛海影音</option>
+<option value="http://slz.goodweb.net.cn/">万世佛香 佛骨舍利</option>
+<option value="http://read.goodweb.net.cn/">显密文库 佛教文集</option>
+<option value="http://tianyan.goodweb.net.cn/">天眼佛教网址大全</option>
+</select>
+<br>
+<br>
+<span class="style1">Nonprofit Website For Educational - Spread The Wisdom Of the Buddha & Buddhist Culture</span></div></td>
+</tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td></td>
+</tr>
+</table></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table width="50%"  border="0" align="center" cellpadding="0" cellspacing="0" height="8">
+<tr>
+<td>
+<div style="display:none;"><script type="text/javascript" src="https://s5.cnzz.com/z_stat.php?id=1277486652&web_id=1277486652"></script></div>
+</td>
+</tr>
+</table>
+<div style="display:none;">
+  <script type="text/javascript" src="https://s23.cnzz.com/z_stat.php?id=1277847011&web_id=1277847011"></script>
+  <script type="text/javascript" src="https://s96.cnzz.com/z_stat.php?id=1276828129&web_id=1276828129"></script>
+  <script type="text/javascript" src="https://s5.cnzz.com/z_stat.php?id=1277486652&web_id=1277486652"></script>
+</div>
+<script src="http://read.goodweb.net.cn/news/copyright.js"></script> 
+</body>
+</html>

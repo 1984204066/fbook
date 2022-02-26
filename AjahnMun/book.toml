@@ -1,0 +1,10 @@
+[book]
+title = "阿姜曼"
+authors = ["阿姜摩訶布瓦"]
+#language = "zh-CN"
+language = "zh"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "AjahnMun-book"

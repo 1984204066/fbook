@@ -1,0 +1,9 @@
+[book]
+title = "三十七道品导引手册"
+authors = ["雷迪西亚多"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "37road-book"

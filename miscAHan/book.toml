@@ -1,0 +1,16 @@
+[book]
+title = "杂阿含经.合集"
+authors = []
+language = "zh-CN"
+multilingual = false
+src = "src"
+no-section-label = true
+
+[build]
+build-dir = "miscAHan-book"
+# [output.epub]
+
+# [output.latex]
+# latex    = true  # default = true
+# pdf      = true  # default = false
+# markdown = true  # default = false

@@ -1,0 +1,10 @@
+[book]
+title ="阿罗汉向·阿罗汉果——趋向阿罗汉之道"
+authors = []
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "Arahant-book"
+

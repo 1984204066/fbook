@@ -1,0 +1,8 @@
+[book]
+title = "内观基础"
+authors = ["马哈希大师"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+[build]
+build-dir = "looking-inside-book"

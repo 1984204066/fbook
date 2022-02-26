@@ -1,0 +1,9 @@
+[book]
+title = "佛陀的女儿蒂帕麽"
+authors = []
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "daughter-book"

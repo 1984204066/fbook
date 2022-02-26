@@ -1,0 +1,5 @@
+* 第七讲
+#+DATE: 2022年2月9日
+#+include: "preamble-macro.org"
+{{{html-audio-tabs(media/edited/剪辑中文版第七堂清静道论广说戒20220209-1.mp3,media/raw/第七堂清静道论广说戒20220209-1.m4a,,,{{{date}}})}}}
+

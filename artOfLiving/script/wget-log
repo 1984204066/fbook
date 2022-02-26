@@ -1,0 +1,9 @@
+--2021-09-15 22:48:59--  https://res.wx.qq.com/voice/getvoice?mediaid=Mzk0MjE3MDYwMF8yMjQ3NDkwMzQ1
+已载入 CA 证书“/etc/ssl/certs/ca-certificates.crt”
+正在解析主机 res.wx.qq.com (res.wx.qq.com)... 123.6.33.59, 182.118.11.110, 123.6.2.236, ...
+正在连接 res.wx.qq.com (res.wx.qq.com)|123.6.33.59|:443... 已连接。
+已发出 HTTP 请求，正在等待回应... 200 OK
+长度：13357287 (13M) [audio/mp3]
+正在保存至: “12-0.mp3”
+
+12-0.mp3                      22%[========>                                   ]   2.87M  --.-KB/s  剩余 6m 22s  12-0.mp3                      22%[========>                                   ]   2.88M  8.00KB/s  剩余 6m 22s  12-0.mp3                      22%[=========>                                  ]   2.91M  16.4KB/s  剩余 6m 21s  12-0.mp3                      22%[=========>                                  ]   2.91M  11.0KB/s  剩余 6m 21s  12-0.mp3                      22%[=========>                                  ]   2.91M  8.30KB/s  剩余 6m 27s  

@@ -1,0 +1,9 @@
+[book]
+title ="生活的艺术"
+authors = ["葛印卡"]
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "artOfLiving-book"

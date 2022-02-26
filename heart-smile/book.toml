@@ -1,0 +1,16 @@
+[book]
+title = "心微笑了"
+authors = []
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "heart-smile-book"
+
+# [output.epub]
+
+#[output.latex]
+#latex    = true  # default = true
+#pdf      = true  # default = false
+#markdown = true  # default = false

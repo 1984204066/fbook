@@ -1,0 +1,9 @@
+[book]
+title = "美琪乔（一位阿罗汉尼修道证果之旅）"
+authors = []
+language = "zh"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "MaeChee.Kaew-book"

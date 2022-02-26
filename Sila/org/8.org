@@ -1,0 +1,3 @@
+#+DATE: 2022年2月10日
+#+include: "preamble-macro.org"
+{{{html-audio-tabs(media/edited/剪辑中文版第八堂清静道论广说戒20220210 (1).mp3,media/raw/第八堂清净道论广说戒20020210.m4a,,,{{{date}}})}}}

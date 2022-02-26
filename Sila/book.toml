@@ -1,0 +1,12 @@
+[book]
+authors = ["东达拉长老", "梭帕那尊者", "曾国兴居士译"]
+language = "zh"
+multilingual = false
+src = "src"
+title = "清淨道論·廣說戒"
+
+[build]
+build-dir = "Sila-book"
+
+[output.html]
+additional-css = ["wrap-tabs.css"]

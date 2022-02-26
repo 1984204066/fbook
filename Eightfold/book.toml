@@ -1,0 +1,9 @@
+[book]
+title = "八正道—趋向灭苦的道路"
+authors = []
+language = "zh-CN"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "Eightfold-book"

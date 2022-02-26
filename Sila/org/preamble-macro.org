@@ -1,0 +1,1 @@
+#+macro: html-audio-tabs (eval (shell-command-to-string (format "sed -e 's,edited_audio,%s,' -e 's,raw_audio,%s,' -e 's,docx_format,%s,' -e 's,pdf_format,%s,' -e 's,speak_date,%s,' template" $1 $2 $3 $4 $5)))
