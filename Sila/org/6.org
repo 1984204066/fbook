@@ -1,7 +1,10 @@
 * 第六讲
 #+DATE: 2022年2月8日
+#+macro: caudio 剪辑中文版第六堂 清淨道論廣說戒(1).mp3
+#+macro: raudio 第六堂清静道论广说戒20220208.m4a
+#+macro: DOCX 6清淨道論 廣說戒 20220208(1)(2).docx
 #+include: "preamble-macro.org"
-{{{html-audio-tabs(media/edited/剪辑中文版第六堂 清淨道論廣說戒(1).mp3,media/raw/第六堂清静道论广说戒20220208.m4a,./docx/6清淨道論 廣說戒 20220208(1)(2).docx,,{{{date}}})}}}
+{{{html-audio-tabs({{{caudio}}},{{{raudio}}},{{{docx}}},,{{{date}}})}}}
 
 ** 一、戒的种类（Sīlāppabheda）
 

@@ -1,0 +1,8 @@
+* 第九讲
+
+#+DATE: 2022年2月11日
+#+macro: caudio 剪辑中文版第九堂清静道论广说戒20220211.mp3
+#+macro: raudio 第九堂清静道论广说戒20220211.m4a
+#+macro: DOCX 
+#+include: "preamble-macro.org"
+{{{html-audio-tabs({{{caudio}}},{{{raudio}}},,,{{{date}}})}}}
