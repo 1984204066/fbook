@@ -4,3 +4,6 @@ sed 's|\[\*\*\(杂阿含经[^*]*\)\*\*\]{[^}]*}$|<p style="text-align: center;">
 
 sed 's|\[\*\*\([^*]*\)\*\*\]{[^}]*}$|<p style="text-align: center;"><span style="color: rgb(2, 30, 170);">\1</span></p>|' 1.md
 
+sed -i 's|^\*\*.\([^][}*]\).[^}]*\**$|<p style="text-align: center;"><span style="color: rgb(2, 30, 170);">\1</span></p>|' *
+
+sed -i 's/　/ /g' *
