@@ -1,0 +1,11 @@
+ .e2 {
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-around;
+ }
+ .e2 * {
+     display: flex;
+     align-content: center;
+     text-align: center;
+ }
