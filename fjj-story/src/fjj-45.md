@@ -72,7 +72,7 @@
  此种争论实痛苦<br>
  互击刀杖可伤汝</p> 
 </div>
-<img src="images/fjj-45-4.jpg" width="250" height="270" alt=""/>
+<img src="images/fjj-45-4.jpg" width="250" height="270" alt="比丘毗达那 争辩带来伤害"/>
 </div>
 
 <div class="e2">
@@ -83,7 +83,7 @@
  此人已达涅槃境<br>
  互相争论不存在</p> 
 </div>
-<img src="images/fjj-45-5.jpg" width="250" height="268" alt=""/>
+<img src="images/fjj-45-5.jpg" width="250" height="268" alt="比丘毗达那 争辩带来伤害"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到比丘毗达那。

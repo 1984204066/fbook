@@ -57,7 +57,7 @@
  不长智慧<br>
  </p> 
 </div>
-<img src="images/fjj-50-3.jpg" width="245" height="267" alt=""/>
+<img src="images/fjj-50-3.jpg" width="245" height="267" alt="卡鲁达伊比丘 愚痴只长肌肉不长智慧"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到卡鲁达伊比丘。

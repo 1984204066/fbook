@@ -35,7 +35,7 @@
  被死王捉去<br>
  无人能救助
 </div>
-<img src="images/fjj-78-2.jpg" width="300" height="321" alt="迅速清除通往涅槃的荆棘"/>
+<img src="images/fjj-78-2.jpg" width="300" height="321" alt="死亡带走一切 执著者终被死亡带走"/>
 </div>
 
 <div class="e2">
@@ -46,7 +46,7 @@
  通达涅槃路<br>
  迅速令清净
 </div>
-<img src="images/fjj-78-3.jpg" width="300" height="325" alt="迅速清除通往涅槃的荆棘"/>
+<img src="images/fjj-78-3.jpg" width="300" height="325" alt="死亡带走一切 执著者终被死亡带走"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到富家女波她卡娜。

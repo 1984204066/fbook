@@ -64,7 +64,7 @@
  正觉佛弟子<br>
  决心止贪欲</p> 
 </div>
-<img src="images/fjj-60-5.jpg" width="230" height="248" alt=""/>
+<img src="images/fjj-60-5.jpg" width="230" height="248" alt="不知足的比丘 欲望带来苦恼"/>
 </div>
 
 人的天福享尽仍要老死堕落，仍是不究竟。真正的佛弟子不但不追求人世间的欲乐，也不追求天界的欲乐。

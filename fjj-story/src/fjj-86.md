@@ -10,7 +10,7 @@
  命终积善是乐事<br>
  离一切苦是乐事
 </div>
-<img src="images/fjj-86-1.jpg" width="300" height="317" alt=""/>
+<img src="images/fjj-86-1.jpg" width="300" height="317" alt="宁可独处 无善者为伴宁可独处（2）"/>
 </div>
 
 <div class="e2">
@@ -21,7 +21,7 @@
  敬重沙门是乐事<br>
  敬重圣人是乐事
 </div>
-<img src="images/fjj-86-2.jpg" width="300" height="328" alt=""/>
+<img src="images/fjj-86-2.jpg" width="300" height="328" alt="宁可独处 无善者为伴宁可独处（2）"/>
 </div>
 
 <div class="e2">
@@ -32,7 +32,7 @@
  获得智慧是乐事<br>
  不作诸恶是乐事
 </div>
-<img src="images/fjj-86-3.jpg" width="300" height="328" alt=""/>
+<img src="images/fjj-86-3.jpg" width="300" height="328" alt="宁可独处 无善者为伴宁可独处（2）"/>
 </div>
 
 佛陀居住在北部喜玛拉雅国的树林时，发现国王经常欺压百姓。佛陀想使国王公平仁慈地善待子民。这时，魔王波旬怂恿佛陀自立为王。

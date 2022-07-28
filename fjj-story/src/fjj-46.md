@@ -61,7 +61,7 @@
  他将得一种<br>
  </p> 
 </div>
-<img src="images/fjj-46-3.jpg" width="250" height="277" alt=""/>
+<img src="images/fjj-46-3.jpg" width="250" height="277" alt="伤害无辜受十种苦难 ①"/>
 </div>
 
 <div class="e2">
@@ -72,7 +72,7 @@
  或严重疾病<br>
  或失心狂乱</p> 
 </div>
-<img src="images/fjj-46-4.jpg" width="250" height="270" alt=""/>
+<img src="images/fjj-46-4.jpg" width="250" height="270" alt="伤害无辜受十种苦难 ①"/>
 </div>
 
 佛陀在祇树给孤独园时，有一次提到摩诃目犍连尊者的惨死。

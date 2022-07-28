@@ -63,7 +63,7 @@
  实为极难行<br>
  </p> 
 </div>
-<img src="images/fjj-53-3.jpg" width="245" height="263" alt=""/>
+<img src="images/fjj-53-3.jpg" width="245" height="263" alt="使僧团分裂的提婆达多 恶行易做善事难为(1)"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到使僧团分裂的比丘提婆达多。

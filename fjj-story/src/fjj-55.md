@@ -1,7 +1,7 @@
 第十三品 世品 毗舍佉的孙女和小沙弥 不培养世俗邪念
 
 <div class="e2">
-<img src="images/fjj-55-1.jpg" width="245" height="265" alt=""/>
+<img src="images/fjj-55-1.jpg" width="245" height="265" alt="毗舍佉的孙女和小沙弥 不培养世俗邪念"/>
 <div>
 13～1<br>
  不培养败德<br>

@@ -188,13 +188,21 @@ function handleStory($: CheerioAPI, elem: BasicAcceptedElems<AnyNode>): string {
 }
 
 function saveLastWords(words: string) {
-    const re = /^\S+\s*\S+\s*$/;
+    const re = /\S+?\s+?\S+?$/;
+    let last = words.trim().replace(/\s+$/m, "").split('\n', -1).slice(-1)[0];
+    // console.error("----------")
+    // console.error(last);
+    // console.error("^^^^^^^^^^")
     // const last = re.test(words);
-    let last = words.match(re)?.[0];
-    last = (last === undefined ? "":last);
-    last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
+    const lw = last.match(re)?.[0];
+    last = lw === undefined ? "":lw;
+    // console.error(last.match(re));
+    if (last.length > 0) {
+	last_word = last;
+    }
+    // last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
     // console.error(`${last_word.length} -- ${last_word}`);
-    if (last_word.length > 24) { // too long
+    if (last_word.length > 26) { // too long
 	last_word = "";
     }
 }

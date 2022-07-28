@@ -82,7 +82,7 @@
  唯有佛陀的慧光<br>
  能在昼夜中辉照
 </div>
-<img src="images/fjj-95-5.jpg" width="300" height="321" alt=""/>
+<img src="images/fjj-95-5.jpg" width="300" height="321" alt="佛陀慧光昼夜普照 (1)"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿难尊者。

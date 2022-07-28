@@ -65,7 +65,7 @@
  获他人助太难<br>
  </p> 
 </div>
-<img src="images/fjj-52-3.jpg" width="245" height="266" alt=""/>
+<img src="images/fjj-52-3.jpg" width="245" height="266" alt="童真迦叶的母亲 自己拯救自己(1)"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到童真迦叶的母亲。

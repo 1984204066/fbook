@@ -79,7 +79,7 @@
  何不寻光明<br>
  </p> 
 </div>
-<img src="images/fjj-48-4.jpg" width="250" height="272" alt=""/>
+<img src="images/fjj-48-4.jpg" width="250" height="272" alt="女人饮酒 贪瞋痴如火焰燃烧"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到毗舍佉和一些女众。

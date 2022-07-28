@@ -57,7 +57,7 @@
  谁还有欲望<br>
  </p> 
 </div>
-<img src="images/fjj-49-3.jpg" width="244" height="273" alt=""/>
+<img src="images/fjj-49-3.jpg" width="244" height="273" alt="高估自己的僧人 观骸骨无欲望"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群高估自己的僧人。

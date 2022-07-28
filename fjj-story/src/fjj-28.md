@@ -9,7 +9,7 @@
 车匿尊者 与贤者为伍
 
 <div class="e2">
-<img src="images/fjj-28-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt=""/>
+<img src="images/fjj-28-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt="车匿尊者 与贤者为伍"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～3<br>
  莫与恶交友<br>

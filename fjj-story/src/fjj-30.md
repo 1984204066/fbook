@@ -11,7 +11,7 @@
 享受欲望的人 智者不为得失心动
 
 <div class="e2">
-<img src="images/fjj-30-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt=""/>
+<img src="images/fjj-30-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt="享受欲望的人 智者不为得失心动"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～8<br>
  善人离诸欲<br>

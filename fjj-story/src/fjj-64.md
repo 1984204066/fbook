@@ -24,7 +24,7 @@
  弃善趋爱欲<br>
  妒羡自勉者
 </div>
-<img src="images/fjj-64-6.jpg" width="230" height="250" alt=""/>
+<img src="images/fjj-64-6.jpg" width="230" height="250" alt="一家三口 放弃情爱的执著"/>
 </div>
 
 <div class="e2">
@@ -35,7 +35,7 @@
  不见亲爱苦<br>
  见不爱也苦
 </div>
-<img src="images/fjj-64-2.jpg" width="230" height="248" alt=""/>
+<img src="images/fjj-64-2.jpg" width="230" height="248" alt="一家三口 放弃情爱的执著"/>
 </div>
 
 <div class="e2">
@@ -46,7 +46,7 @@
  若无爱与憎<br>
  不见秽系缚
 </div>
-<img src="images/fjj-64-3.jpg" width="230" height="248" alt=""/>
+<img src="images/fjj-64-3.jpg" width="230" height="248" alt="一家三口 放弃情爱的执著"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到住在舍卫城的一个家庭：父亲、母亲和儿子三个人。这个独子深受父母钟爱，没有得到父母同意就出家为比丘。父母因为深爱这个宝贝儿子，也跟着出家。三人出家后，亲情依旧，住同一精舍，一起吃饭，一起聊天，走到那里都分不开。佛陀告诫他们：“一旦出家就不可以像在家一样整天生活在一起。在这世间，不见亲人苦，要义务去照顾那些非亲非故也是苦，爱别离、怨憎会都是苦。身为僧人不应有亲疏心念，感情的执著会影响修行。”

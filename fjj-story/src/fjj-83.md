@@ -44,7 +44,7 @@
  持此邪见者<br>
  将堕入恶道
 </div>
-<img src="images/fjj-83-3.jpg" width="300" height="318" alt=""/>
+<img src="images/fjj-83-3.jpg" width="300" height="318" alt="比丘自求多福 时刻防卫自己的心"/>
 </div>
 
 <div class="e2">
@@ -55,7 +55,7 @@
  持此邪见者<br>
  将堕入恶道
 </div>
-<img src="images/fjj-83-4.jpg" width="300" height="319" alt=""/>
+<img src="images/fjj-83-4.jpg" width="300" height="319" alt="比丘自求多福 时刻防卫自己的心"/>
 </div>
 
 观念错误的外道 不知羞耻怖畏堕恶道

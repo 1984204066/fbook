@@ -55,7 +55,7 @@
  喜乐中法喜最胜<br>
  除爱欲灭一切苦
 </div>
-<img src="images/fjj-89-4.jpg" width="300" height="318" alt=""/>
+<img src="images/fjj-89-4.jpg" width="300" height="318" alt="佛度有缘人 佛陀无师自证"/>
 </div>
 
 佛法最殊胜 佛法除爱欲灭一切苦
@@ -74,7 +74,7 @@
  愚痴者贪恋财富<br>
  毁灭自己和他人
 </div>
-<img src="images/fjj-89-5.jpg" width="300" height="320" alt=""/>
+<img src="images/fjj-89-5.jpg" width="300" height="320" alt="佛法最殊胜 佛法除爱欲灭一切苦"/>
 </div>
 
 吝啬枉生为人 贪恋财富毁人毁己（1）

@@ -45,7 +45,7 @@
  古时与未来<br>
  及现在未见
 </div>
-<img src="images/fjj-68-3.jpg" width="230" height="248" alt=""/>
+<img src="images/fjj-68-3.jpg" width="230" height="248" alt="在家弟子阿拘拉 人人皆有毁誉"/>
 </div>
 
 <div class="e2">
@@ -56,7 +56,7 @@
  智慧戒行兼具<br>
  此为智者称赞
 </div>
-<img src="images/fjj-68-4.jpg" width="230" height="245" alt=""/>
+<img src="images/fjj-68-4.jpg" width="230" height="245" alt="在家弟子阿拘拉 人人皆有毁誉"/>
 </div>
 
 <div class="e2">
@@ -67,7 +67,7 @@
  天人也赞誉<br>
  梵行者赞誉
 </div>
-<img src="images/fjj-68-5.jpg" width="230" height="244" alt=""/>
+<img src="images/fjj-68-5.jpg" width="230" height="244" alt="在家弟子阿拘拉 人人皆有毁誉"/>
 </div>
 
 佛陀回答说：“阿拘拉啊！从古至今，那些沉默者、多话者、少话者都被毁谤，没有人不被毁谤的。土地，太阳，月亮，甚至佛陀，虽然有人称赞，也有人毁谤。被那些心胸狭窄的愚者称赞和毁谤都不重要，重要的是智者的谴责才是真正的谴责，智者的称赞才是真正的称赞。”

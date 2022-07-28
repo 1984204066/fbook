@@ -1,7 +1,7 @@
 第三品 心品
 
 <div class="e2">
-<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right" alt=""/>
+<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right" alt="第三品 心品"/>
 <div>
 <p>&nbsp;</p> <p>&nbsp;</p> <p>3～2<br>
  如捞水中鱼<br>

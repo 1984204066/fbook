@@ -23,7 +23,7 @@
  不明正法愚痴者<br>
  生死轮回路漫长</p>
 </div>
-<img src="images/fjj-21-3.gif" width="250" height="275" hspace="10" vspace="10" alt=""/>
+<img src="images/fjj-21-3.gif" width="250" height="275" hspace="10" vspace="10" alt="愚痴者生死轮回之路漫长 ①"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到舍卫国的国王波斯匿王。
