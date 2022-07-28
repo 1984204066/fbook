@@ -69,8 +69,7 @@ if (fs.existsSync(fname)) {
     // console.log($(content_tbl).toArray().length);
     const td = handleTD($, main_td); // 如果用了replaceWith，main_td会失效，返回空。
     // const td = handleTbl($, content_tbl); // 3 elements Table,Poem-Img,Story
-    console.log(td);
-    // console.log(td.trim());
+    console.log(td.trim());
 }
 
 function handleTD($: CheerioAPI, td: BasicAcceptedElems<AnyNode>): string {
@@ -117,6 +116,7 @@ function handlePoemImgRow(
 ): string {
     if ($(tr).find("img").length <= 0) {
 	console.error("should have img, but noooooooo!")
+	console.error($(tr).html());
 	return "";
     }
     // console.log($(tr).html());
@@ -146,11 +146,17 @@ function handleImgPoem(
     } else {
         // poem
         // const p = stripFont3($(elem).html());
-        const p = stripFont($(elem).html());
-        // const p = $(elem).html();
-        if (p !== null) {
-            img_poem += "<div>\n" + p.replace(/　/g, "") + "</div>\n"; //重复多次替换
-        }
+        let p = stripFont($(elem).html()).trim();
+	p = p.replace(/　+/g, "").replace(/\s+/g, " ").replace(/<br>/g, "<br>\n");
+	const $2 = load(p);
+	const div = $2('div').html();
+	console.error(div);
+	p = (div === null? p : div);
+	// console.error($2.root().html());
+	// if ($2('div').toArray().length > 0) {
+	//     console.error("root is div")
+	// }
+        img_poem += "<div>\n" + p + "\n</div>\n"; //重复多次替换
     }
     return img_poem;
 }
@@ -178,7 +184,7 @@ function handleStory($: CheerioAPI, elem: BasicAcceptedElems<AnyNode>): string {
 
 function handleLine(text: string) {
     let line = text.replace(/法句经要义|陈燕珠编述/g, "").trim();
-    line = line.replace(/　/g, "") + "\n\n";
+    line = line.replace(/　/g, "").replace(/\s+/g, " ").trim() + "\n\n";
     // console.error(line);
     return line;
 }
