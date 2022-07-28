@@ -3,7 +3,7 @@
 屠夫纯陀 自食恶果
 
 <div class="e2">
-<img src="images/fjj-06-1.jpg" width="170" height="191" align="right"/>
+<img src="images/fjj-06-1.jpg" width="170" height="191" align="right" alt="屠夫纯陀 自食恶果"/>
 <div>
 <p>&nbsp;</p> <p>1～15 <br>
  今世悲伤来世悲伤<br>
@@ -24,7 +24,7 @@
 在家弟子昙弥 自食善果
 
 <div class="e2">
-<img src="images/fjj-06-2.jpg" width="170" height="184" align="right"/>
+<img src="images/fjj-06-2.jpg" width="170" height="184" align="right" alt="在家弟子昙弥 自食善果"/>
 <div>
 <br>
  <p> 1～16<br>
@@ -48,7 +48,7 @@
 恶徒提婆达多 恶行受折磨
 
 <div class="e2">
-<img src="images/fjj-06-3.jpg" width="170" height="182" align="right"/>
+<img src="images/fjj-06-3.jpg" width="170" height="182" align="right" alt="恶徒提婆达多 恶行受折磨"/>
 <div>
 <p>&nbsp;</p> <p>1～17 <br>
  今世忏悔来世忏悔<br>

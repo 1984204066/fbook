@@ -12,7 +12,7 @@
  盗窃不应取<br>
  淫犯他人妻
 </div>
-<img src="images/fjj-71-1.jpg" width="230" height="239"/>
+<img src="images/fjj-71-1.jpg" width="230" height="239" alt="守戒不易 不再沉迷恶行"/>
 </div>
 
 <div class="e2">
@@ -23,7 +23,7 @@
  于此世间中<br>
  毁掘自善根
 </div>
-<img src="images/fjj-71-2.jpg" width="230" height="251"/>
+<img src="images/fjj-71-2.jpg" width="230" height="251" alt="守戒不易 不再沉迷恶行"/>
 </div>
 
 <div class="e2">
@@ -34,7 +34,7 @@
  切莫贪非法<br>
  自受长期苦
 </div>
-<img src="images/fjj-71-3.jpg" width="230" height="249"/>
+<img src="images/fjj-71-3.jpg" width="230" height="249" alt="守戒不易 不再沉迷恶行"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到他的一些守五戒的弟子。
@@ -53,7 +53,7 @@
  将于昼与夜<br>
  不得入三昧
 </div>
-<img src="images/fjj-71-4.jpg" width="230" height="245"/>
+<img src="images/fjj-71-4.jpg" width="230" height="245" alt="提沙比丘 嫉妒挑剔心不平静"/>
 </div>
 
 <div class="e2">
@@ -64,7 +64,7 @@
  将于昼与夜<br>
  获得真三昧
 </div>
-<img src="images/fjj-71-5.jpg" width="230" height="248"/>
+<img src="images/fjj-71-5.jpg" width="230" height="248" alt="提沙比丘 嫉妒挑剔心不平静"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到提沙比丘。
@@ -81,7 +81,7 @@
  无罗网如愚痴<br>
  无河流如爱欲
 </div>
-<img src="images/fjj-71-6.jpg" width="230" height="256"/>
+<img src="images/fjj-71-6.jpg" width="230" height="256" alt="五位在家信徒 贪欲如瀑流"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到五位在家信徒的习性。

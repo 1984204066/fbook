@@ -1,7 +1,7 @@
 舍利弗尊者 阿罗汉不再造业
 
 <div class="e2">
-<img src="images/fjj-34-1.jpg" width="250" height="266"/>
+<img src="images/fjj-34-1.jpg" width="250" height="266" alt="舍利弗尊者 阿罗汉不再造业"/>
 <div>
  <p class="p13-5">7～8<br>
  无错信知无为<br>
@@ -24,7 +24,7 @@
 舍利弗的幼弟 阿罗汉居止处一切安乐
 
 <div class="e2">
-<img src="images/fjj-34-2.jpg" width="250" height="265"/>
+<img src="images/fjj-34-2.jpg" width="250" height="265" alt="舍利弗的幼弟 阿罗汉居止处一切安乐"/>
 <div>
  <p class="p13-5">7～9<br>
  无论村落或林间<br>
@@ -50,7 +50,7 @@
  无欲者离欲<br>
  不求诸欲乐</p> 
 </div>
-<img src="images/fjj-34-3.jpg" width="250" height="269"/>
+<img src="images/fjj-34-3.jpg" width="250" height="269" alt="诱惑比丘的女人 阿罗汉无欲寂静"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位妇女。

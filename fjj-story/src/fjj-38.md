@@ -1,7 +1,7 @@
 沙弥沙其卡 戒定活一日胜无戒定活百年
 
 <div class="e2">
-<img src="images/fjj-38-2.jpg" width="250" height="265"/>
+<img src="images/fjj-38-2.jpg" width="250" height="265" alt="沙弥沙其卡 戒定活一日胜无戒定活百年"/>
 <div>
  <p class="p13-5">8～11<br>
  若人活百岁<br>
@@ -25,7 +25,7 @@
  不如活一日<br>
  具慧修禅定</p> 
 </div>
-<img src="images/fjj-38-1.jpg" width="250" height="281"/>
+<img src="images/fjj-38-1.jpg" width="250" height="281" alt="哥达那尊者 定慧活一日胜无定慧活百年"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到哥达那尊者。
@@ -37,7 +37,7 @@
 沙帕达沙尊者 精进活一日胜怠惰活百年
 
 <div class="e2">
-<img src="images/fjj-38-3.jpg" width="250" height="272"/>
+<img src="images/fjj-38-3.jpg" width="250" height="272" alt="沙帕达沙尊者 精进活一日胜怠惰活百年"/>
 <div>
  <p class="p13-5">8～13<br>
  若人活百岁<br>

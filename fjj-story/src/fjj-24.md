@@ -1,7 +1,7 @@
 麻风病者苏帕布达 造恶业是自己的敌人
 
 <div class="e2">
-<img src="images/fjj-24-1.gif" width="250" height="269" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-24-1.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt="麻风病者苏帕布达 造恶业是自己的敌人"/>
 <div>
 <p>&nbsp;</p> <p></p> <p> ５～7<span class="font9copy9"><strong> </strong></span>愚者无智慧<br>
  对己如仇敌<br>
@@ -25,7 +25,7 @@
  <strong><span class="font9copy9"><strong> </strong></span></strong>泪流哭泣<br>
  <strong><span class="font9copy9"><strong> </strong></span></strong>接受苦果
 </div>
-<img src="images/fjj-24-2.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-24-2.gif" width="250" height="267" hspace="10" vspace="10" alt="农人贪财 财物是毒蛇"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位愚痴的农夫。有一天，几个小偷在田里分赃，离开时不小心留下一袋子的钱。佛陀与阿难尊者正巧经过此地，农人看见佛陀，向佛陀问讯后继续工作。佛陀发现那袋钱，向阿难尊者说：“阿难！看那只毒蛇！”阿难也回答：“世尊！是只毒蛇！”两人离开后，农夫赶快跑来一看，只见一袋子的钱，就偷偷藏了起来。这时，被抢钱的人一路追捕小偷来到田里，顺着农夫的脚印找到农夫和钱，农夫被国王判了死刑。
@@ -37,7 +37,7 @@
 花匠须玛那 虔诚的心带来善报
 
 <div class="e2">
-<img src="images/fjj-24-3.gif" width="250" height="269" hspace="10" vspace="10"/>
+<img src="images/fjj-24-3.gif" width="250" height="269" hspace="10" vspace="10" alt="花匠须玛那 虔诚的心带来善报"/>
 <div>
 ５～9造作善业<br>
  <strong><span class="font9copy9"><strong> </strong></span></strong>不会后悔<br>

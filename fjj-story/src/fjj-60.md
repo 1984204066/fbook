@@ -8,7 +8,7 @@
  自净其意<br>
  是诸佛教
 </div>
-<img src="images/fjj-60-1.jpg" width="230" height="248"/>
+<img src="images/fjj-60-1.jpg" width="230" height="248" alt="阿难尊者的问题 诸佛的教诲"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  害他实非出家人<br>
  烦恼他人非沙门
 </div>
-<img src="images/fjj-60-2.jpg" width="230" height="246"/>
+<img src="images/fjj-60-2.jpg" width="230" height="246" alt="阿难尊者的问题 诸佛的教诲"/>
 </div>
 
 <div class="e2">
@@ -32,7 +32,7 @@
  精进锻炼净心<br>
  是诸佛所教诲
 </div>
-<img src="images/fjj-60-3.jpg" width="230" height="246"/>
+<img src="images/fjj-60-3.jpg" width="230" height="246" alt="阿难尊者的问题 诸佛的教诲"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿难尊者。
@@ -51,7 +51,7 @@
  智者知淫欲<br>
  乐少而苦多</p> 
 </div>
-<img src="images/fjj-60-4.jpg" width="230" height="252"/>
+<img src="images/fjj-60-4.jpg" width="230" height="252" alt="不知足的比丘 欲望带来苦恼"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位不知足的比丘。这位比丘出家后，得知父亲过逝留给他一笔财产，他开始厌烦出家的清苦，无心念经也无心禅定，一心想还俗。佛陀知道此事，找他来说：“你父亲留下来的财产够你买这买那，做这做那，却不够你买更多的东西，做更多的事情。人的心永远不会满足的，就像那宇宙主宰的天王，挥手便能从天上掉下珠宝掩及腰部，却仍然无法满足他的欲望，他仍然要衰老死亡，努力精进寻求解脱才是最重要的事。”年轻比丘真的听佛劝诫，继续留在僧伽中，安心修行。
@@ -64,7 +64,7 @@
  正觉佛弟子<br>
  决心止贪欲</p> 
 </div>
-<img src="images/fjj-60-5.jpg" width="230" height="248"/>
+<img src="images/fjj-60-5.jpg" width="230" height="248" alt=""/>
 </div>
 
 人的天福享尽仍要老死堕落，仍是不究竟。真正的佛弟子不但不追求人世间的欲乐，也不追求天界的欲乐。
@@ -79,7 +79,7 @@
  森林和花苑<br>
  树木和祠庙</p> 
 </div>
-<img src="images/fjj-60-6.jpg" width="230" height="241"/>
+<img src="images/fjj-60-6.jpg" width="230" height="241" alt="婆罗门阿基达 皈依佛法僧三宝（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到婆罗门阿基达。

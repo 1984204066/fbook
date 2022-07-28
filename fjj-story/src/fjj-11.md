@@ -3,7 +3,7 @@
 帝释玛卡 正念不放逸成为天王之王
 
 <div class="e2">
-<img src="images/fjj-11-1.jpg" width="250" height="274" align="right"/>
+<img src="images/fjj-11-1.jpg" width="250" height="274" align="right" alt="帝释玛卡 正念不放逸成为天王之王"/>
 <div>
 <p>&nbsp;</p> <p>&nbsp;</p> <p>2～10<br>
  玛卡正念不放逸<br>
@@ -27,7 +27,7 @@
  犹如猛火炎炎<br>
  烧尽大小束缚</p>
 </div>
-<img src="images/fjj-11-2.jpg" width="250" height="276"/>
+<img src="images/fjj-11-2.jpg" width="250" height="276" alt="某个比丘 精进如猛火烧毁诸束缚"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到某个比丘。
@@ -48,7 +48,7 @@
  必定不易堕落<br>
  他已趋近涅槃</p>
 </div>
-<img src="images/fjj-11-3.jpg" width="250" height="267"/>
+<img src="images/fjj-11-3.jpg" width="250" height="267" alt="尼加玛西提舍尊者 不放逸修行趋近涅槃"/>
 </div>
 
 佛陀居住在舍卫城祇树给孤独园时，有一次提到尼加玛西提舍尊者。尼加玛西提舍生长在舍卫城附近的一个小村庄，随佛出家后，生活简朴，化缘时就到原来亲友居住的村里随缘接受布施。他避免参加大型的仪式庆典，甚至给孤独长者或波斯匿王举办的大型布施也未曾参加。其他比丘向佛陀报告这件事，佛陀召唤他来，请他自己解释原因。他说他常回故乡只是为了化缘，不是与亲属密切交往，一旦有了足够的食物，不管可口与否，他就离去。

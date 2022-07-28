@@ -8,7 +8,7 @@
  做诸善业胜<br>
  做善不受苦
 </div>
-<img src="images/fjj-83-1.jpg" width="300" height="323"/>
+<img src="images/fjj-83-1.jpg" width="300" height="323" alt="善妒的女人 恶业使人后悔"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位善妒的女人。舍卫城有一对夫妇，这位太太发现丈夫与女仆私通时，非常气愤，她割下女仆的耳朵和鼻子，将女仆关进柴房，之后，还若无其事地陪着丈夫到祇树给孤独园。他们出发后不久，女仆的哥哥发现女仆的惨状，急救后也把女仆带到祇树给孤独园，让佛陀及大众目睹这位女主人的狠毒。
@@ -27,7 +27,7 @@
  刹那疏忽者<br>
  重生在地狱
 </div>
-<img src="images/fjj-83-2.jpg" width="300" height="322"/>
+<img src="images/fjj-83-2.jpg" width="300" height="322" alt="比丘自求多福 时刻防卫自己的心"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群在边境村落结夏安居的比丘。
@@ -44,7 +44,7 @@
  持此邪见者<br>
  将堕入恶道
 </div>
-<img src="images/fjj-83-3.jpg" width="300" height="318"/>
+<img src="images/fjj-83-3.jpg" width="300" height="318" alt=""/>
 </div>
 
 <div class="e2">
@@ -55,7 +55,7 @@
  持此邪见者<br>
  将堕入恶道
 </div>
-<img src="images/fjj-83-4.jpg" width="300" height="319"/>
+<img src="images/fjj-83-4.jpg" width="300" height="319" alt=""/>
 </div>
 
 观念错误的外道 不知羞耻怖畏堕恶道
@@ -74,7 +74,7 @@
  持此邪见者<br>
  将堕入恶道
 </div>
-<img src="images/fjj-83-5.jpg" width="300" height="319"/>
+<img src="images/fjj-83-5.jpg" width="300" height="319" alt="外道的信徒 明辨邪与正（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到外道的信徒。

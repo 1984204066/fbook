@@ -3,8 +3,8 @@
 猎象人和比丘提婆达多 没有资格穿袈裟
 
 <div class="e2">
-<img src="images/fjj-04-1.jpg" width="160" height="180"/>
-<img src="images/fjj-04-2.jpg" width="160" height="180"/>
+<img src="images/fjj-04-1.jpg" width="160" height="180" alt="猎象人和比丘提婆达多 没有资格穿袈裟"/>
+<img src="images/fjj-04-2.jpg" width="160" height="180" alt="猎象人和比丘提婆达多 没有资格穿袈裟"/>
 <div>
 <p><br>
  1－9<br>
@@ -36,7 +36,7 @@
 舍利弗尊者 发展心智领悟真理 ①
 
 <div class="e2">
-<img src="images/fjj-04-3.jpg" width="160" height="180"/>
+<img src="images/fjj-04-3.jpg" width="160" height="180" alt=""/>
 <div>
 <p><br>
  1-11<br>
@@ -48,7 +48,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-04-4.jpg" width="160" height="180"/>
+<img src="images/fjj-04-4.jpg" width="160" height="180" alt=""/>
 <div>
 <p><br>
  1－12<br>

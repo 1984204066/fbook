@@ -3,7 +3,7 @@
 长者幼女苏摩那代葳 善行得喜悦
 
 <div class="e2">
-<img src="images/fjj-07-1.jpg" width="200" height="214" align="right"/>
+<img src="images/fjj-07-1.jpg" width="200" height="214" align="right" alt="长者幼女苏摩那代葳 善行得喜悦"/>
 <div>
 <p>&nbsp;</p> <p>1～18<br>
  今世喜悦来世喜悦 <br>
@@ -24,7 +24,7 @@
 不同的修行 依教奉行胜于熟读经藏
 
 <div class="e2">
-<img src="images/fjj-07-2.jpg" width="200" height="217" align="right"/>
+<img src="images/fjj-07-2.jpg" width="200" height="217" align="right" alt="不同的修行 依教奉行胜于熟读经藏"/>
 <div>
 <br>
  <p> 1～19<br>
@@ -36,7 +36,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-07-3.jpg" width="200" height="210" align="right"/>
+<img src="images/fjj-07-3.jpg" width="200" height="210" align="right" alt="不同的修行 依教奉行胜于熟读经藏"/>
 <div>
 <p>&nbsp;</p> <p> 1～20<br>
  不常诵经文 <br>

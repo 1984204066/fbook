@@ -1,7 +1,7 @@
 斋戒的妇女 老死驱逐生命
 
 <div class="e2">
-<img src="images/fjj-46-1.jpg" width="250" height="269"/>
+<img src="images/fjj-46-1.jpg" width="250" height="269" alt="斋戒的妇女 老死驱逐生命"/>
 <div>
 10～7<br>
  如牧人以杖<br>
@@ -35,7 +35,7 @@
  如火烧受焚苦<br>
  </p> 
 </div>
-<img src="images/fjj-46-2.jpg" width="250" height="266"/>
+<img src="images/fjj-46-2.jpg" width="250" height="266" alt="人面蛇身恶鬼 造恶业如火焚烧自己"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一只人面蛇身的饿鬼。
@@ -61,7 +61,7 @@
  他将得一种<br>
  </p> 
 </div>
-<img src="images/fjj-46-3.jpg" width="250" height="277"/>
+<img src="images/fjj-46-3.jpg" width="250" height="277" alt=""/>
 </div>
 
 <div class="e2">
@@ -72,7 +72,7 @@
  或严重疾病<br>
  或失心狂乱</p> 
 </div>
-<img src="images/fjj-46-4.jpg" width="250" height="270"/>
+<img src="images/fjj-46-4.jpg" width="250" height="270" alt=""/>
 </div>
 
 佛陀在祇树给孤独园时，有一次提到摩诃目犍连尊者的惨死。

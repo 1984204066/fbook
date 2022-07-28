@@ -5,7 +5,7 @@
 优波难陀尊者 智者珍惜个人的净化
 
 <div class="e2">
-<img src="images/fjj-52-1.jpg" width="245" height="269"/>
+<img src="images/fjj-52-1.jpg" width="245" height="269" alt="优波难陀尊者 智者珍惜个人的净化"/>
 <div>
 12～2<br>
  先建立自己<br>
@@ -37,7 +37,7 @@
  自律能律他<br>
  律己实最难</p> 
 </div>
-<img src="images/fjj-52-2.jpg" width="245" height="263"/>
+<img src="images/fjj-52-2.jpg" width="245" height="263" alt="巴达卡提沙尊者 克己后再调伏他人"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到巴达卡提沙尊者。
@@ -65,7 +65,7 @@
  获他人助太难<br>
  </p> 
 </div>
-<img src="images/fjj-52-3.jpg" width="245" height="266"/>
+<img src="images/fjj-52-3.jpg" width="245" height="266" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到童真迦叶的母亲。

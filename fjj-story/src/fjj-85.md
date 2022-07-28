@@ -8,7 +8,7 @@
  捕捉后不思饮食<br>
  思念林中的亲族
 </div>
-<img src="images/fjj-85-1.jpg" width="300" height="318"/>
+<img src="images/fjj-85-1.jpg" width="300" height="318" alt="四个不孝子 被捕的大象思念亲族"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一位老婆罗门。
@@ -33,7 +33,7 @@
  好像大肥猪<br>
  不断重复生
 </div>
-<img src="images/fjj-85-2.jpg" width="300" height="315"/>
+<img src="images/fjj-85-2.jpg" width="300" height="315" alt="波斯匿王饮食过量 怠惰暴食如大肥猪"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到憍萨罗国王波斯匿王。
@@ -50,7 +50,7 @@
  自救出污秽<br>
  如象出泥沼
 </div>
-<img src="images/fjj-85-4.jpg" width="300" height="314"/>
+<img src="images/fjj-85-4.jpg" width="300" height="314" alt="大象陷泥沼 自救出污秽"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一只大象帕维亚卡。
@@ -69,7 +69,7 @@
  克服一切恶危险<br>
  欣然谨慎共生活
 </div>
-<img src="http://www.putixin.com/continue/fjj061004/images/fjj-85-5.jpg" width="300" height="324"/>
+<img src="http://www.putixin.com/continue/fjj061004/images/fjj-85-5.jpg" width="300" height="324" alt="宁可独处 无善者为伴宁可独处（1）"/>
 </div>
 
 <div class="e2">
@@ -80,7 +80,7 @@
  应如国王舍王位<br>
  如象独行在树林
 </div>
-<img src="images/fjj-85-6.jpg" width="300" height="323"/>
+<img src="images/fjj-85-6.jpg" width="300" height="323" alt="宁可独处 无善者为伴宁可独处（1）"/>
 </div>
 
 <div class="e2">
@@ -91,5 +91,5 @@
  独处远离欲和恶<br>
  如象独游在树林
 </div>
-<img src="images/fjj-85-7.jpg" width="300" height="323"/>
+<img src="images/fjj-85-7.jpg" width="300" height="323" alt="宁可独处 无善者为伴宁可独处（1）"/>
 </div>

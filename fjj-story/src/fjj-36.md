@@ -22,7 +22,7 @@
  战胜自己者<br>
  守戒过生活</p> 
 </div>
-<img src="images/fjj-36-3.gif" width="300" height="325"/>
+<img src="images/fjj-36-3.gif" width="300" height="325" alt="婆罗门阿难它普迦卡 战胜自己无与伦比"/>
 </div>
 
 <div class="e2">
@@ -33,7 +33,7 @@
  皆遭到败北<br>
  不能胜彼人
 </div>
-<img src="images/fjj-36-4.gif" width="300" height="318"/>
+<img src="images/fjj-36-4.gif" width="300" height="318" alt="婆罗门阿难它普迦卡 战胜自己无与伦比"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位婆罗门阿难它普迦卡。

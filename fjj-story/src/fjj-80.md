@@ -8,7 +8,7 @@
  无论昼与夜<br>
  常观想僧伽
 </div>
-<img src="images/fjj-80-1.jpg" width="300" height="326"/>
+<img src="images/fjj-80-1.jpg" width="300" height="326" alt="樵夫和儿子 常乐观身观佛法僧（2）"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  无论昼与夜<br>
  常观想肉身
 </div>
-<img src="images/fjj-80-2.jpg" width="300" height="328"/>
+<img src="images/fjj-80-2.jpg" width="300" height="328" alt="樵夫和儿子 常乐观身观佛法僧（2）"/>
 </div>
 
 <div class="e2">
@@ -30,7 +30,7 @@
  无论昼与夜<br>
  常乐不杀生
 </div>
-<img src="images/fjj-80-3.jpg" width="300" height="327"/>
+<img src="images/fjj-80-3.jpg" width="300" height="327" alt="樵夫和儿子 常乐观身观佛法僧（2）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位樵夫和他的儿子。
@@ -45,7 +45,7 @@
  无论昼与夜<br>
  常乐于禅定
 </div>
-<img src="images/fjj-80-4.jpg" width="300" height="320"/>
+<img src="images/fjj-80-4.jpg" width="300" height="320" alt=""/>
 </div>
 
 国王看到纸条，派人把小孩带进王宫。听了小孩的叙述后，国王带着小孩礼见佛陀，并请问佛陀：“信念佛陀的殊胜功德，可以免于恶魔的伤害和危险吗？”佛陀回答国王：“念佛、念法、念僧、观身不净、不杀生、乐于禅修等等任何一种具足正念的方法，都是护持一个人免于恶魔迫害，免于危险的好方法。”
@@ -62,7 +62,7 @@
  不应往来轮回<br>
  不应被苦纠缠
 </div>
-<img src="images/fjj-80-5.jpg" width="300" height="329"/>
+<img src="images/fjj-80-5.jpg" width="300" height="329" alt="不满出家生活的僧人 不让自己陷于痛苦"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一位不满出家生活的僧人。
@@ -81,7 +81,7 @@
  不论他走到何处<br>
  处处都受人尊敬
 </div>
-<img src="images/fjj-80-6.jpg" width="300" height="321"/>
+<img src="images/fjj-80-6.jpg" width="300" height="321" alt="在家信徒质达 正信持戒处处受尊敬（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到在家信徒质达。

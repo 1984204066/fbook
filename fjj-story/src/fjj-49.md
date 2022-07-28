@@ -1,7 +1,7 @@
 美艳妓女丝利玛 盛装的娇躯一样会腐烂
 
 <div class="e2">
-<img src="images/fjj-49-1.jpg" width="245" height="271"/>
+<img src="images/fjj-49-1.jpg" width="245" height="271" alt="美艳妓女丝利玛 盛装的娇躯一样会腐烂"/>
 <div>
 11～2<br>
  观此粉饰娇躯<br>
@@ -29,7 +29,7 @@
  腐朽涌出溃散<br>
  有生终归有死</p> 
 </div>
-<img src="images/fjj-49-2.jpg" width="245" height="268"/>
+<img src="images/fjj-49-2.jpg" width="245" height="268" alt="老比丘尼优塔罗 身体是病菌住所"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到老比丘尼优塔罗。
@@ -57,7 +57,7 @@
  谁还有欲望<br>
  </p> 
 </div>
-<img src="images/fjj-49-3.jpg" width="244" height="273"/>
+<img src="images/fjj-49-3.jpg" width="244" height="273" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群高估自己的僧人。

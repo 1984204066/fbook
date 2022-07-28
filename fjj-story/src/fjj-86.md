@@ -10,7 +10,7 @@
  命终积善是乐事<br>
  离一切苦是乐事
 </div>
-<img src="images/fjj-86-1.jpg" width="300" height="317"/>
+<img src="images/fjj-86-1.jpg" width="300" height="317" alt=""/>
 </div>
 
 <div class="e2">
@@ -21,7 +21,7 @@
  敬重沙门是乐事<br>
  敬重圣人是乐事
 </div>
-<img src="images/fjj-86-2.jpg" width="300" height="328"/>
+<img src="images/fjj-86-2.jpg" width="300" height="328" alt=""/>
 </div>
 
 <div class="e2">
@@ -32,7 +32,7 @@
  获得智慧是乐事<br>
  不作诸恶是乐事
 </div>
-<img src="images/fjj-86-3.jpg" width="300" height="328"/>
+<img src="images/fjj-86-3.jpg" width="300" height="328" alt=""/>
 </div>
 
 佛陀居住在北部喜玛拉雅国的树林时，发现国王经常欺压百姓。佛陀想使国王公平仁慈地善待子民。这时，魔王波旬怂恿佛陀自立为王。
@@ -51,7 +51,7 @@
  一世跃一世<br>
  如猴求林果
 </div>
-<img src="images/fjj-86-4.jpg" width="300" height="317"/>
+<img src="images/fjj-86-4.jpg" width="300" height="317" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
 
 <div class="e2">
@@ -62,7 +62,7 @@
  忧苦日增长<br>
  如毗萝得雨
 </div>
-<img src="images/fjj-86-5.jpg" width="300" height="321"/>
+<img src="images/fjj-86-5.jpg" width="300" height="321" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
 
 <div class="e2">
@@ -73,7 +73,7 @@
  忧苦日除落<br>
  如雨落莲叶
 </div>
-<img src="images/fjj-86-6.jpg" width="300" height="327"/>
+<img src="images/fjj-86-6.jpg" width="300" height="327" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
 
 <div class="e2">
@@ -86,7 +86,7 @@
  勿为魔王害<br>
  如洪水侵苇
 </div>
-<img src="images/fjj-86-7.jpg" width="300" height="324"/>
+<img src="images/fjj-86-7.jpg" width="300" height="324" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
 
 舍卫城的渔夫捕捉到一只非常漂亮的金鱼献给国王，国王带着这只金鱼去见佛陀。当金鱼开口时，恶臭弥漫整个精舍。国王请示佛陀为何如此漂亮的金鱼，口中却如此恶臭。

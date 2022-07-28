@@ -7,7 +7,7 @@
 跋提尊者 智者不为毁誉动摇
 
 <div class="e2">
-<img src="images/fjj-29-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-29-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt=""/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～6<br>
  如坚固的盘石<br>
@@ -30,7 +30,7 @@
 毁谤比丘的女人 智者闻法内心清净 ①
 
 <div class="e2">
-<img src="images/fjj-29-3.gif" width="250" height="268" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-29-3.gif" width="250" height="268" hspace="30" vspace="10" align="middle" alt=""/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～7<br>
  如同深潭<br>

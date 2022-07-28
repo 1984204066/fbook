@@ -8,7 +8,7 @@
  放弃一切恶<br>
  称为英贤者
 </div>
-<img src="images/fjj-74-1.jpg" width="300" height="316"/>
+<img src="images/fjj-74-1.jpg" width="300" height="316" alt="善辩非成就 贤者弃除一切恶根（2）"/>
 </div>
 
 佛陀知道他们动机不纯，劝诫说：“比丘们！虽然你们说得头头是道，却是从自己的利益出发。你们发心不善，并非善辩就是成就。那些遵守梵行，不贪不作恶业，拔除一切恶根的阿罗汉，才是真正有成就者。”
@@ -23,7 +23,7 @@
  充满欲和贪<br>
  如何为僧人
 </div>
-<img src="images/fjj-74-2.jpg" width="300" height="340"/>
+<img src="images/fjj-74-2.jpg" width="300" height="340" alt="好辩的比丘 剃度不一定是僧人"/>
 </div>
 
 <div class="e2">
@@ -34,7 +34,7 @@
  真正弃恶者<br>
  被称为僧人
 </div>
-<img src="images/fjj-74-3.jpg" width="300" height="321"/>
+<img src="images/fjj-74-3.jpg" width="300" height="321" alt="好辩的比丘 剃度不一定是僧人"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到哈达卡比丘。
@@ -53,7 +53,7 @@
  持错误信仰<br>
  不是真比丘
 </div>
-<img src="images/fjj-74-4.jpg" width="300" height="321"/>
+<img src="images/fjj-74-4.jpg" width="300" height="321" alt="托钵的婆罗门 持戒修行者是比丘"/>
 </div>
 
 <div class="e2">
@@ -64,7 +64,7 @@
  以智住此世<br>
  被称为比丘
 </div>
-<img src="images/fjj-74-5.jpg" width="300" height="328"/>
+<img src="images/fjj-74-5.jpg" width="300" height="328" alt="托钵的婆罗门 持戒修行者是比丘"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位婆罗门。
@@ -81,7 +81,7 @@
  智者如持秤<br>
  衡量而取善
 </div>
-<img src="images/fjj-74-6.jpg" width="300" height="326"/>
+<img src="images/fjj-74-6.jpg" width="300" height="326" alt="沉默不一定是智慧 沉默并非寂静"/>
 </div>
 
 <div class="e2">
@@ -92,7 +92,7 @@
  以智衡身心<br>
  被称为寂静
 </div>
-<img src="images/fjj-74-7.jpg" width="300" height="331"/>
+<img src="images/fjj-74-7.jpg" width="300" height="331" alt="沉默不一定是智慧 沉默并非寂静"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一些外道信徒。这些不是佛陀信徒的苦行者，在接受供养时，会向布施者说些赐福、平安、兴旺、长寿的祝福语。而佛陀的弟子，却只默默地接受供养，又默默地离去。当时的布施者对比丘们有所不满。佛陀知道后，就要比丘在接受供养时，也要适当地说些祝福语。从此，信徒们更乐意积极地布施。有某些其他外道就讥讽说：“我们是圣徒，保持沉默。沙门乔达摩的弟子却在接受供养时，长篇大论。”佛陀听了这些抨击后告诉弟子：“不是因为沉默就是圣人。有些人沉默是因为愚笨或缺乏信心；有些人沉默是因为吝啬或不愿别人分享更高的知识。只知保持沉默不一定就是圣者，能抑制恶语而保持沉默者才是圣者。”

@@ -9,7 +9,7 @@
 周利般陀伽尊者 精进自律以自己为洲屿
 
 <div class="e2">
-<img src="images/fjj-09.jpg" width="234" height="227" align="right"/>
+<img src="images/fjj-09.jpg" width="234" height="227" align="right" alt="周利般陀伽尊者 精进自律以自己为洲屿"/>
 <div>
 <p>&nbsp;</p> <p>2～5<br>
  精进正念不放逸<br>

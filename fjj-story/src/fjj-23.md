@@ -1,7 +1,7 @@
 两位小偷 了解真相就是智慧
 
 <div class="e2">
-<img src="images/fjj-23-1.gif" width="250" height="269" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-23-1.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt="两位小偷 了解真相就是智慧"/>
 <div>
 <p>&nbsp;</p> <p></p> <p> ５～4<span class="font9copy9"><strong> </strong></span>自知愚痴者<br>
  实是智慧人<br>
@@ -27,7 +27,7 @@
  不领悟正法<br>
  如匙不知味
 </div>
-<img src="images/fjj-23-2.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-23-2.gif" width="250" height="267" hspace="10" vspace="10" alt="自负的僧人优达夷 愚者不易领悟正法"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位自负的僧人优达夷。
@@ -41,7 +41,7 @@
 聪慧的年轻人 智者迅速领悟正法
 
 <div class="e2">
-<img src="images/fjj-23-3.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-23-3.gif" width="250" height="267" hspace="10" vspace="10" alt="聪慧的年轻人 智者迅速领悟正法"/>
 <div>
 ５～6<strong> </strong>慧者虽短暂<br>
  与智者亲近<br>

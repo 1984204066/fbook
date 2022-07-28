@@ -1,7 +1,7 @@
 强暴比丘尼的人 罪孽种苦果
 
 <div class="e2">
-<img src="images/fjj-25-1.gif" width="250" height="268" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-25-1.gif" width="250" height="268" hspace="30" vspace="10" align="middle" alt="强暴比丘尼的人 罪孽种苦果"/>
 <div>
 <p>&nbsp;</p> <p></p> <p> ５～10恶业未成熟<br>
  愚者以为甜<br>
@@ -29,7 +29,7 @@
  不及深入正法者<br>
  十六分之一功德
 </div>
-<img src="images/fjj-25-2.gif" width="250" height="271" hspace="10" vspace="10"/>
+<img src="images/fjj-25-2.gif" width="250" height="271" hspace="10" vspace="10" alt="阎浮车尊者 苦行非正行"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阎浮车尊者。

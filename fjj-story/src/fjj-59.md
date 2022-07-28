@@ -5,7 +5,7 @@
 佛陀游忉利天 天人敬仰佛陀
 
 <div class="e2">
-<img src="images/fjj-59-1.jpg" width="230" height="248"/>
+<img src="images/fjj-59-1.jpg" width="230" height="248" alt="佛陀游忉利天 天人敬仰佛陀"/>
 <div>
 14～3<br>
  尊贵禅修者<br>
@@ -31,7 +31,7 @@
  聆听妙法难<br>
  遇佛出世难</p> 
 </div>
-<img src="images/fjj-59-2.jpg" width="230" height="249"/>
+<img src="images/fjj-59-2.jpg" width="230" height="249" alt="龙王伊罗卡帕塔 珍惜人身修学佛法"/>
 </div>
 
 佛陀居住在波罗奈附近时，有一次提到龙王伊罗卡帕塔。

@@ -9,7 +9,7 @@
  结交尊崇贤惠者<br>
  如月遵循于轨道
 </div>
-<img src="images/fjj-64-1.jpg" width="230" height="247"/>
+<img src="images/fjj-64-1.jpg" width="230" height="247" alt="帝释亲侍佛陀 与贤德者为伍（2）"/>
 </div>
 
 很多比丘对帝释亲自细心照顾佛陀之事感到不可思议，佛陀说：“帝释曾因听闻佛法，实践佛法，今世才投生为帝释。比丘们！得遇圣者是令人喜悦的好事，与稳健平静的圣者结交共处，可以见贤思齐，有助于自己的修行。”
@@ -24,7 +24,7 @@
  弃善趋爱欲<br>
  妒羡自勉者
 </div>
-<img src="images/fjj-64-6.jpg" width="230" height="250"/>
+<img src="images/fjj-64-6.jpg" width="230" height="250" alt=""/>
 </div>
 
 <div class="e2">
@@ -35,7 +35,7 @@
  不见亲爱苦<br>
  见不爱也苦
 </div>
-<img src="images/fjj-64-2.jpg" width="230" height="248"/>
+<img src="images/fjj-64-2.jpg" width="230" height="248" alt=""/>
 </div>
 
 <div class="e2">
@@ -46,7 +46,7 @@
  若无爱与憎<br>
  不见秽系缚
 </div>
-<img src="images/fjj-64-3.jpg" width="230" height="248"/>
+<img src="images/fjj-64-3.jpg" width="230" height="248" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到住在舍卫城的一个家庭：父亲、母亲和儿子三个人。这个独子深受父母钟爱，没有得到父母同意就出家为比丘。父母因为深爱这个宝贝儿子，也跟着出家。三人出家后，亲情依旧，住同一精舍，一起吃饭，一起聊天，走到那里都分不开。佛陀告诫他们：“一旦出家就不可以像在家一样整天生活在一起。在这世间，不见亲人苦，要义务去照顾那些非亲非故也是苦，爱别离、怨憎会都是苦。身为僧人不应有亲疏心念，感情的执著会影响修行。”
@@ -61,7 +61,7 @@
  若离于喜爱<br>
  何忧又何怖
 </div>
-<img src="images/fjj-64-4.jpg" width="230" height="250"/>
+<img src="images/fjj-64-4.jpg" width="230" height="250" alt="爱子去世 离喜爱无忧怖"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位家财富有的信徒，他失去了儿子。
@@ -78,7 +78,7 @@
  若离于亲爱<br>
  何忧又何怖</p> 
 </div>
-<img src="images/fjj-64-5.jpg" width="230" height="247"/>
+<img src="images/fjj-64-5.jpg" width="230" height="247" alt="毗舍佉痛失孙女 离亲爱无忧怖"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到有名的东园鹿子母讲堂的捐赠者毗舍佉，她痛失孙女。

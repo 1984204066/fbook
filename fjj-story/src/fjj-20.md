@@ -17,7 +17,7 @@
  持戒者最上<br>
  香熏诸天间</p>
 </div>
-<img src="images/fjj-20-3.gif" width="250" height="274" hspace="10" vspace="10"/>
+<img src="images/fjj-20-3.gif" width="250" height="274" hspace="10" vspace="10" alt="大迦叶尊者受帝释礼敬 贤者芳香达天界"/>
 </div>
 
 佛陀居住在王舍城的竹林精舍时，有一次提到大迦叶尊者。
@@ -37,7 +37,7 @@
  全知摆脱诸垢秽<br>
  魔正不知其踪影</p>
 </div>
-<img src="images/fjj-20-4.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-20-4.gif" width="250" height="267" hspace="10" vspace="10" alt="哥迪迦尊者 完全解脱不再生死"/>
 </div>
 
 佛陀居住在王舍城的竹林精舍时，有一次，提到哥迪迦尊者。 哥迪迦尊者在摩竭陀国仙人窟山边精进修行，每当证得甚深禅定时就生病，这种情形前后发生六次，最后他决定用刀割伤自己的喉咙，全心观苦，以苦痛作为禅观的对象。由于苦痛降临时，他表现了惊人超强的决心和意志，他以完全的精神集中，终于在逝世前证得阿罗汉果。

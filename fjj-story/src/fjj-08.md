@@ -3,7 +3,7 @@
 王妃莎曼娣 精进修行免生死轮回
 
 <div class="e2">
-<img src="img2/ftdh-31.jpg" width="197" height="222" align="right"/>
+<img src="img2/ftdh-31.jpg" width="197" height="222" align="right" alt="王妃莎曼娣 精进修行免生死轮回"/>
 <div>
 <p>&nbsp;</p> <p>2～1 <br>
  精进不死道<br>
@@ -14,7 +14,7 @@
 </div>
 
 <div class="e2">
-<img src="img2/ftdh-32.jpg" width="200" height="217"/>
+<img src="img2/ftdh-32.jpg" width="200" height="217" alt="王妃莎曼娣 精进修行免生死轮回"/>
 <div>
 <p>&nbsp;</p> <p>2～2<br>
  智者深知此<br>
@@ -25,7 +25,7 @@
 </div>
 
 <div class="e2">
-<img src="img2/ftdh-33.jpg" width="200" height="216"/>
+<img src="img2/ftdh-33.jpg" width="200" height="216" alt="王妃莎曼娣 精进修行免生死轮回"/>
 <div>
 <p>&nbsp;</p> <p>2～3<br>
  智者常坚忍<br>
@@ -46,7 +46,7 @@
 银行家昆拔高沙卡 精进正念善名大增①
 
 <div class="e2">
-<img src="img2/ftdh-34.jpg" width="187" height="200" align="right"/>
+<img src="img2/ftdh-34.jpg" width="187" height="200" align="right" alt="银行家昆拔高沙卡 精进正念善名大增①"/>
 <div>
 <p> 2～4<br>
  坚忍奋勉正念<br>

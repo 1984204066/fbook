@@ -15,7 +15,7 @@
  应伐林中欲树<br>
  获无欲林涅槃
 </div>
-<img src="images/fjj-77-1.jpg" width="300" height="319"/>
+<img src="images/fjj-77-1.jpg" width="300" height="319" alt="五位老比丘 砍伐欲树获涅槃"/>
 </div>
 
 <div class="e2">
@@ -26,7 +26,7 @@
  必系于女人<br>
  如犊不离母
 </div>
-<img src="images/fjj-77-2.jpg" width="300" height="328"/>
+<img src="images/fjj-77-2.jpg" width="300" height="328" alt="五位老比丘 砍伐欲树获涅槃"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到五位老僧人。
@@ -43,7 +43,7 @@
  勤修寂静涅槃道<br>
  善逝宣说之涅槃
 </div>
-<img src="images/fjj-77-3.jpg" width="300" height="315"/>
+<img src="images/fjj-77-3.jpg" width="300" height="315" alt="观金莲证圣果 亲手摘下莲花证涅槃"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到舍利弗尊者的一位年轻弟子。
@@ -66,7 +66,7 @@
  此为愚夫想<br>
  不自觉危险
 </div>
-<img src="images/fjj-77-4.jpg" width="300" height="325"/>
+<img src="images/fjj-77-4.jpg" width="300" height="325" alt="只计划未来不知死亡将来临 (1)"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到波罗奈的商人摩诃答那。

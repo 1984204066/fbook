@@ -12,7 +12,7 @@
  布施离贪者<br>
  获得大果报
 </div>
-<img src="images/fjj-90-1.jpg" width="300" height="323"/>
+<img src="images/fjj-90-1.jpg" width="300" height="323" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
 
 <div class="e2">
@@ -23,7 +23,7 @@
  布施离瞋者<br>
  获得大果报
 </div>
-<img src="images/fjj-90-2.jpg" width="300" height="314"/>
+<img src="images/fjj-90-2.jpg" width="300" height="314" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
 
 <div class="e2">
@@ -34,7 +34,7 @@
  布施离痴者<br>
  获得大果报
 </div>
-<img src="images/fjj-90-3.jpg" width="300" height="329"/>
+<img src="images/fjj-90-3.jpg" width="300" height="329" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
 
 <div class="e2">
@@ -45,7 +45,7 @@
  布施离欲者<br>
  获得大果报
 </div>
-<img src="images/fjj-90-4.jpg" width="300" height="317"/>
+<img src="images/fjj-90-4.jpg" width="300" height="317" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
 
 忉利天有一位天神因陀迦，在前世生为人时，曾经布施一些食物给阿那律陀尊者，所以能往生忉利天享受大果报。另有一位天神安苦拉，前世也是人，也曾大量布施和供养，往生忉利天后，享受的果报却不如因陀迦。
@@ -64,7 +64,7 @@
  防守鼻为善<br>
  防守舌为善
 </div>
-<img src="images/fjj-90-5.jpg" width="300" height="326"/>
+<img src="images/fjj-90-5.jpg" width="300" height="326" alt="五位僧人 比丘防护五根"/>
 </div>
 
 <div class="e2">
@@ -77,7 +77,7 @@
  僧人防一切<br>
  解脱诸苦难
 </div>
-<img src="images/fjj-90-6.jpg" width="300" height="315"/>
+<img src="images/fjj-90-6.jpg" width="300" height="315" alt="五位僧人 比丘防护五根"/>
 </div>
 
 舍卫城有五位比丘各自修习调伏五根之一的法门，每位比丘都认为自己修习的根门最难防守，最难调伏。佛陀告诉他们：“眼、耳、鼻、舌、身五根门同样难以收摄，若有比丘能全部收摄、调御这些感官，就能从苦恼中解脱。”

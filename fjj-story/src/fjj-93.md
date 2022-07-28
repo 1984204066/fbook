@@ -8,7 +8,7 @@
  必将获得喜乐<br>
  将能达到不死
 </div>
-<img src="images/fjj-93-1.jpg" width="300" height="318"/>
+<img src="images/fjj-93-1.jpg" width="300" height="318" alt="虔诚的女信徒 比丘的修行生活（2）"/>
 </div>
 
 <div class="e2">
@@ -21,7 +21,7 @@
  与善知识结交<br>
  生活清净不懈
 </div>
-<img src="images/fjj-93-2.jpg" width="300" height="318"/>
+<img src="images/fjj-93-2.jpg" width="300" height="318" alt="虔诚的女信徒 比丘的修行生活（2）"/>
 </div>
 
 <div class="e2">
@@ -32,7 +32,7 @@
  心将充满喜悦<br>
  灭尽一切忧苦
 </div>
-<img src="images/fjj-93-3.jpg" width="300" height="318"/>
+<img src="images/fjj-93-3.jpg" width="300" height="318" alt="虔诚的女信徒 比丘的修行生活（2）"/>
 </div>
 
 当输屡那说法完毕时，小偷首领率领众小偷向输屡那的母亲认错。心性仁慈、信佛虔诚的她原谅了他们。小偷们也要求输屡那收他们为徒，让他们出家为僧。这些小偷从此在输屡那的教诲下，痛改前非，努力禅修。
@@ -47,7 +47,7 @@
  比丘亦如是<br>
  弃心中贪瞋
 </div>
-<img src="images/fjj-93-4.jpg" width="300" height="322"/>
+<img src="images/fjj-93-4.jpg" width="300" height="322" alt="见落花有感 弃贪瞋如凋谢花朵"/>
 </div>
 
 一些舍卫城的比丘从佛陀那儿得到禅观题目后，到林中僻静处禅修。他们在林中看见跋悉迦花在白天盛开，晚间花瓣就落地。他们受了启发而决心精进修行。
@@ -64,7 +64,7 @@
  比丘舍世欲乐<br>
  是为完全寂静
 </div>
-<img src="images/fjj-93-5.jpg" width="300" height="318"/>
+<img src="images/fjj-93-5.jpg" width="300" height="318" alt="稳静沉着的比丘 比丘弃世乐身口意完全寂静"/>
 </div>
 
 沙塔卡亚比丘前世是只狮子，这位僧人今世寂静的品格，吸引其他僧人的注意。他们告诉佛陀：“世尊！我们从来没有见过像沙塔卡亚尊者这样的僧人，他静静地坐着，不动手也不动脚，不打呵欠，不伸懒腰，很少移动，一旦移动则步伐稳健。”
@@ -81,7 +81,7 @@
  自护与正念<br>
  比丘住安乐
 </div>
-<img src="images/fjj-93-6.jpg" width="300" height="319"/>
+<img src="images/fjj-93-6.jpg" width="300" height="319" alt="警惕贫困的比丘 自己是自己的救星（1）"/>
 </div>
 
 难迦拉苦拉是一位贫穷的工人，一位比丘见他穿着褴褛，辛苦工作，就建议他出家修行。他答应了，把犁、锄、破衣服放在一棵树上，出家为比丘。

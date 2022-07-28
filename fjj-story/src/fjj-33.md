@@ -1,7 +1,7 @@
 摩诃迦旃延尊者 平息欲念如御者驯马
 
 <div class="e2">
-<img src="images/fjj-33-4.jpg" width="250" height="266"/>
+<img src="images/fjj-33-4.jpg" width="250" height="266" alt="摩诃迦旃延尊者 平息欲念如御者驯马"/>
 <div>
  <p class="p13-5">7～5<br>
  寂静诸根欲<br>
@@ -26,7 +26,7 @@
 舍利弗尊者 阿罗汉不再生死轮回
 
 <div class="e2">
-<img src="images/fjj-33-5.jpg" width="250" height="274"/>
+<img src="images/fjj-33-5.jpg" width="250" height="274" alt="舍利弗尊者 阿罗汉不再生死轮回"/>
 <div>
  <p class="p13-5">7～6<br>
  无愤恨如同大地<br>
@@ -50,7 +50,7 @@
  正智而解脱<br>
  内心得安稳</p> 
 </div>
-<img src="images/fjj-33-3.jpg" width="250" height="265"/>
+<img src="images/fjj-33-3.jpg" width="250" height="265" alt="小沙弥证阿罗汉果 心中无想无欲无波寂静"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位小沙弥，他是提舍尊者的徒弟。

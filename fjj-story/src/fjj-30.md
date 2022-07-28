@@ -11,7 +11,7 @@
 享受欲望的人 智者不为得失心动
 
 <div class="e2">
-<img src="images/fjj-30-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-30-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt=""/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～8<br>
  善人离诸欲<br>
@@ -32,7 +32,7 @@
 达密卡尊者 智者不因利而行恶
 
 <div class="e2">
-<img src="images/fjj-30-2.gif" width="250" height="272" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-30-2.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt="达密卡尊者 智者不因利而行恶"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～9<br>
  不为己利他利而造恶业<br>

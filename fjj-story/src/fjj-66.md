@@ -8,7 +8,7 @@
  亲朋祝福者<br>
  欢欣来迎接
 </div>
-<img src="images/fjj-66-1.jpg" width="230" height="248"/>
+<img src="images/fjj-66-1.jpg" width="230" height="248" alt="难提赠精舍 善行生善果"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  善果如亲友<br>
  欢迎游子归
 </div>
-<img src="images/fjj-66-2.jpg" width="230" height="248"/>
+<img src="images/fjj-66-2.jpg" width="230" height="248" alt="难提赠精舍 善行生善果"/>
 </div>
 
 佛陀居住在伊希帕坦那树林时，有一次提到一位青年难提。
@@ -42,7 +42,7 @@
  不执著于名色<br>
  那人不再受苦
 </div>
-<img src="images/fjj-66-3.jpg" width="230" height="252"/>
+<img src="images/fjj-66-3.jpg" width="230" height="252" alt="得皮肤病的公主 不执著身心者不受苦"/>
 </div>
 
 佛陀居住在尼拘娄达玛时，有一次提到罗西妮公主，她是阿那律陀尊者的妹妹。
@@ -59,7 +59,7 @@
  是名善御者<br>
  余为执缰人
 </div>
-<img src="images/fjj-66-4.jpg" width="230" height="247"/>
+<img src="images/fjj-66-4.jpg" width="230" height="247" alt="砍树的僧人 止怒如止急行车"/>
 </div>
 
 佛陀居住在阿拉维村的阿葛拉瓦塔时，有一次提到一位僧人。
@@ -78,7 +78,7 @@
  以施胜悭吝<br>
  以实胜虚妄
 </div>
-<img src="images/fjj-66-5.jpg" width="230" height="249"/>
+<img src="images/fjj-66-5.jpg" width="230" height="249" alt=""/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一位在家弟子优它那。

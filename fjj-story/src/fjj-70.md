@@ -8,7 +8,7 @@
  自己造恶行<br>
  自业导恶趣
 </div>
-<img src="images/fjj-70-1.jpg" width="230" height="245"/>
+<img src="images/fjj-70-1.jpg" width="230" height="245" alt="提沙尊者往生昆虫 自造恶行自导恶趣"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到提沙尊者。
@@ -27,7 +27,7 @@
  怠惰污容貌<br>
  放逸污修行
 </div>
-<img src="images/fjj-70-2.jpg" width="230" height="245"/>
+<img src="images/fjj-70-2.jpg" width="230" height="245" alt="卡鲁达伊比丘 怠惰即垢秽"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到卡鲁达伊尊者。
@@ -44,7 +44,7 @@
  不如法恶行垢秽<br>
  今世来世都垢秽
 </div>
-<img src="images/fjj-70-3.jpg" width="230" height="248"/>
+<img src="images/fjj-70-3.jpg" width="230" height="248" alt="妻子外遇 无明恶行即垢秽"/>
 </div>
 
 <div class="e2">
@@ -55,7 +55,7 @@
  弃净此垢秽<br>
  成无垢比丘
 </div>
-<img src="images/fjj-70-4.jpg" width="230" height="247"/>
+<img src="images/fjj-70-4.jpg" width="230" height="247" alt="妻子外遇 无明恶行即垢秽"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一位男子。这位男子的妻子有外遇，他深感惭愧，回避所有的朋友，也不敢见佛陀。有一次见到佛陀时，佛陀安慰他：“不知羞耻的妇女像河水，像公共厕所，像路边茶水，各种人都可使用它们。邪淫不贞，不知检点的淫女必定自我毁灭。”
@@ -70,7 +70,7 @@
  诋毁且自夸<br>
  邪慢而生活
 </div>
-<img src="images/fjj-70-5.jpg" width="230" height="244"/>
+<img src="images/fjj-70-5.jpg" width="230" height="244" alt="私自行医的僧人 智者生活清苦（1）"/>
 </div>
 
 <div class="e2">
@@ -81,7 +81,7 @@
  无缚不狡猾<br>
  纯净于修行
 </div>
-<img src="images/fjj-70-6.jpg" width="230" height="246"/>
+<img src="images/fjj-70-6.jpg" width="230" height="246" alt="私自行医的僧人 智者生活清苦（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位懂得医理的僧人。

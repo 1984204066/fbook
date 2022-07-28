@@ -16,7 +16,7 @@
  死亡带走了一切<br>
  如洪水卷走睡村
 </div>
-<img src="images/fjj-78-1.jpg" width="300" height="324"/>
+<img src="images/fjj-78-1.jpg" width="300" height="324" alt="死亡带走一切 执著者终被死亡带走"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到富家女离舍瞿昙弥。
@@ -35,7 +35,7 @@
  被死王捉去<br>
  无人能救助
 </div>
-<img src="images/fjj-78-2.jpg" width="300" height="321"/>
+<img src="images/fjj-78-2.jpg" width="300" height="321" alt="迅速清除通往涅槃的荆棘"/>
 </div>
 
 <div class="e2">
@@ -46,7 +46,7 @@
  通达涅槃路<br>
  迅速令清净
 </div>
-<img src="images/fjj-78-3.jpg" width="300" height="325"/>
+<img src="images/fjj-78-3.jpg" width="300" height="325" alt="迅速清除通往涅槃的荆棘"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到富家女波她卡娜。
@@ -65,7 +65,7 @@
  智者弃小乐<br>
  当见更大乐
 </div>
-<img src="images/fjj-78-4.jpg" width="300" height="317"/>
+<img src="images/fjj-78-4.jpg" width="300" height="317" alt="佛陀救助干旱 弃世俗小乐得涅槃大乐"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到他拜访毗舍离时，许多人见证了佛陀的妙法和荣耀。

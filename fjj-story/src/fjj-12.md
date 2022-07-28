@@ -1,7 +1,7 @@
 第三品 心品
 
 <div class="e2">
-<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right"/>
+<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right" alt=""/>
 <div>
 <p>&nbsp;</p> <p>&nbsp;</p> <p>3～2<br>
  如捞水中鱼<br>
@@ -29,7 +29,7 @@
  智者善调心<br>
  心调得安乐</p>
 </div>
-<img src="images/fjj-12-1.jpg" width="250" height="265" hspace="10" vspace="10"/>
+<img src="images/fjj-12-1.jpg" width="250" height="265" hspace="10" vspace="10" alt="在家弟子玛提加玛它 驯服的心带来安乐"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到某位僧人。

@@ -1,7 +1,7 @@
 人面蛇身的饿鬼 罪行如灰土掩盖火苗
 
 <div class="e2">
-<img src="images/fjj-26-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-26-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt="人面蛇身的饿鬼 罪行如灰土掩盖火苗"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> ５～12<br>
  恶业不会立刻成熟<br>
@@ -24,7 +24,7 @@
 投石伤人的瘸子 滥用知识毁灭自己
 
 <div class="e2">
-<img src="images/fjj-26-2.gif" width="250" height="266" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-26-2.gif" width="250" height="266" hspace="30" vspace="10" align="middle" alt="投石伤人的瘸子 滥用知识毁灭自己"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> ５～13<br>
  愚痴者所学<br>
@@ -43,7 +43,7 @@
 追求虚荣的比丘 愚痴者以自我为中心①
 
 <div class="e2">
-<img src="images/fjj-26-3.gif" width="250" height="275" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-26-3.gif" width="250" height="275" hspace="30" vspace="10" align="middle" alt="追求虚荣的比丘 愚痴者以自我为中心①"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> ５～14<br>
  愚人迫求虚荣<br>
@@ -63,7 +63,7 @@
  都由我作主<br>
  增长贪与慢
 </div>
-<img src="images/fjj-26-4.gif" width="250" height="270" hspace="10" vspace="10"/>
+<img src="images/fjj-26-4.gif" width="250" height="270" hspace="10" vspace="10" alt="追求虚荣的比丘 愚痴者以自我为中心①"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到苏达玛尊者和他的在家弟子希达。

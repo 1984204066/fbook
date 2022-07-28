@@ -8,7 +8,7 @@
  解脱无憎畏<br>
  是名为智者
 </div>
-<img src="images/fjj-73-1.jpg" width="300" height="322"/>
+<img src="images/fjj-73-1.jpg" width="300" height="322" alt="愚痴的人 多言非智者"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到几位僧人。
@@ -27,7 +27,7 @@
  于法不懈怠<br>
  是为持法者
 </div>
-<img src="images/fjj-73-2.jpg" width="300" height="323"/>
+<img src="images/fjj-73-2.jpg" width="300" height="323" alt="阿罗汉伊咕达那比丘 持法重实践"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿罗汉伊咕达那比丘。
@@ -46,7 +46,7 @@
  他年龄虚长<br>
  年长非德行
 </div>
-<img src="images/fjj-73-3.jpg" width="300" height="317"/>
+<img src="images/fjj-73-3.jpg" width="300" height="317" alt="住法者为长老 持守谛理为长老"/>
 </div>
 
 <div class="e2">
@@ -57,7 +57,7 @@
  无垢具智慧<br>
  是名为长老
 </div>
-<img src="images/fjj-73-4.jpg" width="300" height="327"/>
+<img src="images/fjj-73-4.jpg" width="300" height="327" alt="住法者为长老 持守谛理为长老"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到跋提亚尊者。
@@ -76,7 +76,7 @@
  欣贪羡虚伪<br>
  不受人欢迎
 </div>
-<img src="images/fjj-73-5.jpg" width="300" height="321"/>
+<img src="images/fjj-73-5.jpg" width="300" height="321" alt="善辩非成就 贤者弃除一切恶根（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一些僧人。

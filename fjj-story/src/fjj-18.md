@@ -13,7 +13,7 @@
  只观察自己<br>
  已做或未做</p>
 </div>
-<img src="images/fjj-18-2.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-18-2.gif" width="250" height="267" hspace="10" vspace="10" alt="裸身苦行者和富家女 只应自省不应在意批评"/>
 </div>
 
 这位富家女常听邻居街坊称赞佛陀，心里很想顶礼佛陀，听佛开示，却苦于裸身苦行师父潘维亚不答应。有一天她悄悄地叫儿子到精舍邀请佛陀到她家接受供养。

@@ -8,7 +8,7 @@
  不害众生者<br>
  被称为圣人
 </div>
-<img src="images/fjj-75-1.jpg" width="300" height="331"/>
+<img src="images/fjj-75-1.jpg" width="300" height="331" alt="渔夫阿利亚 不伤害众生者是圣人"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到渔夫阿利亚。
@@ -25,7 +25,7 @@
  或证三昧定<br>
  或独处自满
 </div>
-<img src="images/fjj-75-2.jpg" width="300" height="322"/>
+<img src="images/fjj-75-2.jpg" width="300" height="322" alt="自满的僧人 比丘不以成就自满"/>
 </div>
 
 <div class="e2">
@@ -36,7 +36,7 @@
  比丘有信心<br>
  证涅槃为止
 </div>
-<img src="images/fjj-75-3.jpg" width="300" height="310"/>
+<img src="images/fjj-75-3.jpg" width="300" height="310" alt="自满的僧人 比丘不以成就自满"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一些容易自满的僧人。
@@ -55,7 +55,7 @@
  法界中离贪欲最殊胜<br>
  人类中具慧眼最殊胜
 </div>
-<img src="images/fjj-75-4.jpg" width="300" height="325"/>
+<img src="images/fjj-75-4.jpg" width="300" height="325" alt="清净解脱道 八正道解脱魔系缚"/>
 </div>
 
 <div class="e2">
@@ -66,7 +66,7 @@
  依此道奉行<br>
  摆脱魔系缚
 </div>
-<img src="images/fjj-75-5.jpg" width="300" height="319"/>
+<img src="images/fjj-75-5.jpg" width="300" height="319" alt="清净解脱道 八正道解脱魔系缚"/>
 </div>
 
 <div class="e2">
@@ -77,7 +77,7 @@
  知我所说道<br>
  得除去荆棘
 </div>
-<img src="images/fjj-75-6.jpg" width="300" height="329"/>
+<img src="images/fjj-75-6.jpg" width="300" height="329" alt="清净解脱道 八正道解脱魔系缚"/>
 </div>
 
 <div class="e2">
@@ -88,7 +88,7 @@
  追随禅修者<br>
  解脱魔系缚
 </div>
-<img src="images/fjj-75-7.jpg" width="300" height="322"/>
+<img src="images/fjj-75-7.jpg" width="300" height="322" alt="清净解脱道 八正道解脱魔系缚"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群比丘。这群比丘随佛陀化缘后，回到祇树给孤独园，他们聚集在一起讨论今天走过的地势、坡路、石路。佛陀说：“你们讨论的路况只是外在的环境，比丘应该关注的是圣者的修行之道，那是能使自己通往清净涅槃的解脱大道。”
@@ -103,7 +103,7 @@
  从苦得解脱<br>
  此乃清净道
 </div>
-<img src="images/fjj-75-8.jpg" width="300" height="327"/>
+<img src="images/fjj-75-8.jpg" width="300" height="327" alt="比丘观缘起 一切缘起法无常苦无我（1）"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群僧人。

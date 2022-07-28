@@ -3,7 +3,7 @@
 憍赏弥僧团 常念死亡带来和平
 
 <div class="e2">
-<img src="images/fjj-03-1.jpg" width="170" height="191"/>
+<img src="images/fjj-03-1.jpg" width="170" height="191" alt="憍赏弥僧团 常念死亡带来和平"/>
 <div>
 <p>&nbsp;</p> <p> 1－6 <br>
  有人不了知 <br>
@@ -20,7 +20,7 @@
 摩诃迦罗尊者 不退转的修行
 
 <div class="e2">
-<img src="images/fjj-03-2.jpg" width="170" height="191"/>
+<img src="images/fjj-03-2.jpg" width="170" height="191" alt="摩诃迦罗尊者 不退转的修行"/>
 <div>
 <p><br>
  1-7<br>
@@ -34,7 +34,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-03-3.jpg" width="170" height="191"/>
+<img src="images/fjj-03-3.jpg" width="170" height="191" alt="摩诃迦罗尊者 不退转的修行"/>
 <div>
 <p><br>
  1－8 <br>

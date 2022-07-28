@@ -8,7 +8,7 @@
  向此皈依者<br>
  不离一切苦
 </div>
-<img src="images/fjj-61-1.jpg" width="230" height="242"/>
+<img src="images/fjj-61-1.jpg" width="230" height="242" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  由于正智慧<br>
  见到四圣谛
 </div>
-<img src="images/fjj-61-2.jpg" width="230" height="246"/>
+<img src="images/fjj-61-2.jpg" width="230" height="246" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
 
 <div class="e2">
@@ -30,7 +30,7 @@
  并以八圣道<br>
  能令苦终止
 </div>
-<img src="images/fjj-61-3.jpg" width="230" height="248"/>
+<img src="images/fjj-61-3.jpg" width="230" height="248" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
 
 <div class="e2">
@@ -41,7 +41,7 @@
  如此皈依者<br>
  解脱一切苦
 </div>
-<img src="images/fjj-61-4.jpg" width="230" height="245"/>
+<img src="images/fjj-61-4.jpg" width="230" height="245" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
 
 听完佛陀的开示后，阿基达要求加入佛陀的僧团修行，他的弟子也随之加入僧团，阿基达的信众也因明白并称赞佛陀的超越卓绝而纷纷皈依佛陀。
@@ -58,7 +58,7 @@
  智者所生处<br>
  家族蒙庆幸</p> 
 </div>
-<img src="images/fjj-61-5.jpg" width="230" height="243"/>
+<img src="images/fjj-61-5.jpg" width="230" height="243" alt="圣人的出生 圣者带给众生幸福"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一位比丘请示佛陀：“世尊！您只告诉我们纯种优良的大象、马、牛生长的地方，却未曾提及尊贵的圣者到底出生在何处。”
@@ -75,7 +75,7 @@
  僧伽和合令人喜悦<br>
  和合修行令人喜悦</p> 
 </div>
-<img src="images/fjj-61-6.jpg" width="230" height="247"/>
+<img src="images/fjj-61-6.jpg" width="230" height="247" alt="僧众谈幸福 佛法僧带来真正的喜悦"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一群僧人在讨论幸福。有人认为拥有荣华富贵是幸福；有人认为满足感官欲望是幸福；有人认为品尝美味美酒是幸福。这时，佛陀来了，告诉大家：“你们讨论的这些快乐幸福，不能帮助解脱轮回生死之苦。在这世间的快乐是：佛陀的降世，有机会聆听佛法，以及僧众的和合相处。”
@@ -90,7 +90,7 @@
  他们是超凡觉者<br>
  已经跨越诸忧患
 </div>
-<img src="images/fjj-61-7.jpg" width="230" height="250"/>
+<img src="images/fjj-61-7.jpg" width="230" height="250" alt="礼拜佛塔 礼敬佛陀诸圣贤"/>
 </div>
 
 <div class="e2">
@@ -101,7 +101,7 @@
  他们功德大且多<br>
  无人能予以衡量</p> 
 </div>
-<img src="images/fjj-61-8.jpg" width="230" height="248"/>
+<img src="images/fjj-61-8.jpg" width="230" height="248" alt="礼拜佛塔 礼敬佛陀诸圣贤"/>
 </div>
 
 佛陀从萨瓦第到波罗奈途中，看到一位婆罗门在耕种。佛陀吩咐阿难尊者去请这位婆罗门来。婆罗门来时，不忘记向身旁迦叶古佛的金塔礼敬，佛陀对他说：“你礼敬迦叶古佛的金塔是对的。塔有三种：肉身舍利塔、舍利子舍利塔和衣冠遗物舍利塔。也有值得为四种人建塔：佛、辟支佛、贤圣弟子和转轮圣王。人应礼敬值得礼敬的人。”

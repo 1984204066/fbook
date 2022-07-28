@@ -1,7 +1,7 @@
 火舌烧飞鸟 无处逃避恶果
 
 <div class="e2">
-<img src="images/fjj-44-1.jpg" width="250" height="261"/>
+<img src="images/fjj-44-1.jpg" width="250" height="261" alt="火舌烧飞鸟 无处逃避恶果"/>
 <div>
 9～12<br>
  无论在空中在海洋<br>
@@ -37,7 +37,7 @@
  可以让人征服死亡<br>
  </p> 
 </div>
-<img src="images/fjj-44-2.jpg" width="250" height="267"/>
+<img src="images/fjj-44-2.jpg" width="250" height="267" alt="善觉王 无处逃避死亡"/>
 </div>
 
 佛陀居住在奈罗达罗玛时，有一次提到国王善觉。
@@ -64,7 +64,7 @@
  以身作则将心比心<br>
  自不杀生莫教他杀</p> 
 </div>
-<img src="images/fjj-44-3.jpg" width="250" height="269"/>
+<img src="images/fjj-44-3.jpg" width="250" height="269" alt="比丘互相争吵 众生皆恐惧死亡"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到比丘们互相争吵。

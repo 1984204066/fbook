@@ -11,7 +11,7 @@
 难陀尊者 善修心者无贪欲
 
 <div class="e2">
-<img src="images/fjj-05-1.jpg" width="160" height="180"/>
+<img src="images/fjj-05-1.jpg" width="160" height="180" alt="难陀尊者 善修心者无贪欲"/>
 <div>
 <p><br>
  1-13<br>
@@ -23,7 +23,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-05-2.jpg" width="160" height="180"/>
+<img src="images/fjj-05-2.jpg" width="160" height="180" alt="难陀尊者 善修心者无贪欲"/>
 <div>
 <p><br>
  1－14<br>

@@ -1,7 +1,7 @@
 聆听妙法者 只有少数人证得涅槃
 
 <div class="e2">
-<img src="images/fjj-31-1.jpg" width="250" height="277"/>
+<img src="images/fjj-31-1.jpg" width="250" height="277" alt="聆听妙法者 只有少数人证得涅槃"/>
 <div>
 6～10<br>
  在众人群中<br>
@@ -12,7 +12,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-31-2.jpg" width="250" height="271"/>
+<img src="images/fjj-31-2.jpg" width="250" height="271" alt="聆听妙法者 只有少数人证得涅槃"/>
 <div>
 6～11<br>
  任何人能明晰<br>
@@ -33,7 +33,7 @@
 从黑暗到光明 智者自净其心
 
 <div class="e2">
-<img src="images/fjj-31-3.jpg" width="250" height="267"/>
+<img src="images/fjj-31-3.jpg" width="250" height="267" alt="从黑暗到光明 智者自净其心"/>
 <div>
 6～12<br>
  放弃腐败的观念<br>
@@ -44,7 +44,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-31-4.jpg" width="250" height="271"/>
+<img src="images/fjj-31-4.jpg" width="250" height="271" alt="从黑暗到光明 智者自净其心"/>
 <div>
 6～13<br>
  喜悦解脱 舍弃欲念<br>
@@ -54,7 +54,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-31-5.jpg" width="250" height="268"/>
+<img src="images/fjj-31-5.jpg" width="250" height="268" alt="从黑暗到光明 智者自净其心"/>
 <div>
 6～14<br>
  智者正心修习<br>
@@ -84,7 +84,7 @@
  完全不受系缚<br>
  已不再有苦恼</p> 
 </div>
-<img src="images/fjj-31-6.jpg" width="250" height="266"/>
+<img src="images/fjj-31-6.jpg" width="250" height="266" alt="名医耆域 阿罗汉断除一切烦恼系缚"/>
 </div>
 
 佛陀居住在名医耆域建在芒果园的精舍时， 提到以下的事：

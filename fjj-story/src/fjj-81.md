@@ -8,7 +8,7 @@
  世间不持戒律者<br>
  夜射暗箭不能见
 </div>
-<img src="images/fjj-81-1.jpg" width="300" height="319"/>
+<img src="images/fjj-81-1.jpg" width="300" height="319" alt="路远不是问题 持戒善德名播远方"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到给孤独长者的女儿修摩迦提。
@@ -29,7 +29,7 @@
  彼独自调御<br>
  喜乐于林中
 </div>
-<img src="images/fjj-81-2.jpg" width="300" height="324"/>
+<img src="images/fjj-81-2.jpg" width="300" height="324" alt="伊卡非哈如尊者 独处者善于调御自己"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位独居僧人伊卡非哈如。
@@ -48,7 +48,7 @@
  此二恶业于死后<br>
  来世在地狱受苦
 </div>
-<img src="images/fjj-81-3.jpg" width="300" height="327"/>
+<img src="images/fjj-81-3.jpg" width="300" height="327" alt="孙陀利妄语陷害佛陀 妄语者死后在地狱受苦"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位女外道孙陀利。
@@ -67,7 +67,7 @@
  恶人以恶业<br>
  重生于地狱
 </div>
-<img src="images/fjj-81-4.jpg" width="300" height="322"/>
+<img src="images/fjj-81-4.jpg" width="300" height="322" alt="饿鬼受苦 恶业往生恶界（1）"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一些饿鬼。

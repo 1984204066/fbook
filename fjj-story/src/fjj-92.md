@@ -8,7 +8,7 @@
  非有故无忧<br>
  称为真比丘
 </div>
-<img src="images/fjj-92-1.jpg" width="300" height="319"/>
+<img src="images/fjj-92-1.jpg" width="300" height="319" alt="所有供养品都一样好 比丘不着身心为我"/>
 </div>
 
 舍卫国有一位婆罗门，他很慷慨，经常供养佛陀和僧众。
@@ -27,7 +27,7 @@
  达到寂静安乐<br>
  诸行解脱境界
 </div>
-<img src="images/fjj-92-2.jpg" width="300" height="318"/>
+<img src="images/fjj-92-2.jpg" width="300" height="318" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
 
 <div class="e2">
@@ -38,7 +38,7 @@
  断除贪欲瞋恚<br>
  能得证于涅槃
 </div>
-<img src="images/fjj-92-3.jpg" width="300" height="326"/>
+<img src="images/fjj-92-3.jpg" width="300" height="326" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
 
 <div class="e2">
@@ -49,7 +49,7 @@
  超越五种系缚<br>
  比丘已渡瀑流
 </div>
-<img src="images/fjj-92-4.jpg" width="300" height="324"/>
+<img src="images/fjj-92-4.jpg" width="300" height="324" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
 
 有一位女士非常富有，她有一位儿子名叫输屡那出家为比丘。
@@ -64,7 +64,7 @@
  不吞地狱铁丸<br>
  不受炼火哀嚎
 </div>
-<img src="images/fjj-92-5.jpg" width="300" height="320"/>
+<img src="images/fjj-92-5.jpg" width="300" height="320" alt=""/>
 </div>
 
 <div class="e2">
@@ -75,7 +75,7 @@
  智慧又修禅定<br>
  肯定接近涅槃
 </div>
-<img src="images/fjj-92-6.jpg" width="300" height="317"/>
+<img src="images/fjj-92-6.jpg" width="300" height="317" alt=""/>
 </div>
 
 <div class="e2">
@@ -86,7 +86,7 @@
  审慎观照正法<br>
  经历超然快乐
 </div>
-<img src="images/fjj-92-7.jpg" width="300" height="320"/>
+<img src="images/fjj-92-7.jpg" width="300" height="320" alt=""/>
 </div>
 
 当他母亲以及大众在听法时，一群小偷闯入她家偷东西，小偷的首领跑到法会去监视他母亲。当家中女仆跑来告诉她家里有小偷时，她只冷静地说：“让他们拿吧！听法比钱财更重要。”小偷的首领从不远处听到这句话时，心生惭愧，认为拿走这样有智慧而且高贵的女士的财物，一定会遭到恶报，所以赶紧跑回去吩咐属下归还所有财物。

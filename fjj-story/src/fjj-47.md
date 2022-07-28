@@ -1,7 +1,7 @@
 大目犍连的惨死 伤害无辜受十种苦难 ②
 
 <div class="e2">
-<img src="images/fjj-47-1.jpg" width="250" height="274"/>
+<img src="images/fjj-47-1.jpg" width="250" height="274" alt=""/>
 <div>
 10～11<br>
  或国王惩罚<br>
@@ -13,7 +13,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-47-2.jpg" width="250" height="264"/>
+<img src="images/fjj-47-2.jpg" width="250" height="264" alt=""/>
 <div>
 10～12<br>
  或房屋宅第<br>
@@ -43,7 +43,7 @@
  不除惑非净行<br>
  </p> 
 </div>
-<img src="images/fjj-47-3.jpg" width="250" height="273"/>
+<img src="images/fjj-47-3.jpg" width="250" height="273" alt="巴富班迪卡比丘 苦行不能断疑惑"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到巴富班迪卡。
@@ -70,7 +70,7 @@
  不以刀杖等加害众生<br>
  他是梵行者沙门比丘</p> 
 </div>
-<img src="images/fjj-47-4.jpg" width="250" height="274"/>
+<img src="images/fjj-47-4.jpg" width="250" height="274" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到波斯匿王的大臣山达迪。

@@ -3,7 +3,7 @@
 刽子手坦巴达提卡 即使一句法语也有莫大利益
 
 <div class="e2">
-<img src="images/fjj-35-1.jpg" width="250" height="263"/>
+<img src="images/fjj-35-1.jpg" width="250" height="263" alt="刽子手坦巴达提卡 即使一句法语也有莫大利益"/>
 <div>
  <p class="p13-5">8～1<br>
  虽诵千言句<br>
@@ -27,7 +27,7 @@
  不如一义偈<br>
  闻已得寂静</p> 
 </div>
-<img src="images/fjj-35-2.jpg" width="250" height="268"/>
+<img src="images/fjj-35-2.jpg" width="250" height="268" alt="婆西亚达如斯亚证果 智慧的诗偈令人寂静"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到婆西亚达如斯亚。

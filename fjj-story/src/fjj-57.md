@@ -1,7 +1,7 @@
 纺织女 少数人脱离罗网获得自由
 
 <div class="e2">
-<img src="images/fjj-57-1.jpg" width="245" height="259"/>
+<img src="images/fjj-57-1.jpg" width="245" height="259" alt="纺织女 少数人脱离罗网获得自由"/>
 <div>
 13～8<br>
  世俗多盲目<br>
@@ -20,7 +20,7 @@
 三十位比丘 智者跨越世间
 
 <div class="e2">
-<img src="images/fjj-57-2.jpg" width="245" height="264"/>
+<img src="images/fjj-57-2.jpg" width="245" height="264" alt="三十位比丘 智者跨越世间"/>
 <div>
 13～9<br>
  天鹅飞行于虚空<br>
@@ -48,7 +48,7 @@
  不信来世者<br>
  无恶而不作</p> 
 </div>
-<img src="images/fjj-57-3.jpg" width="245" height="263"/>
+<img src="images/fjj-57-3.jpg" width="245" height="263" alt="坏女人辛加摩那薇卡 妄语者无恶不作"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位坏女人辛加摩那薇卡。

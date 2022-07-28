@@ -3,7 +3,7 @@
 盲僧迦丘帕拉 邪念带来苦果
 
 <div class="e2">
-<img src="images/fjj-01-1.jpg" width="170" height="180"/>
+<img src="images/fjj-01-1.jpg" width="170" height="180" alt="盲僧迦丘帕拉 邪念带来苦果"/>
 <div>
 1-1<br>
  诸法意为先<br>
@@ -26,7 +26,7 @@
 少年婆罗门 善念带来乐果
 
 <div class="e2">
-<img src="images/fjj-01-2.jpg" width="166" height="177"/>
+<img src="images/fjj-01-2.jpg" width="166" height="177" alt="少年婆罗门 善念带来乐果"/>
 <div>
 1-2<br>
  诸法意为先<br>

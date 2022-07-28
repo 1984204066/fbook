@@ -18,7 +18,7 @@
  失意识被弃<br>
  无用如槁木</p>
 </div>
-<img src="images/fjj-14-2.gif" width="250" height="271" hspace="10" vspace="10"/>
+<img src="images/fjj-14-2.gif" width="250" height="271" hspace="10" vspace="10" alt="体臭的提舍尊者 没有心识身躯无用"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到菩提珈塔提舍比丘，意思是身体发臭的提舍比丘。

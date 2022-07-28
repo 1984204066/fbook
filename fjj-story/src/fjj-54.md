@@ -9,7 +9,7 @@
 卡拉比丘 持恶见者自毁
 
 <div class="e2">
-<img src="images/fjj-54-1.jpg" width="245" height="267"/>
+<img src="images/fjj-54-1.jpg" width="245" height="267" alt="卡拉比丘 持恶见者自毁"/>
 <div>
 12～8<br>
  恶慧愚痴人<br>
@@ -41,7 +41,7 @@
  净不净依己<br>
  何人能净汝</p> 
 </div>
-<img src="images/fjj-54-2.jpg" width="245" height="266"/>
+<img src="images/fjj-54-2.jpg" width="245" height="266" alt="信徒估拉卡拉 自造污净"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到在家弟子估拉卡拉。
@@ -67,7 +67,7 @@
  促进己修行<br>
  </p> 
 </div>
-<img src="images/fjj-54-3.jpg" width="245" height="258"/>
+<img src="images/fjj-54-3.jpg" width="245" height="258" alt="阿它达塔尊者 利他也要利己"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿它达塔尊者。

@@ -8,7 +8,7 @@
  舍弃邪恶心念<br>
  以正念修善行
 </div>
-<img src="images/fjj-69-1.jpg" width="230" height="250"/>
+<img src="images/fjj-69-1.jpg" width="230" height="250" alt="穿木屐的比丘 调伏身口意（2）"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  心念亦调伏<br>
  实完全调伏
 </div>
-<img src="images/fjj-69-2.jpg" width="230" height="250"/>
+<img src="images/fjj-69-2.jpg" width="230" height="250" alt="穿木屐的比丘 调伏身口意（2）"/>
 </div>
 
 有一天，六位僧人穿着木屐，拿着木杖，在石板路上走来走去，辟哩啪啦制造噪音。佛陀问阿难是什么声音，阿难报告后，佛陀说：“每个人都要体谅别人，不要破坏宁静，比丘应控制自己身口意的言行举止。”
@@ -36,7 +36,7 @@
  汝已伫立死亡前<br>
  旅途不见汝资粮
 </div>
-<img src="images/fjj-69-3.jpg" width="230" height="247"/>
+<img src="images/fjj-69-3.jpg" width="230" height="247" alt="屠夫和他的子孙 自建洲屿为依止处"/>
 </div>
 
 <div class="e2">
@@ -47,7 +47,7 @@
  扫除尘垢无罪恶<br>
  得达天界圣贤界
 </div>
-<img src="images/fjj-69-4.jpg" width="230" height="246"/>
+<img src="images/fjj-69-4.jpg" width="230" height="246" alt="屠夫和他的子孙 自建洲屿为依止处"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位屠夫和他的子孙。
@@ -64,7 +64,7 @@
  途中无有依止处<br>
  旅途不见汝资粮
 </div>
-<img src="images/fjj-69-5.jpg" width="230" height="251"/>
+<img src="images/fjj-69-5.jpg" width="230" height="251" alt=""/>
 </div>
 
 <div class="e2">
@@ -75,7 +75,7 @@
  扫除尘垢无罪恶<br>
  不再堕入老与生
 </div>
-<img src="images/fjj-69-6.jpg" width="230" height="246"/>
+<img src="images/fjj-69-6.jpg" width="230" height="246" alt=""/>
 </div>
 
 屠夫的儿子见此情状，吓得全身颤抖，怕被诅咒连累，便搬离舍卫城去学做金匠。由于聪明认真，娶了金匠师傅的女儿，也生了几个儿子。儿子长大后，个个学佛，乐善好施，个个又搬回舍卫城的老家。这些儿子们认为父亲与祖父一样爱吃肉又不知行善，所以有一天就请了佛陀及比丘们来家里接受供养，希望以此功德回向给他们的父亲。
@@ -92,7 +92,7 @@
  渐除自垢秽<br>
  如金匠冶金
 </div>
-<img src="images/fjj-69-7.jpg" width="230" height="246"/>
+<img src="images/fjj-69-7.jpg" width="230" height="246" alt="行善的婆罗门 点滴清除自己的垢秽"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位婆罗门。

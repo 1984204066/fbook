@@ -12,7 +12,7 @@
  不如吞铁丸<br>
  炽热如火焰
 </div>
-<img src="images/fjj-82-1.jpg" width="300" height="322"/>
+<img src="images/fjj-82-1.jpg" width="300" height="322" alt="谎称证圣果的比丘 施食恶行僧不如让他吃铁丸"/>
 </div>
 
 佛陀居住在毗舍离城的摩诃瓦那树林时，有一次提到一些僧人。
@@ -33,7 +33,7 @@
  一造恶业二不安眠<br>
  三蒙羞耻四堕地狱
 </div>
-<img src="images/fjj-82-2.jpg" width="300" height="322"/>
+<img src="images/fjj-82-2.jpg" width="300" height="322" alt="痛改邪淫守五戒 邪淫堕地狱"/>
 </div>
 
 <div class="e2">
@@ -44,7 +44,7 @@
  国王加重刑<br>
  男莫淫他妇
 </div>
-<img src="images/fjj-82-3.jpg" width="300" height="327"/>
+<img src="images/fjj-82-3.jpg" width="300" height="327" alt="痛改邪淫守五戒 邪淫堕地狱"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到富家子可玛。可玛英俊潇洒，许多女性无法抗拒他的魅力，深深迷恋他。他和许多女性暗通款曲，丝毫没有良心不安。由于他是给孤独长者侄子，所以国王带他去见佛陀。佛陀向可玛说明邪淫的罪恶和严重的后果后，可玛痛改前非，遵守五戒。
@@ -59,7 +59,7 @@
  沙门作邪行<br>
  将堕入地狱
 </div>
-<img src="images/fjj-82-4.jpg" width="300" height="317"/>
+<img src="images/fjj-82-4.jpg" width="300" height="317" alt="固执任性的比丘 邪行堕地狱"/>
 </div>
 
 <div class="e2">
@@ -70,7 +70,7 @@
  疑清净梵行<br>
  不能得大果
 </div>
-<img src="images/fjj-82-5.jpg" width="300" height="321"/>
+<img src="images/fjj-82-5.jpg" width="300" height="321" alt="固执任性的比丘 邪行堕地狱"/>
 </div>
 
 <div class="e2">
@@ -81,7 +81,7 @@
  放逸游行僧<br>
  增长于尘欲
 </div>
-<img src="images/fjj-82-6.jpg" width="300" height="318"/>
+<img src="images/fjj-82-6.jpg" width="300" height="318" alt="固执任性的比丘 邪行堕地狱"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位固执的僧人。有一位比丘向另一位比丘忏悔他无意中砍伐了一些树木，被告知的这位比丘鲁莽固执任性，他说：“这是小事一桩，没有关系的。你已向我忏悔就够了，不必自责。”说着说着，还用双手拔起一些树苗，表示不必把小戒放在心上。

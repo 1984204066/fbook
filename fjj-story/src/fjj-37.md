@@ -1,7 +1,7 @@
 舍利弗尊者的舅舅 供养贤圣者功德大
 
 <div class="e2">
-<img src="images/fjj-37-1.jpg" width="250" height="275"/>
+<img src="images/fjj-37-1.jpg" width="250" height="275" alt="舍利弗尊者的舅舅 供养贤圣者功德大"/>
 <div>
  <p class="p13-5">8～7<br>
  月月投干金<br>
@@ -33,7 +33,7 @@
  能如此供养<br>
  胜火祭百年</p> 
 </div>
-<img src="images/fjj-37-2.jpg" width="250" height="269"/>
+<img src="images/fjj-37-2.jpg" width="250" height="269" alt="舍利弗尊者的侄子 供养贤圣胜火祭百年"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到舍利弗尊者的侄子。
@@ -43,7 +43,7 @@
 舍利弗尊者的一位朋友 礼敬贤圣是尊贵行
 
 <div class="e2">
-<img src="images/fjj-37-3.jpg" width="250" height="263"/>
+<img src="images/fjj-37-3.jpg" width="250" height="263" alt="舍利弗尊者的一位朋友 礼敬贤圣是尊贵行"/>
 <div>
  <p class="p13-5">8～9<br>
  世间行善者<br>
@@ -69,7 +69,7 @@
  获四利益 <br>
  寿美乐利</p> 
 </div>
-<img src="images/fjj-37-4.jpg" width="250" height="268" border="0"/>
+<img src="images/fjj-37-4.jpg" width="250" height="268" border="0" alt="长寿的孩子 礼敬贤圣获四种利益"/>
 </div>
 
 佛陀居住在迪卡朗伊卡时，有一天，提到一对夫妇生了一个小孩叫亚育瓦达那。

@@ -3,7 +3,7 @@
 愚人节 精进正念如守护财富
 
 <div class="e2">
-<img src="images/fjj-10-1.jpg" width="234" height="255" align="right"/>
+<img src="images/fjj-10-1.jpg" width="234" height="255" align="right" alt="愚人节 精进正念如守护财富"/>
 <div>
 <p>&nbsp;</p> <p>&nbsp;</p> <p>2～6<br>
  愚痴暗钝者 沉溺于放逸<br>
@@ -17,7 +17,7 @@
  不沉溺放逸 不纵情欲乐<br>
  精进修禅定 达安乐极致</p>
 </div>
-<img src="images/fjj-10-2.jpg" width="232" height="255" align="right"/>
+<img src="images/fjj-10-2.jpg" width="232" height="255" align="right" alt="愚人节 精进正念如守护财富"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到舍卫城庆祝的一个特殊节日——愚人节。在这十天的节日中，人们身上涂着牛粪，闲荡喧哗，行为粗俗，丑态百出，亲人见面可以不打招呼，可以在别人家门口辱骂粗话，对方若是不能忍受就得给钱才肯离去。
@@ -40,7 +40,7 @@
  如同登于高山<br>
  俯视地上万物</p>
 </div>
-<img src="images/fjj-10-3.jpg" width="234" height="249"/>
+<img src="images/fjj-10-3.jpg" width="234" height="249" alt=""/>
 </div>
 
 佛陀不断提醒弟子们要确实体悟、参透世间变化无常、苦、无我的实相，从而努力在身口意方面灭除贪瞋痴，达到烦恼痛苦的解脱涅槃，解脱生死轮回。至于其他有关生命有边无边、宇宙永恒不永恒等等与修行无关的问题，佛陀并不重视。人只要勤奋正念弃除贪瞋痴，一旦成为具有无上智慧的究竟圣者如佛陀，自然就具足了解生死轮回的能力。
@@ -55,7 +55,7 @@
  深智者超越群众<br>
  如骏马领先弱马</p>
 </div>
-<img src="images/fjj-10-4.jpg" width="234" height="257"/>
+<img src="images/fjj-10-4.jpg" width="234" height="257" alt="两位尊者 不放逸者如骏马"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到两位比丘。

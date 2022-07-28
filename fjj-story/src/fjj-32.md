@@ -1,7 +1,7 @@
 大迦叶尊者 阿罗汉持正念离系缚
 
 <div class="e2">
-<img src="images/fjj-32-1.jpg" width="250" height="267"/>
+<img src="images/fjj-32-1.jpg" width="250" height="267" alt="大迦叶尊者 阿罗汉持正念离系缚"/>
 <div>
  <p class="p13-5">7～2<br>
  正念勤奋者<br>
@@ -24,7 +24,7 @@
 贝拉西沙尊者 阿罗汉了达空无相
 
 <div class="e2">
-<img src="images/fjj-32-2.jpg" width="250" height="261"/>
+<img src="images/fjj-32-2.jpg" width="250" height="261" alt="贝拉西沙尊者 阿罗汉了达空无相"/>
 <div>
  <p class="p13-5">7～3<br>
  他们不积聚<br>
@@ -52,7 +52,7 @@
  行径如鸟翔空<br>
  其踪迹不可寻</p> 
 </div>
-<img src="images/fjj-32-3.jpg" width="250" height="265"/>
+<img src="images/fjj-32-3.jpg" width="250" height="265" alt="阿那律陀尊者 阿罗汉境界难以测度"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿那律陀尊者。

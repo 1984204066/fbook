@@ -10,7 +10,7 @@
  隐蔽自己过失<br>
  如以枝叶掩体
 </div>
-<img src="images/fjj-72-1.jpg" width="300" height="322"/>
+<img src="images/fjj-72-1.jpg" width="300" height="322" alt="富翁门达卡 夸大别人的过失"/>
 </div>
 
 佛陀居住在跋提城时，有一次提到富翁门达卡和他的家人。
@@ -27,7 +27,7 @@
  增烦恼垢秽<br>
  离断惑清净
 </div>
-<img src="images/fjj-72-2.jpg" width="300" height="337"/>
+<img src="images/fjj-72-2.jpg" width="300" height="337" alt="爱批评别人的比丘 只见他人的过失"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到优哈那桑尼比丘。
@@ -44,7 +44,7 @@
  众生喜虚妄<br>
  如来无虚妄
 </div>
-<img src="images/fjj-72-3.jpg" width="300" height="318"/>
+<img src="images/fjj-72-3.jpg" width="300" height="318" alt="游方僧须跋陀罗 如来无虚妄动乱"/>
 </div>
 
 <div class="e2">
@@ -55,7 +55,7 @@
  事物无永恒<br>
  诸佛无动乱
 </div>
-<img src="images/fjj-72-4.jpg" width="300" height="323"/>
+<img src="images/fjj-72-4.jpg" width="300" height="323" alt="游方僧须跋陀罗 如来无虚妄动乱"/>
 </div>
 
 佛陀圆寂前居住在拘尸那罗的优帕瓦他那树林时，有一位四处云游的苦行僧须跋陀罗听说佛陀当天就要般涅槃了，急急赶来，希望面见佛陀，却被阿难尊者婉拒。佛陀听见他们的谈话，亲口答应见他。他礼拜佛陀后，恭敬坐在一旁，请教佛陀三个问题：①天空是否有轨迹；②外道有没有沙门（圣人）；③世间一切事物是否永恒。
@@ -74,7 +74,7 @@
  智者应辨别<br>
  正义非正义
 </div>
-<img src="images/fjj-72-5.jpg" width="300" height="323"/>
+<img src="images/fjj-72-5.jpg" width="300" height="323" alt="法官收受贿赂 公平正义辨别正邪"/>
 </div>
 
 <div class="e2">
@@ -85,7 +85,7 @@
  智者护正法<br>
  真正法住者
 </div>
-<img src="images/fjj-72-6.jpg" width="300" height="320"/>
+<img src="images/fjj-72-6.jpg" width="300" height="320" alt="法官收受贿赂 公平正义辨别正邪"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到贪污的法官。

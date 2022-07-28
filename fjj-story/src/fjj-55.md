@@ -1,7 +1,7 @@
 第十三品 世品 毗舍佉的孙女和小沙弥 不培养世俗邪念
 
 <div class="e2">
-<img src="images/fjj-55-1.jpg" width="245" height="265"/>
+<img src="images/fjj-55-1.jpg" width="245" height="265" alt=""/>
 <div>
 13～1<br>
  不培养败德<br>
@@ -18,7 +18,7 @@
 净饭王 如法生活今世来世都安乐
 
 <div class="e2">
-<img src="images/fjj-55-2.jpg" width="245" height="264"/>
+<img src="images/fjj-55-2.jpg" width="245" height="264" alt="净饭王 如法生活今世来世都安乐"/>
 <div>
 13～2<br>
  从现实觉醒不受骗<br>
@@ -29,7 +29,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-55-3.jpg" width="245" height="261"/>
+<img src="images/fjj-55-3.jpg" width="245" height="261" alt="净饭王 如法生活今世来世都安乐"/>
 <div>
 13～3<br>
  过如法正确的日子<br>
@@ -55,7 +55,7 @@
  如是观世界<br>
  死王无法见</p> 
 </div>
-<img src="images/fjj-55-4.jpg" width="245" height="266"/>
+<img src="images/fjj-55-4.jpg" width="245" height="266" alt="一批僧人 观察世间虚幻不实"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一些僧人。
@@ -79,7 +79,7 @@
  智者无系缚<br>
  </p> 
 </div>
-<img src="images/fjj-55-5.jpg" width="245" height="266"/>
+<img src="images/fjj-55-5.jpg" width="245" height="266" alt="王子阿巴耶 世间情爱虚幻不实(1)"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到王子阿巴耶。阿巴耶王子战胜回来，国王给他许多奖赏和荣耀，并赐一名舞女陪他欢乐。经过七天的纵情声色，舞女不支倒地死亡，王子非常悲恸，请求佛陀指点迷津。佛陀安慰他：“你累世为她所流的眼泪，已无可计量，愚痴不成熟的人才会沉溺于悲伤中。”

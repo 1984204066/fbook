@@ -8,7 +8,7 @@
  从苦得解脱<br>
  此乃清净道
 </div>
-<img src="images/fjj-76-1.jpg" width="300" height="328"/>
+<img src="images/fjj-76-1.jpg" width="300" height="328" alt="比丘观缘起 一切缘起法无常苦无我（2）"/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  从苦得解脱<br>
  此乃清净道
 </div>
-<img src="images/fjj-76-2.jpg" width="300" height="326"/>
+<img src="images/fjj-76-2.jpg" width="300" height="326" alt="比丘观缘起 一切缘起法无常苦无我（2）"/>
 </div>
 
 这一群僧人从佛陀那儿获得禅观题目后，到树林僻静处勤奋修行，可是进步缓慢，所以他们回去请佛陀给予他们更适合的禅观题目。
@@ -36,7 +36,7 @@
  意志消沉陷怠惰<br>
  不能寻获智慧道
 </div>
-<img src="images/fjj-76-3.jpg" width="300" height="329"/>
+<img src="images/fjj-76-3.jpg" width="300" height="329" alt="怠惰的比丘提沙 及时努力求智慧之道"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位懒惰的僧人提沙。
@@ -55,7 +55,7 @@
  净此三业道<br>
  得圣所示道
 </div>
-<img src="images/fjj-76-4.jpg" width="300" height="318"/>
+<img src="images/fjj-76-4.jpg" width="300" height="318" alt="猪头人身的饿鬼 净化身口意三业"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一只猪头人身的饿鬼。
@@ -74,7 +74,7 @@
  应建立自己<br>
  增长于智慧
 </div>
-<img src="images/fjj-76-5.jpg" width="300" height="310"/>
+<img src="images/fjj-76-5.jpg" width="300" height="310" alt=""/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到波思拉尊者。波思拉是一位资深的比丘，深解佛法，也教导比丘佛法，可是为人贡高我慢。佛陀清楚他的缺点，有一天，就在他来向佛陀顶礼问讯时，佛陀称呼他：“没用的波思拉！”几次听到佛陀这样称呼自己时，他自我反省找出了答案，原来自己虽对佛法具有广泛的知识，却不精进禅修，所以尚未证得圣果。

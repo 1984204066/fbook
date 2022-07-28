@@ -18,7 +18,7 @@
  若能善于调伏心念<br>
  解脱死亡魔王系缚</p>
 </div>
-<img src="images/fjj-13-2.gif" width="250" height="279" hspace="10" vspace="10"/>
+<img src="images/fjj-13-2.gif" width="250" height="279" hspace="10" vspace="10" alt="僧加罗士达尊者 调伏的心解脱系缚"/>
 </div>
 
 质多哈达尊者 心不坚定智慧不增长①
@@ -32,7 +32,7 @@
  智慧不增长<br>
  </p>
 </div>
-<img src="images/fjj-13-3.gif" width="250" height="264" hspace="10" vspace="10"/>
+<img src="images/fjj-13-3.gif" width="250" height="264" hspace="10" vspace="10" alt="质多哈达尊者 心不坚定智慧不增长①"/>
 </div>
 
 <div class="e2">
@@ -43,7 +43,7 @@
  超越善与恶<br>
  清醒不恐怖</p>
 </div>
-<img src="images/fjj-13-4.gif" width="250" height="267" hspace="10" vspace="10"/>
+<img src="images/fjj-13-4.gif" width="250" height="267" hspace="10" vspace="10" alt="质多哈达尊者 心不坚定智慧不增长①"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到质多哈达尊者。

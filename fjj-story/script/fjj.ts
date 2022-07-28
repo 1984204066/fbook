@@ -1,7 +1,7 @@
 import { AnyNode, BasicAcceptedElems, CheerioAPI, contains, load } from "cheerio";
 import * as fs from "fs";
 import iconv from "iconv-lite";
-
+let last_word = "";
 let fname = process.argv[2];
 // let fname = "../html/continue/fjj061004/fjj-01.htm";
 if (fs.existsSync(fname)) {
@@ -141,7 +141,11 @@ function handleImgPoem(
                 src = src && src.replace(re, "img2/");
                 $(img).attr("src", src);
             }
-            img_poem += $.xml(img) + "\n";
+	    const word = " alt=\""+last_word + "\"/>";
+	    // const word = iconv.encode(last_word, 'utf8');
+	    const imgstr = $.xml(img);
+	    // $(img).attr("alt", word);
+            img_poem +=  imgstr.replace(/\/>/, word) + "\n";
         });
     } else {
         // poem
@@ -150,7 +154,7 @@ function handleImgPoem(
 	p = p.replace(/　+/g, "").replace(/\s+/g, " ").replace(/<br>/g, "<br>\n");
 	const $2 = load(p);
 	const div = $2('div').html();
-	console.error(div);
+	// console.error(div);
 	p = (div === null? p : div);
 	// console.error($2.root().html());
 	// if ($2('div').toArray().length > 0) {
@@ -179,7 +183,20 @@ function handleStory($: CheerioAPI, elem: BasicAcceptedElems<AnyNode>): string {
         // console.error($(elem).text());
         str += handleLine($(elem).text());
     }
+    saveLastWords(str);
     return str;
+}
+
+function saveLastWords(words: string) {
+    const re = /^\S+\s*\S+\s*$/;
+    // const last = re.test(words);
+    let last = words.match(re)?.[0];
+    last = (last === undefined ? "":last);
+    last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
+    // console.error(`${last_word.length} -- ${last_word}`);
+    if (last_word.length > 24) { // too long
+	last_word = "";
+    }
 }
 
 function handleLine(text: string) {

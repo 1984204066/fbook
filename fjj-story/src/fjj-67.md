@@ -18,7 +18,7 @@
  以此三条件<br>
  能往生天界
 </div>
-<img src="images/fjj-67-1.jpg" width="230" height="249"/>
+<img src="images/fjj-67-1.jpg" width="230" height="249" alt="大目犍连尊者在天界所见 善德往生天界"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到摩诃目犍连尊者提出的问题。
@@ -37,7 +37,7 @@
  到达不死界<br>
  无悲忧处所
 </div>
-<img src="images/fjj-67-2.jpg" width="230" height="249"/>
+<img src="images/fjj-67-2.jpg" width="230" height="249" alt="自称佛陀之父 调伏自身达不死界"/>
 </div>
 
 佛陀居住在娑祇城的央祇那树林时，有一次提到一位自称是佛陀之父的婆罗门。

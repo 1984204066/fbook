@@ -1,7 +1,7 @@
 貌美的比丘尼 身体是老死慢虚伪的家
 
 <div class="e2">
-<img src="images/fjj-50-1.jpg" width="245" height="261"/>
+<img src="images/fjj-50-1.jpg" width="245" height="261" alt="貌美的比丘尼 身体是老死慢虚伪的家"/>
 <div>
 11～5<br>
  此城骨所建<br>
@@ -27,7 +27,7 @@
  体验教法不退转<br>
  持戒善者悟真理</p> 
 </div>
-<img src="images/fjj-50-2.jpg" width="245" height="269"/>
+<img src="images/fjj-50-2.jpg" width="245" height="269" alt="末利王妃 佛法永垂不朽"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到波斯匿王的王妃末利夫人。
@@ -57,7 +57,7 @@
  不长智慧<br>
  </p> 
 </div>
-<img src="images/fjj-50-3.jpg" width="245" height="267"/>
+<img src="images/fjj-50-3.jpg" width="245" height="267" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到卡鲁达伊比丘。

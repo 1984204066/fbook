@@ -3,7 +3,7 @@
 提沙尊者 怨恨报复带来伤害
 
 <div class="e2">
-<img src="images/fjj-02-1.jpg" width="170" height="184"/>
+<img src="images/fjj-02-1.jpg" width="170" height="184" alt="提沙尊者 怨恨报复带来伤害"/>
 <div>
 <p> <br>
  1～3 <br>
@@ -15,7 +15,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-02-2.jpg" width="170" height="184"/>
+<img src="images/fjj-02-2.jpg" width="170" height="184" alt="提沙尊者 怨恨报复带来伤害"/>
 <div>
 1～4<br>
  他骂我打我 <br>
@@ -36,7 +36,7 @@
 女妖卡里牙基尼 无瞋战胜怨恨
 
 <div class="e2">
-<img src="images/fjj-02-3.jpg" width="170" height="191"/>
+<img src="images/fjj-02-3.jpg" width="170" height="191" alt="女妖卡里牙基尼 无瞋战胜怨恨"/>
 <div>
 <p>&nbsp;</p> <p> 1～5 <br>
  于此世间中 <br>

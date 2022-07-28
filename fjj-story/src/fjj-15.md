@@ -19,7 +19,7 @@
  心识向正行<br>
  善业更加大</p>
 </div>
-<img src="images/fjj-15-2.gif" width="250" height="265" hspace="10" vspace="10"/>
+<img src="images/fjj-15-2.gif" width="250" height="265" hspace="10" vspace="10" alt="富家子梭儒亚 正行的心造福更大"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到年轻的富家子梭儒亚。

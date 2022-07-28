@@ -6,7 +6,7 @@
  已经拔出生有箭<br>
  此是他之最后身
 </div>
-<img src="images/fjj-89-1.jpg" width="300" height="326"/>
+<img src="images/fjj-89-1.jpg" width="300" height="326" alt=""/>
 </div>
 
 <div class="e2">
@@ -19,7 +19,7 @@
  已达完美最后身<br>
  佛大智者和圣人
 </div>
-<img src="images/fjj-89-2.jpg" width="300" height="324"/>
+<img src="images/fjj-89-2.jpg" width="300" height="324" alt=""/>
 </div>
 
 圣者灭欲无系缚是最后之身
@@ -38,7 +38,7 @@
  已达无欲解脱界<br>
  自证谁能为我师
 </div>
-<img src="images/fjj-89-3.jpg" width="300" height="325"/>
+<img src="images/fjj-89-3.jpg" width="300" height="325" alt=""/>
 </div>
 
 佛度有缘人 佛陀无师自证
@@ -55,7 +55,7 @@
  喜乐中法喜最胜<br>
  除爱欲灭一切苦
 </div>
-<img src="images/fjj-89-4.jpg" width="300" height="318"/>
+<img src="images/fjj-89-4.jpg" width="300" height="318" alt=""/>
 </div>
 
 佛法最殊胜 佛法除爱欲灭一切苦
@@ -74,7 +74,7 @@
  愚痴者贪恋财富<br>
  毁灭自己和他人
 </div>
-<img src="images/fjj-89-5.jpg" width="300" height="320"/>
+<img src="images/fjj-89-5.jpg" width="300" height="320" alt=""/>
 </div>
 
 吝啬枉生为人 贪恋财富毁人毁己（1）

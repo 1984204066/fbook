@@ -8,7 +8,7 @@
  灭尽已知诸蕴<br>
  达无造作涅槃
 </div>
-<img src="images/fjj-95-1.jpg" width="300" height="322"/>
+<img src="images/fjj-95-1.jpg" width="300" height="322" alt="比丘不一定就是阿罗汉 截断欲流达无造作涅槃（2）"/>
 </div>
 
 这位婆罗门向佛陀叙述他的虔诚，也请示佛陀，是什么原因，有些比丘们反而不愿接受他的供养。佛陀询问来龙去脉后，安慰了他，也对比丘们说：“比丘们！这婆罗门所以如此尊称你们，是出于对阿罗汉的无限敬意，只要你们不会因为如此称呼就有虚假的骄傲和不如法的喜悦就可以了。比丘当然应该彻底弃除贪爱之心，截断欲爱瀑流，以期证得阿罗汉果。”
@@ -23,7 +23,7 @@
  心则变得通达<br>
  系缚完全消失
 </div>
-<img src="images/fjj-95-2.jpg" width="300" height="323"/>
+<img src="images/fjj-95-2.jpg" width="300" height="323" alt="断除系缚的智者 常住止观二法达彼岸"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一些比丘。
@@ -42,7 +42,7 @@
  离垢无系缚<br>
  称为婆罗门
 </div>
-<img src="images/fjj-95-3.jpg" width="300" height="321"/>
+<img src="images/fjj-95-3.jpg" width="300" height="321" alt="此岸彼岸 无烦恼系缚是真正婆罗门"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到魔王。
@@ -61,7 +61,7 @@
  获证最高境界<br>
  被称为婆罗门
 </div>
-<img src="images/fjj-95-4.jpg" width="300" height="325"/>
+<img src="images/fjj-95-4.jpg" width="300" height="325" alt="婆罗门 所作已办无漏是婆罗门"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一位婆罗门。
@@ -82,7 +82,7 @@
  唯有佛陀的慧光<br>
  能在昼夜中辉照
 </div>
-<img src="images/fjj-95-5.jpg" width="300" height="321"/>
+<img src="images/fjj-95-5.jpg" width="300" height="321" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到阿难尊者。

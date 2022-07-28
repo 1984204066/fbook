@@ -8,7 +8,7 @@
  志向于涅槃<br>
  息灭诸烦恼
 </div>
-<img src="images/fjj-68-1.jpg" width="230" height="244"/>
+<img src="images/fjj-68-1.jpg" width="230" height="244" alt="女奴璞那 醒觉律己志向涅槃"/>
 </div>
 
 佛陀居住在其迦曲塔时，有一次提到一个女奴。
@@ -30,7 +30,7 @@
  少话者被人毁谤<br>
  没有不被毁谤者
 </div>
-<img src="images/fjj-68-2.jpg" width="230" height="248"/>
+<img src="images/fjj-68-2.jpg" width="230" height="248" alt="在家弟子阿拘拉 人人皆有毁誉"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到在家弟子阿拘拉和他的朋友。
@@ -45,7 +45,7 @@
  古时与未来<br>
  及现在未见
 </div>
-<img src="images/fjj-68-3.jpg" width="230" height="248"/>
+<img src="images/fjj-68-3.jpg" width="230" height="248" alt=""/>
 </div>
 
 <div class="e2">
@@ -56,7 +56,7 @@
  智慧戒行兼具<br>
  此为智者称赞
 </div>
-<img src="images/fjj-68-4.jpg" width="230" height="245"/>
+<img src="images/fjj-68-4.jpg" width="230" height="245" alt=""/>
 </div>
 
 <div class="e2">
@@ -67,7 +67,7 @@
  天人也赞誉<br>
  梵行者赞誉
 </div>
-<img src="images/fjj-68-5.jpg" width="230" height="244"/>
+<img src="images/fjj-68-5.jpg" width="230" height="244" alt=""/>
 </div>
 
 佛陀回答说：“阿拘拉啊！从古至今，那些沉默者、多话者、少话者都被毁谤，没有人不被毁谤的。土地，太阳，月亮，甚至佛陀，虽然有人称赞，也有人毁谤。被那些心胸狭窄的愚者称赞和毁谤都不重要，重要的是智者的谴责才是真正的谴责，智者的称赞才是真正的称赞。”
@@ -82,7 +82,7 @@
  舍弃身欲恶行<br>
  以自身修善行
 </div>
-<img src="images/fjj-68-6.jpg" width="230" height="249"/>
+<img src="images/fjj-68-6.jpg" width="230" height="249" alt="穿木屐的比丘 调伏身口意（1）"/>
 </div>
 
 <div class="e2">
@@ -93,7 +93,7 @@
  舍弃邪恶语言<br>
  以正语修善行
 </div>
-<img src="images/fjj-68-7.jpg" width="230" height="246"/>
+<img src="images/fjj-68-7.jpg" width="230" height="246" alt="穿木屐的比丘 调伏身口意（1）"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到六位僧人。

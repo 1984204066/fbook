@@ -9,7 +9,7 @@
 在家弟子摩诃迦罗 自作孽不可活
 
 <div class="e2">
-<img src="images/fjj-53-1.jpg" width="245" height="266"/>
+<img src="images/fjj-53-1.jpg" width="245" height="266" alt="在家弟子摩诃迦罗 自作孽不可活"/>
 <div>
 12～5<br>
  恶行由自己做<br>
@@ -37,7 +37,7 @@
  行恶摧毁自己<br>
  如被敌人加害</p> 
 </div>
-<img src="images/fjj-53-2.jpg" width="245" height="267"/>
+<img src="images/fjj-53-2.jpg" width="245" height="267" alt="比丘提婆达多 恶行自取灭亡"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到比丘提婆达多。
@@ -63,7 +63,7 @@
  实为极难行<br>
  </p> 
 </div>
-<img src="images/fjj-53-3.jpg" width="245" height="263"/>
+<img src="images/fjj-53-3.jpg" width="245" height="263" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到使僧团分裂的比丘提婆达多。

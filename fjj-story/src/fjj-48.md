@@ -1,7 +1,7 @@
 卑卢提卡尊者 羞耻克己弃除苦忧
 
 <div class="e2">
-<img src="images/fjj-48-1.jpg" width="250" height="270"/>
+<img src="images/fjj-48-1.jpg" width="250" height="270" alt="卑卢提卡尊者 羞耻克己弃除苦忧"/>
 <div>
 10～15<br>
  以惭克己者<br>
@@ -13,7 +13,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-48-2.jpg" width="250" height="269"/>
+<img src="images/fjj-48-2.jpg" width="250" height="269" alt="卑卢提卡尊者 羞耻克己弃除苦忧"/>
 <div>
 10～16<br>
  如良马加鞭<br>
@@ -49,7 +49,7 @@
  智者自调御<br>
  </p> 
 </div>
-<img src="images/fjj-48-3.jpg" width="250" height="275"/>
+<img src="images/fjj-48-3.jpg" width="250" height="275" alt="沙弥殊卡 智者善于调御自己的欲念"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到沙弥殊卡。
@@ -79,7 +79,7 @@
  何不寻光明<br>
  </p> 
 </div>
-<img src="images/fjj-48-4.jpg" width="250" height="272"/>
+<img src="images/fjj-48-4.jpg" width="250" height="272" alt=""/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到毗舍佉和一些女众。

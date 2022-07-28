@@ -9,7 +9,7 @@
 车匿尊者 与贤者为伍
 
 <div class="e2">
-<img src="images/fjj-28-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-28-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt=""/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～3<br>
  莫与恶交友<br>
@@ -32,7 +32,7 @@
 摩诃劫宾那尊者 智者乐妙法
 
 <div class="e2">
-<img src="images/fjj-28-3.gif" width="250" height="265" hspace="30" vspace="10" align="middle"/>
+<img src="images/fjj-28-3.gif" width="250" height="265" hspace="30" vspace="10" align="middle" alt="摩诃劫宾那尊者 智者乐妙法"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～4<br>
  喜闻妙法者<br>

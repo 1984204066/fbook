@@ -8,7 +8,7 @@
  被瞋恚系缚<br>
  不解脱怨憎
 </div>
-<img src="images/fjj-79-1.jpg" width="300" height="317"/>
+<img src="images/fjj-79-1.jpg" width="300" height="317" alt="惟爱能止恨 为己害人得怨憎"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到一个爱吃鸡蛋的女人。
@@ -27,7 +27,7 @@
  傲慢放逸者<br>
  漏垢秽增长
 </div>
-<img src="images/fjj-79-2.jpg" width="300" height="321"/>
+<img src="images/fjj-79-2.jpg" width="300" height="321" alt="僧人编草鞋 反省自身灭烦恼"/>
 </div>
 
 <div class="e2">
@@ -38,7 +38,7 @@
  应做努力做<br>
  观者漏灭尽
 </div>
-<img src="images/fjj-79-3.jpg" width="300" height="324"/>
+<img src="images/fjj-79-3.jpg" width="300" height="324" alt="僧人编草鞋 反省自身灭烦恼"/>
 </div>
 
 佛陀居住在跋提时，有一次提到一些僧人。这些住在跋提的比丘们，喜欢制造并穿着以某种芦苇草编制成的美丽草鞋。佛陀知道后，对他们说：“加入僧团是为了证阿罗汉果，可是你们却把时间浪费在编制美丽的草鞋上。”比丘们从此改过，精进修习解脱之道。
@@ -53,7 +53,7 @@
  杀众臣（十二处）灭王国（执著）<br>
  趋向无忧婆罗门（圣者）
 </div>
-<img src="images/fjj-79-4.jpg" width="300" height="325"/>
+<img src="images/fjj-79-4.jpg" width="300" height="325" alt="去毒无忧 消灭邪见达涅槃"/>
 </div>
 
 <div class="e2">
@@ -64,7 +64,7 @@
  杀五虎将（五盖）灭王国（执著）<br>
  趋向无忧婆罗门（圣者）
 </div>
-<img src="images/fjj-79-5.jpg" width="300" height="321"/>
+<img src="images/fjj-79-5.jpg" width="300" height="321" alt="去毒无忧 消灭邪见达涅槃"/>
 </div>
 
 佛陀居住在祇树给孤独园时，有一次提到跋提尊者。
@@ -83,7 +83,7 @@
  无论昼与夜<br>
  常观想佛陀
 </div>
-<img src="images/fjj-79-6.jpg" width="300" height="317"/>
+<img src="images/fjj-79-6.jpg" width="300" height="317" alt="樵夫和儿子 常乐观身观佛法僧（1）"/>
 </div>
 
 <div class="e2">
@@ -94,5 +94,5 @@
  无论昼与夜<br>
  常观想达摩
 </div>
-<img src="images/fjj-79-7.jpg" width="300" height="323"/>
+<img src="images/fjj-79-7.jpg" width="300" height="323" alt="樵夫和儿子 常乐观身观佛法僧（1）"/>
 </div>
