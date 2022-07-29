@@ -1,0 +1,11 @@
+<section style="display: inline-block;">
+
+<!--- <section style="background-image: url(&quot;./img/background.png&quot;);background-repeat: no-repeat;background-attachment: initial;background-origin: initial;background-clip: initial;background-position: left bottom;background-size: 100%;"> --->
+
+<section style="display: flex;justify-content: center;align-items: center;padding: 20px 1.8em 13px;box-sizing: border-box;">
+
+<section style="width:3em; padding-right: 20px;">
+<img src="./img/feather.webp">
+</section>
+
+<span style="color: rgb(47, 136, 169); font-size: 14px;">
