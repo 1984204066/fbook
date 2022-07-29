@@ -78,7 +78,7 @@
  以施胜悭吝<br>
  以实胜虚妄
 </div>
-<img src="images/fjj-66-5.jpg" width="230" height="249" alt="四种胜利 (1)"/>
+<img src="images/fjj-66-5.jpg" width="230" height="249" alt="原谅他人 四种胜利 (1)"/>
 </div>
 
 佛陀居住在竹林精舍时，有一次提到一位在家弟子优它那。

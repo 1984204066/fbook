@@ -36,7 +36,7 @@
 舍利弗尊者 发展心智领悟真理 ①
 
 <div class="e2">
-<img src="images/fjj-04-3.jpg" width="160" height="180" alt="发展心智领悟真理 ①"/>
+<img src="images/fjj-04-3.jpg" width="160" height="180" alt="舍利弗尊者 发展心智领悟真理 ①"/>
 <div>
 <p><br>
  1-11<br>
@@ -48,7 +48,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-04-4.jpg" width="160" height="180" alt="发展心智领悟真理 ①"/>
+<img src="images/fjj-04-4.jpg" width="160" height="180" alt="舍利弗尊者 发展心智领悟真理 ①"/>
 <div>
 <p><br>
  1－12<br>

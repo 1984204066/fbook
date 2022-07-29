@@ -192,15 +192,26 @@ function saveLastWords(words: string) {
     // console.error("----------")
     // console.error(last);
     // console.error("^^^^^^^^^^")
+    function too_long(last: string) {
+        // console.error(`${last.length} -- ${last}`);
+        if (last.length > 26) { // too long
+            console.error("to longggg");
+            last = "";
+        }
+        return last;
+    }
+
+    const re = /\S+?\s+?\S+?$/;
     function last_re(last: string) {
-        const re = /\S+?\s+?\S+?$/;
-        // const last = re.test(words);
-        // console.error(last.match(re));
+        console.error(last.match(re));
         const lw = last.match(re)?.[0];
-        return lw === undefined ? "" : lw;
+        return too_long(lw === undefined ? "" : lw);
     }
 
     function last2(last: string) {
+	if (!re.test(last)) {
+	    return "";
+	}
         const a = last.split(" ");
 
         if (a.length > 0) {
@@ -210,21 +221,27 @@ function saveLastWords(words: string) {
                 last = a.join(" ");
             }
         }
-        return last;
+        return too_long(last);
     }
-    // let n = 0;
-    // let a = [last2(last).trim(), last_re(last).trim()];
-    // a.forEach((word, i) => word.length > n ? (n = i) : i);
-    // last = a[n];
-    last = last_re(last);
+
+    let n = 0;
+    let len = 0;
+    let a = [last2(last).trim(), last_re(last).trim()];
+    console.error(a);
+    a.forEach((word, i) => {
+        if (word.length > len) {
+            len = word.length;
+            n = i;
+        }
+    });
+
+    last = a[n];
+    console.error(`select ${n} : ${a[n]}`);
+    // last = last_re(last);
     if (last.length > 0) {
         last_word = last;
     }
     // last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
-    // console.error(`${last_word.length} -- ${last_word}`);
-    if (last_word.length > 26) { // too long
-        last_word = "";
-    }
 }
 
 function handleLine(text: string) {

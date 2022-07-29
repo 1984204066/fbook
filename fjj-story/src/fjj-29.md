@@ -30,7 +30,7 @@
 毁谤比丘的女人 智者闻法内心清净 ①
 
 <div class="e2">
-<img src="images/fjj-29-3.gif" width="250" height="268" hspace="30" vspace="10" align="middle" alt="智者闻法内心清净 ①"/>
+<img src="images/fjj-29-3.gif" width="250" height="268" hspace="30" vspace="10" align="middle" alt="毁谤比丘的女人 智者闻法内心清净 ①"/>
 <div>
 <p>&nbsp;</p> <p></p> <p align="center"> 6～7<br>
  如同深潭<br>

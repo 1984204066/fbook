@@ -1,7 +1,7 @@
 大目犍连的惨死 伤害无辜受十种苦难 ②
 
 <div class="e2">
-<img src="images/fjj-47-1.jpg" width="250" height="274" alt="伤害无辜受十种苦难 ②"/>
+<img src="images/fjj-47-1.jpg" width="250" height="274" alt="大目犍连的惨死 伤害无辜受十种苦难 ②"/>
 <div>
 10～11<br>
  或国王惩罚<br>
@@ -13,7 +13,7 @@
 </div>
 
 <div class="e2">
-<img src="images/fjj-47-2.jpg" width="250" height="264" alt="伤害无辜受十种苦难 ②"/>
+<img src="images/fjj-47-2.jpg" width="250" height="264" alt="大目犍连的惨死 伤害无辜受十种苦难 ②"/>
 <div>
 10～12<br>
  或房屋宅第<br>

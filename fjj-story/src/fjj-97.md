@@ -63,7 +63,7 @@
  林中独修定<br>
  称为婆罗门
 </div>
-<img src="images/fjj-97-4.jpg" width="300" height="322" alt="独处修禅定者是婆罗门 (1)"/>
+<img src="images/fjj-97-4.jpg" width="300" height="322" alt="杰出的女弟子 独处修禅定者是婆罗门 (1)"/>
 </div>
 
 佛陀居住在灵鹫峰时，有一次提到穿着粪扫衣的比丘尼吉舍瞿昙弥。
