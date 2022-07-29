@@ -29,4 +29,6 @@ for i (*品) {while {read key} { echo $key} <$i.key}
 for i (*品) {while {read key} {sed -i "s/^[^<]*$key$/# &/g" $i;} <$i.key}
 for i (`cat files`) { echo " - [$i]($i)" } >SUMMARY.md
 
-sed -i 's/^[ \t]\+//g' ../script/script.sh
+    sed -i '3,$s/^#.*$/\n------\n\n&/g' *品
+    
+    sed -i 's/^[ \t]\+//g' ../script/script.sh
