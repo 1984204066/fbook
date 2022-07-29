@@ -40,7 +40,7 @@ if (fs.existsSync(fname)) {
     const main_tbl = $("table").eq(2);
     main_tbl.siblings().remove();
     // $("table", main_tbl).eq(0).remove(); //dirs
-    // 如果用这个提取的话，得到的是目录table.因为目录table是main_tbl里的第一个sub-table.
+    // 如果用这个提取的话，得到的是目录table的td.因为目录table是main_tbl里的第一个sub-table.
     // const tds = $('table>tbody>tr>td', main_tbl).eq(3);
     // td[0] "空白"
     // td[1] "目录"
@@ -115,9 +115,9 @@ function handlePoemImgRow(
     tr: BasicAcceptedElems<AnyNode>,
 ): string {
     if ($(tr).find("img").length <= 0) {
-	console.error("should have img, but noooooooo!")
-	console.error($(tr).html());
-	return "";
+        console.error("should have img, but noooooooo!");
+        console.error($(tr).html());
+        return "";
     }
     // console.log($(tr).html());
     let poem_img = "";
@@ -141,25 +141,25 @@ function handleImgPoem(
                 src = src && src.replace(re, "img2/");
                 $(img).attr("src", src);
             }
-	    const word = " alt=\""+last_word + "\"/>";
-	    // const word = iconv.encode(last_word, 'utf8');
-	    const imgstr = $.xml(img);
-	    // $(img).attr("alt", word);
-            img_poem +=  imgstr.replace(/\/>/, word) + "\n";
+            const word = ' alt="' + last_word + '"/>';
+            // const word = iconv.encode(last_word, 'utf8');
+            const imgstr = $.xml(img);
+            // $(img).attr("alt", word);
+            img_poem += imgstr.replace(/\/>/, word) + "\n";
         });
     } else {
         // poem
         // const p = stripFont3($(elem).html());
         let p = stripFont($(elem).html()).trim();
-	p = p.replace(/　+/g, "").replace(/\s+/g, " ").replace(/<br>/g, "<br>\n");
-	const $2 = load(p);
-	const div = $2('div').html();
-	// console.error(div);
-	p = (div === null? p : div);
-	// console.error($2.root().html());
-	// if ($2('div').toArray().length > 0) {
-	//     console.error("root is div")
-	// }
+        p = p.replace(/　+/g, "").replace(/\s+/g, " ").replace(/<br>/g, "<br>\n");
+        const $2 = load(p);
+        const div = $2("div").html();
+        // console.error(div);
+        p = div === null ? p : div;
+        // console.error($2.root().html());
+        // if ($2('div').toArray().length > 0) {
+        //     console.error("root is div")
+        // }
         img_poem += "<div>\n" + p + "\n</div>\n"; //重复多次替换
     }
     return img_poem;
@@ -188,22 +188,42 @@ function handleStory($: CheerioAPI, elem: BasicAcceptedElems<AnyNode>): string {
 }
 
 function saveLastWords(words: string) {
-    const re = /\S+?\s+?\S+?$/;
-    let last = words.trim().replace(/\s+$/m, "").split('\n', -1).slice(-1)[0];
+    let last = words.trim().replace(/\s+$/m, "").split("\n", -1).slice(-1)[0];
     // console.error("----------")
     // console.error(last);
     // console.error("^^^^^^^^^^")
-    // const last = re.test(words);
-    const lw = last.match(re)?.[0];
-    last = lw === undefined ? "":lw;
-    // console.error(last.match(re));
+    function last_re(last: string) {
+        const re = /\S+?\s+?\S+?$/;
+        // const last = re.test(words);
+        // console.error(last.match(re));
+        const lw = last.match(re)?.[0];
+        return lw === undefined ? "" : lw;
+    }
+
+    function last2(last: string) {
+        const a = last.split(" ");
+
+        if (a.length > 0) {
+            if (a.length > 3) {
+                last = a.slice(-2).join(" ");
+            } else {
+                last = a.join(" ");
+            }
+        }
+        return last;
+    }
+    // let n = 0;
+    // let a = [last2(last).trim(), last_re(last).trim()];
+    // a.forEach((word, i) => word.length > n ? (n = i) : i);
+    // last = a[n];
+    last = last_re(last);
     if (last.length > 0) {
-	last_word = last;
+        last_word = last;
     }
     // last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
     // console.error(`${last_word.length} -- ${last_word}`);
     if (last_word.length > 26) { // too long
-	last_word = "";
+        last_word = "";
     }
 }
 
