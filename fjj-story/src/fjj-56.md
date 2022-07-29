@@ -4,6 +4,7 @@
 
 沙姆加尼尊者 改过者如月亮走出乌云
 
+
 <div class="e2">
 <img src="images/fjj-56-1.jpg" width="245" height="264" alt="沙姆加尼尊者 改过者如月亮走出乌云"/>
 <div>
@@ -24,6 +25,7 @@
 
 
 鸯掘魔尊者 以善止恶如月亮走出乌云
+
 
 <div class="e2">
 <div>

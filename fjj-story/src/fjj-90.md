@@ -4,6 +4,7 @@
 
 以智慧布施 离贪嗔得大果报
 
+
 <div class="e2">
 <div>
 24～22<br>
@@ -14,6 +15,7 @@
 </div>
 <img src="images/fjj-90-1.jpg" width="300" height="323" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -26,6 +28,7 @@
 <img src="images/fjj-90-2.jpg" width="300" height="314" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
 
+
 <div class="e2">
 <div>
 24～24<br>
@@ -36,6 +39,7 @@
 </div>
 <img src="images/fjj-90-3.jpg" width="300" height="329" alt="以智慧布施 离贪嗔得大果报"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -56,6 +60,7 @@
 
 五位僧人 比丘防护五根
 
+
 <div class="e2">
 <div>
 25～1<br>
@@ -66,6 +71,7 @@
 </div>
 <img src="images/fjj-90-5.jpg" width="300" height="326" alt="五位僧人 比丘防护五根"/>
 </div>
+
 
 <div class="e2">
 <div>

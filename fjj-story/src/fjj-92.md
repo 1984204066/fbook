@@ -1,5 +1,6 @@
 所有供养品都一样好 比丘不着身心为我
 
+
 <div class="e2">
 <div>
 25～8<br>
@@ -19,6 +20,7 @@
 
 虔诚的女信徒 比丘的修行生活（1）
 
+
 <div class="e2">
 <div>
 25～9<br>
@@ -30,6 +32,7 @@
 <img src="images/fjj-92-2.jpg" width="300" height="318" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
 
+
 <div class="e2">
 <div>
 25～10<br>
@@ -40,6 +43,7 @@
 </div>
 <img src="images/fjj-92-3.jpg" width="300" height="326" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -56,6 +60,7 @@
 
 有一次输屡那经过家乡时，母亲以他的名义举办一个盛大的布施大会，也请他在台上说法。
 
+
 <div class="e2">
 <div>
 25～12<br>
@@ -67,6 +72,7 @@
 <img src="images/fjj-92-5.jpg" width="300" height="320" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
 
+
 <div class="e2">
 <div>
 25～13<br>
@@ -77,6 +83,7 @@
 </div>
 <img src="images/fjj-92-6.jpg" width="300" height="317" alt="虔诚的女信徒 比丘的修行生活（1）"/>
 </div>
+
 
 <div class="e2">
 <div>

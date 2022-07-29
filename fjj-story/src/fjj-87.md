@@ -1,5 +1,6 @@
 小母猪的故事 比丘远离一切欲
 
+
 <div class="e2">
 <div>
 24～5<br>
@@ -10,6 +11,7 @@
 </div>
 <img src="images/fjj-87-1.jpg" width="300" height="322" alt="小母猪的故事 比丘远离一切欲"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -22,6 +24,7 @@
 <img src="images/fjj-87-2.jpg" width="300" height="323" alt="小母猪的故事 比丘远离一切欲"/>
 </div>
 
+
 <div class="e2">
 <div>
 24～7<br>
@@ -32,6 +35,7 @@
 </div>
 <img src="images/fjj-87-3.jpg" width="300" height="310" alt="小母猪的故事 比丘远离一切欲"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -44,6 +48,7 @@
 <img src="images/fjj-87-4.jpg" width="300" height="321" alt="小母猪的故事 比丘远离一切欲"/>
 </div>
 
+
 <div class="e2">
 <div>
 24～9<br>
@@ -54,6 +59,7 @@
 </div>
 <img src="images/fjj-87-5.jpg" width="300" height="320" alt="小母猪的故事 比丘远离一切欲"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -70,6 +76,7 @@
 
 手镣脚铐的囚犯 智者舍欲出家
 
+
 <div class="e2">
 <div>
 24～11<br>
@@ -80,6 +87,7 @@
 </div>
 <img src="images/fjj-87-7.jpg" width="300" height="331" alt="手镣脚铐的囚犯 智者舍欲出家"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -95,6 +103,7 @@
 有一群比丘向佛陀报告他们今天在舍卫城内看到几位囚犯带着手镣脚铐的情形，佛陀说：“邪恶的情欲以及对财富、名誉、地位、妻儿的爱恋，比手镣脚铐更坚固、更无法解开。有智慧的人断除爱欲的系缚，弃绝世间欲望的追求，加入僧伽，隐居深山努力修行。”
 
 执著美色 智者弃欲入涅槃 （1）
+
 
 <div class="e2">
 <div>

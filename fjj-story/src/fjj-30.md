@@ -10,6 +10,7 @@
 
 享受欲望的人 智者不为得失心动
 
+
 <div class="e2">
 <img src="images/fjj-30-1.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt="享受欲望的人 智者不为得失心动"/>
 <div>
@@ -30,6 +31,7 @@
 
 
 达密卡尊者 智者不因利而行恶
+
 
 <div class="e2">
 <img src="images/fjj-30-2.gif" width="250" height="272" hspace="30" vspace="10" align="middle" alt="达密卡尊者 智者不因利而行恶"/>

@@ -2,6 +2,7 @@
 
 屠夫纯陀 自食恶果
 
+
 <div class="e2">
 <img src="images/fjj-06-1.jpg" width="170" height="191" align="right" alt="屠夫纯陀 自食恶果"/>
 <div>
@@ -22,6 +23,7 @@
 这七天中，听见纯陀哭嚎的比丘们，以为纯陀正忙于宰杀更多的猪。佛陀说：“他不是忙于杀猪，而是正在自食恶果。作恶的人一定会在今生与来生自食恶果。人死后，必依自己的业力投生，菩萨畏因而凡夫畏果。”
 
 在家弟子昙弥 自食善果
+
 
 <div class="e2">
 <img src="images/fjj-06-2.jpg" width="170" height="184" align="right" alt="在家弟子昙弥 自食善果"/>
@@ -46,6 +48,7 @@
 有德行的人，无论出家或在家，无论今生或来生，都可以得到清净和喜悦。
 
 恶徒提婆达多 恶行受折磨
+
 
 <div class="e2">
 <img src="images/fjj-06-3.jpg" width="170" height="182" align="right" alt="恶徒提婆达多 恶行受折磨"/>

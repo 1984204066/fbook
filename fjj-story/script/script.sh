@@ -21,14 +21,17 @@ while {read line} { [[ "$line" == 第?*品 ]] && if [[ $line != $pin ]] {pin=$li
 while {read line} { [[ "$line" == 第?*品 ]] && if [[ $line != $pin ]] {pin=$line;echo $line;} else {echo $line >> "$pin".org};} < 0.md
 
 while {read line} {if [[ "$line" == 第?*品 ]] { if [[ $line != $pin ]] {pin=$line;echo $line;}; continue};  {echo $line >> "$pin".org};} < 0.md
+sed -n '/^第.*品$/p' *.org
+
 for i (*.org) {j=`basename $i .org`; k=`echo $j|sed 's/ /./'`; echo $k; mv $i $k;}
 
 sed -n "s/^.*alt=\"\(.*\)\"../\1/p" 第五品.愚品
 for i (*品) {sed -n "s/^.*alt=\"\(.*\)\"../\1/p" $i |uniq >$i.key}
 for i (*品) {while {read key} { echo $key} <$i.key}
-for i (*品) {while {read key} {sed -i "s/^[^<]*$key$/# &/g" $i;} <$i.key}
+for i (*品) {while {read key} {if [[ $key == "" ]] {continue}; sed -i "s/^[^<]*$key$/# &/g" $i;} <$i.key}
 for i (`cat files`) { echo " - [$i]($i)" } >SUMMARY.md
 
-    sed -i '3,$s/^#.*$/\n------\n\n&/g' *品
-    
-    sed -i 's/^[ \t]\+//g' ../script/script.sh
+sed -i '3,$s/^#.*$/\n------\n\n&/g' *品
+sed -i 's/^[◎◆◇○]*//g' *品
+
+sed -i 's/^[ \t]\+//g' ../script/script.sh

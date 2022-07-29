@@ -1,5 +1,6 @@
 麻风病者苏帕布达 造恶业是自己的敌人
 
+
 <div class="e2">
 <img src="images/fjj-24-1.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt="麻风病者苏帕布达 造恶业是自己的敌人"/>
 <div>
@@ -18,6 +19,7 @@
 
 农人贪财 财物是毒蛇
 
+
 <div class="e2">
 <div>
 ５～8造作恶业<br>
@@ -35,6 +37,7 @@
 佛陀说：“智者不做令自己后悔的事，在邪念的情况下容易犯下罪行，结果一定后悔莫及。
 
 花匠须玛那 虔诚的心带来善报
+
 
 <div class="e2">
 <img src="images/fjj-24-3.gif" width="250" height="269" hspace="10" vspace="10" alt="花匠须玛那 虔诚的心带来善报"/>

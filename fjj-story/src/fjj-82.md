@@ -4,6 +4,7 @@
 
 谎称证圣果的比丘 施食恶行僧不如让他吃铁丸
 
+
 <div class="e2">
 <div>
 22～3<br>
@@ -25,6 +26,7 @@
 
 痛改邪淫守五戒 邪淫堕地狱
 
+
 <div class="e2">
 <div>
 22～4<br>
@@ -35,6 +37,7 @@
 </div>
 <img src="images/fjj-82-2.jpg" width="300" height="322" alt="痛改邪淫守五戒 邪淫堕地狱"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -51,6 +54,7 @@
 
 固执任性的比丘 邪行堕地狱
 
+
 <div class="e2">
 <div>
 22～6<br>
@@ -62,6 +66,7 @@
 <img src="images/fjj-82-4.jpg" width="300" height="317" alt="固执任性的比丘 邪行堕地狱"/>
 </div>
 
+
 <div class="e2">
 <div>
 22～7<br>
@@ -72,6 +77,7 @@
 </div>
 <img src="images/fjj-82-5.jpg" width="300" height="321" alt="固执任性的比丘 邪行堕地狱"/>
 </div>
+
 
 <div class="e2">
 <div>

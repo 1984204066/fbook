@@ -1,5 +1,6 @@
 婆罗门阿基达 皈依佛法僧三宝（2）
 
+
 <div class="e2">
 <div>
 14～11<br>
@@ -10,6 +11,7 @@
 </div>
 <img src="images/fjj-61-1.jpg" width="230" height="242" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -22,6 +24,7 @@
 <img src="images/fjj-61-2.jpg" width="230" height="246" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
 
+
 <div class="e2">
 <div>
 14～13<br>
@@ -32,6 +35,7 @@
 </div>
 <img src="images/fjj-61-3.jpg" width="230" height="248" alt="婆罗门阿基达 皈依佛法僧三宝（2）"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -50,6 +54,7 @@
 
 圣人的出生 圣者带给众生幸福
 
+
 <div class="e2">
 <div>
  <p class="p13-5">14～15<br>
@@ -67,6 +72,7 @@
 
 僧众谈幸福 佛法僧带来真正的喜悦
 
+
 <div class="e2">
 <div>
  <p class="p13-5">14～16<br>
@@ -82,6 +88,7 @@
 
 礼拜佛塔 礼敬佛陀诸圣贤
 
+
 <div class="e2">
 <div>
 14～17<br>
@@ -92,6 +99,7 @@
 </div>
 <img src="images/fjj-61-7.jpg" width="230" height="250" alt="礼拜佛塔 礼敬佛陀诸圣贤"/>
 </div>
+
 
 <div class="e2">
 <div>

@@ -2,6 +2,7 @@
 
 猎象人和比丘提婆达多 没有资格穿袈裟
 
+
 <div class="e2">
 <img src="images/fjj-04-1.jpg" width="160" height="180" alt="猎象人和比丘提婆达多 没有资格穿袈裟"/>
 <img src="images/fjj-04-2.jpg" width="160" height="180" alt="猎象人和比丘提婆达多 没有资格穿袈裟"/>
@@ -35,6 +36,7 @@
 
 舍利弗尊者 发展心智领悟真理 ①
 
+
 <div class="e2">
 <img src="images/fjj-04-3.jpg" width="160" height="180" alt="舍利弗尊者 发展心智领悟真理 ①"/>
 <div>
@@ -46,6 +48,7 @@
  只具有错误理念</p>
 </div>
 </div>
+
 
 <div class="e2">
 <img src="images/fjj-04-4.jpg" width="160" height="180" alt="舍利弗尊者 发展心智领悟真理 ①"/>

@@ -1,5 +1,6 @@
 四个不孝子 被捕的大象思念亲族
 
+
 <div class="e2">
 <div>
 23～5<br>
@@ -25,6 +26,7 @@
 
 波斯匿王饮食过量 怠惰暴食如大肥猪
 
+
 <div class="e2">
 <div>
 23～6<br>
@@ -41,6 +43,7 @@
 有一天，波斯匿王前往祇树给孤独园听佛陀说法时，精神不振，猛打瞌睡。他告诉佛陀：“吃了太多东西后，总是昏沉想睡。”佛陀劝告他：“饮食要节制，适量的饮食使人充满活力，头脑清醒。”
 
 大象陷泥沼 自救出污秽
+
 
 <div class="e2">
 <div>
@@ -61,6 +64,7 @@
 
 宁可独处 无善者为伴宁可独处（1）
 
+
 <div class="e2">
 <div>
 23～8<br>
@@ -72,6 +76,7 @@
 <img src="http://www.putixin.com/continue/fjj061004/images/fjj-85-5.jpg" width="300" height="324" alt="宁可独处 无善者为伴宁可独处（1）"/>
 </div>
 
+
 <div class="e2">
 <div>
 23～9<br>
@@ -82,6 +87,7 @@
 </div>
 <img src="images/fjj-85-6.jpg" width="300" height="323" alt="宁可独处 无善者为伴宁可独处（1）"/>
 </div>
+
 
 <div class="e2">
 <div>

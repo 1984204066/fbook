@@ -2,6 +2,7 @@
 
 王妃莎曼娣 精进修行免生死轮回
 
+
 <div class="e2">
 <img src="img2/ftdh-31.jpg" width="197" height="222" align="right" alt="王妃莎曼娣 精进修行免生死轮回"/>
 <div>
@@ -13,6 +14,7 @@
 </div>
 </div>
 
+
 <div class="e2">
 <img src="img2/ftdh-32.jpg" width="200" height="217" alt="王妃莎曼娣 精进修行免生死轮回"/>
 <div>
@@ -23,6 +25,7 @@
  喜圣者境界</p>
 </div>
 </div>
+
 
 <div class="e2">
 <img src="img2/ftdh-33.jpg" width="200" height="216" alt="王妃莎曼娣 精进修行免生死轮回"/>
@@ -44,6 +47,7 @@
 摩甘提亚又策划另一计谋。她指示叔叔烧毁莎曼娣的皇宫，由于莎曼娣和宫女们不顾危险继续禅修，大家都进入甚深的禅定而全部葬身火海。之后国王查办此事，处决了摩甘提亚及其他罪犯。佛陀得知这事时说：“精进正念的人不再轮回生死，那些放逸不知约束自己身口意行为的人，如同行尸走肉。”
 
 银行家昆拔高沙卡 精进正念善名大增①
+
 
 <div class="e2">
 <img src="img2/ftdh-34.jpg" width="187" height="200" align="right" alt="银行家昆拔高沙卡 精进正念善名大增①"/>

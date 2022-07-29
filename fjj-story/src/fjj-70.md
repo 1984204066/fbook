@@ -1,5 +1,6 @@
 提沙尊者往生昆虫 自造恶行自导恶趣
 
+
 <div class="e2">
 <div>
 18～6<br>
@@ -19,6 +20,7 @@
 
 卡鲁达伊比丘 怠惰即垢秽
 
+
 <div class="e2">
 <div>
 18～7<br>
@@ -36,6 +38,7 @@
 
 妻子外遇 无明恶行即垢秽
 
+
 <div class="e2">
 <div>
 18～8<br>
@@ -46,6 +49,7 @@
 </div>
 <img src="images/fjj-70-3.jpg" width="230" height="248" alt="妻子外遇 无明恶行即垢秽"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -62,6 +66,7 @@
 
 私自行医的僧人 智者生活清苦（1）
 
+
 <div class="e2">
 <div>
 18～10<br>
@@ -72,6 +77,7 @@
 </div>
 <img src="images/fjj-70-5.jpg" width="230" height="244" alt="私自行医的僧人 智者生活清苦（1）"/>
 </div>
+
 
 <div class="e2">
 <div>

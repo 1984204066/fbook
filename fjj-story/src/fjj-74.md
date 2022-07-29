@@ -1,5 +1,6 @@
 善辩非成就 贤者弃除一切恶根（2）
 
+
 <div class="e2">
 <div>
 19～8<br>
@@ -15,6 +16,7 @@
 
 好辩的比丘 剃度不一定是僧人
 
+
 <div class="e2">
 <div>
 19～9<br>
@@ -25,6 +27,7 @@
 </div>
 <img src="images/fjj-74-2.jpg" width="300" height="340" alt="好辩的比丘 剃度不一定是僧人"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -45,6 +48,7 @@
 
 托钵的婆罗门 持戒修行者是比丘
 
+
 <div class="e2">
 <div>
 19～11 <br>
@@ -55,6 +59,7 @@
 </div>
 <img src="images/fjj-74-4.jpg" width="300" height="321" alt="托钵的婆罗门 持戒修行者是比丘"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -73,6 +78,7 @@
 
 沉默不一定是智慧 沉默并非寂静
 
+
 <div class="e2">
 <div>
 19～13<br>
@@ -83,6 +89,7 @@
 </div>
 <img src="images/fjj-74-6.jpg" width="300" height="326" alt="沉默不一定是智慧 沉默并非寂静"/>
 </div>
+
 
 <div class="e2">
 <div>

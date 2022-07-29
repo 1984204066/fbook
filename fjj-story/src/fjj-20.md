@@ -1,5 +1,35 @@
 第四品 花品
 
+阿难尊者的问题 贤德的芬芳处处可闻
+
+
+<div class="e2">
+<img src="images/fjj-20-1.gif" width="250" height="265" hspace="10" vspace="10" align="right" alt="阿难尊者的问题 贤德的芬芳处处可闻"/>
+<div>
+<p>&nbsp;</p> <p>&nbsp;</p> <p>4～11 旃檀多伽罗茉莉<br>
+ &nbsp;不能逆风飘芳香<br>
+ &nbsp;具足戒行贤德者<br>
+ &nbsp;名声能飘送四方</p>
+</div>
+<div>
+&nbsp;
+</div>
+</div>
+
+
+<div class="e2">
+<img src="images/fjj-20-2.gif" width="250" height="271" hspace="10" vspace="10" align="right" alt="阿难尊者的问题 贤德的芬芳处处可闻"/>
+<div>
+<p>&nbsp;</p> <p>&nbsp;</p> <p>4～12 旃檀多伽罗<br>
+ 拔悉基青莲<br>
+ 如此香味中<br>
+ 戒香为最上</p>
+</div>
+<div>
+&nbsp;
+</div>
+</div>
+
 佛陀居住在祇树给孤独园时，有一次提到阿难尊者的问题。
 
 有一天，阿难尊者请示佛陀：“世尊！檀香木、茉莉花、多伽罗的芳香都是顺风飘送，不能逆风送香，那么有没有既可顺风、又可逆风而弥漫飘送世界的香？”
@@ -9,6 +39,7 @@
 
 
 大迦叶尊者受帝释礼敬 贤者芳香达天界
+
 
 <div class="e2">
 <div>
@@ -29,6 +60,7 @@
 
 
 哥迪迦尊者 完全解脱不再生死
+
 
 <div class="e2">
 <div>

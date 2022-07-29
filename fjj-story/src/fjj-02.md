@@ -2,6 +2,7 @@
 
 提沙尊者 怨恨报复带来伤害
 
+
 <div class="e2">
 <img src="images/fjj-02-1.jpg" width="170" height="184" alt="提沙尊者 怨恨报复带来伤害"/>
 <div>
@@ -13,6 +14,7 @@
  敌意不熄灭</p>
 </div>
 </div>
+
 
 <div class="e2">
 <img src="images/fjj-02-2.jpg" width="170" height="184" alt="提沙尊者 怨恨报复带来伤害"/>
@@ -34,6 +36,7 @@
 可见，不要把别人的过失一直放在心上，不要苛刻地批评别人，不要总是想着别人对不起自己。应当要宽恕别人的过错，内心才能不起瞋恨，得到安宁。
 
 女妖卡里牙基尼 无瞋战胜怨恨
+
 
 <div class="e2">
 <img src="images/fjj-02-3.jpg" width="170" height="191" alt="女妖卡里牙基尼 无瞋战胜怨恨"/>

@@ -8,6 +8,7 @@
 
 提沙比丘 佛弟子远离世利
 
+
 <div class="e2">
 <img src="images/fjj-27-1.gif" width="250" height="275" hspace="30" vspace="10" align="middle" alt="提沙比丘 佛弟子远离世利"/>
 <div>
@@ -32,6 +33,7 @@
 
 
 第六品 智者品 老婆罗门罗陀 与智者为友
+
 
 <div class="e2">
 <img src="images/fjj-27-2.gif" width="270" height="294" hspace="30" vspace="10" align="middle" alt="老婆罗门罗陀 与智者为友"/>

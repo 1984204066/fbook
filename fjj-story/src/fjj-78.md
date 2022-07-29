@@ -8,6 +8,7 @@
 
 死亡带走一切 执著者终被死亡带走
 
+
 <div class="e2">
 <div>
 20～15<br>
@@ -27,6 +28,7 @@
 
 迅速清除通往涅槃的荆棘
 
+
 <div class="e2">
 <div>
 20～16<br>
@@ -37,6 +39,7 @@
 </div>
 <img src="images/fjj-78-2.jpg" width="300" height="321" alt="死亡带走一切 执著者终被死亡带走"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -56,6 +59,7 @@
 第廿一品 杂品
 
 佛陀救助干旱 弃世俗小乐得涅槃大乐
+
 
 <div class="e2">
 <div>

@@ -1,5 +1,6 @@
 聆听妙法者 只有少数人证得涅槃
 
+
 <div class="e2">
 <img src="images/fjj-31-1.jpg" width="250" height="277" alt="聆听妙法者 只有少数人证得涅槃"/>
 <div>
@@ -10,6 +11,7 @@
  在此岸徘徊
 </div>
 </div>
+
 
 <div class="e2">
 <img src="images/fjj-31-2.jpg" width="250" height="271" alt="聆听妙法者 只有少数人证得涅槃"/>
@@ -32,6 +34,7 @@
 
 从黑暗到光明 智者自净其心
 
+
 <div class="e2">
 <img src="images/fjj-31-3.jpg" width="250" height="267" alt="从黑暗到光明 智者自净其心"/>
 <div>
@@ -43,6 +46,7 @@
 </div>
 </div>
 
+
 <div class="e2">
 <img src="images/fjj-31-4.jpg" width="250" height="271" alt="从黑暗到光明 智者自净其心"/>
 <div>
@@ -52,6 +56,7 @@
  
 </div>
 </div>
+
 
 <div class="e2">
 <img src="images/fjj-31-5.jpg" width="250" height="268" alt="从黑暗到光明 智者自净其心"/>
@@ -75,6 +80,7 @@
 第七品 阿罗汉品
 
 名医耆域 阿罗汉断除一切烦恼系缚
+
 
 <div class="e2">
 <div>

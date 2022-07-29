@@ -1,5 +1,6 @@
 惟爱能止恨 为己害人得怨憎
 
+
 <div class="e2">
 <div>
 21～2<br>
@@ -19,6 +20,7 @@
 
 僧人编草鞋 反省自身灭烦恼
 
+
 <div class="e2">
 <div>
 21～3<br>
@@ -29,6 +31,7 @@
 </div>
 <img src="images/fjj-79-2.jpg" width="300" height="321" alt="僧人编草鞋 反省自身灭烦恼"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -45,6 +48,7 @@
 
 去毒无忧 消灭邪见达涅槃
 
+
 <div class="e2">
 <div>
 21～5<br>
@@ -55,6 +59,7 @@
 </div>
 <img src="images/fjj-79-4.jpg" width="300" height="325" alt="去毒无忧 消灭邪见达涅槃"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -75,6 +80,7 @@
 
 樵夫和儿子 常乐观身观佛法僧（1）
 
+
 <div class="e2">
 <div>
 21～7<br>
@@ -85,6 +91,7 @@
 </div>
 <img src="images/fjj-79-6.jpg" width="300" height="317" alt="樵夫和儿子 常乐观身观佛法僧（1）"/>
 </div>
+
 
 <div class="e2">
 <div>

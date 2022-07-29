@@ -1,7 +1,25 @@
 第三品 心品
 
+弥希尊者 自律克己调心
+
+
 <div class="e2">
-<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right" alt="第三品 心品"/>
+<img src="images/fjj-12-3.jpg" width="250" height="280" hspace="10" vspace="10" align="right" alt="弥希尊者 自律克己调心"/>
+<div>
+<p>&nbsp;</p> <p>&nbsp;</p> <p>3～1<br>
+ 心漂泊不定<br>
+ 难护难制服<br>
+ 智者调心念<br>
+ 如匠矫箭直</p>
+</div>
+<div>
+&nbsp;
+</div>
+</div>
+
+
+<div class="e2">
+<img src="images/fjj-12-2.jpg" width="250" height="267" hspace="12" vspace="10" align="right" alt="弥希尊者 自律克己调心"/>
 <div>
 <p>&nbsp;</p> <p>&nbsp;</p> <p>3～2<br>
  如捞水中鱼<br>
@@ -20,6 +38,7 @@
 
 
 在家弟子玛提加玛它 驯服的心带来安乐
+
 
 <div class="e2">
 <div>

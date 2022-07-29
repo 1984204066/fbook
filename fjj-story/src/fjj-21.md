@@ -1,5 +1,35 @@
 第四品 花品
 
+富翁迦罗哈帝 佛弟子以智慧超越凡夫
+
+
+<div class="e2">
+<img src="images/fjj-21-1.gif" width="250" height="273" hspace="10" vspace="10" align="right" alt="富翁迦罗哈帝 佛弟子以智慧超越凡夫"/>
+<div>
+<p>&nbsp;</p> <p>&nbsp;</p> <p align="left">4～15 犹如粪秽集<br>
+ 弃置于大地<br>
+ 莲花生其中<br>
+ 香洁而悦意</p>
+</div>
+<div>
+&nbsp;
+</div>
+</div>
+
+
+<div class="e2">
+<img src="images/fjj-21-2.gif" width="250" height="272" hspace="10" vspace="10" align="right" alt="富翁迦罗哈帝 佛弟子以智慧超越凡夫"/>
+<div>
+<p>&nbsp;</p> <p></p> <p>4～16 如是粪秽等<br>
+ 愚昧凡夫中<br>
+ 正觉佛弟子<br>
+ 智慧光闪耀</p>
+</div>
+<div>
+&nbsp;
+</div>
+</div>
+
 佛陀居住在祇树给孤独园时，有一次提到富翁迦罗哈帝和莲花的奇迹。
 
 舍卫城的迦罗哈帝和尸利估是朋友。迦罗哈帝是耆那教的信徒，耆那教一直敌视佛陀，而尸利估是佛陀的信徒。
@@ -15,6 +45,7 @@
 第五品 愚品
 
 想占有他人的妻子 愚痴者生死轮回之路漫长 ①
+
 
 <div class="e2">
 <div>

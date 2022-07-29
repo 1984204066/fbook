@@ -73,21 +73,33 @@ if (fs.existsSync(fname)) {
 }
 
 function handleTD($: CheerioAPI, td: BasicAcceptedElems<AnyNode>): string {
-    // const child = $(td).children().length;
-    // console.error(child);
+    const nchild = $(td).children().length;
+    console.error(`td has ${nchild} children`);
     let str = "";
     $(td)
         .children()
         .map((i, e) => {
-            // console.log($(e).html());
+            // console.error($(e).html());
             if ($(e).is("table")) {
                 // console.error("is table");
                 str += handleTbl($, e);
+            } else if ($(e).is("div")) {
+                console.error("div as one TD");
+                str += handleTD($, e); // treat as one TD.
             } else {
                 // console.error("is story");
-                const story = handleStory($, e);
+                let story = handleStory($, e);
+                // console.error($(e).html());
+                // console.error(`next: ${$(e).next()}`);
                 str += story;
                 // console.error(str);
+                if (
+                    !$(e).is("span") || $(e).next() === null || !$(e).next().is("span")
+                ) {
+                    $(e).is("span") && (str += "\n\n");
+		    // console.error(`before save ${str}`);
+                    saveLastWords(str);
+                }
             }
         });
     return str;
@@ -124,7 +136,7 @@ function handlePoemImgRow(
     $("td", tr).each((_i, td) => {
         poem_img += handleImgPoem($, td);
     });
-    const str = '<div class="e2">\n' + poem_img + "</div>\n\n";
+    const str = '\n<div class="e2">\n' + poem_img + "</div>\n\n";
     return str;
 }
 
@@ -167,24 +179,30 @@ function handleImgPoem(
 
 function handleStory($: CheerioAPI, elem: BasicAcceptedElems<AnyNode>): string {
     let str = "";
-    const nlen = $(elem).find("p").length;
-    // console.error($(elem).html());
-    // console.error(nlen);
-    if (nlen > 0) {
-        // console.error("yes have p");
-        // console.error($(elem).html());
-        $(elem)
-            .children("p")
-            .map((_i, p) => {
-                str += handleLine($(p).text());
-            });
-    } else {
-        // console.error('no ppppppp text:');
-        // console.error($(elem).text());
+    console.error($(elem).html());
+    // if ($(elem).children().length === 0) {
+    //     console.error('no children:');
+    //     str += handleLine($(elem).text());
+    //     return str;
+    // }
+
+    if ($(elem).is("span")) {
+        console.error("yes is span ");
+        str += handleLine($(elem).text(), false);
+        console.error(str);
+    } else { // 'p' and others.
+        console.error($(elem).html());
         str += handleLine($(elem).text());
     }
-    saveLastWords(str);
     return str;
+}
+
+function handleLine(text: string, cr = true) {
+    let line = text.replace(/法句经要义|陈燕珠编述/g, "").trim();
+    line = line.replace(/　/g, "").replace(/\s+/g, " ").trim();
+    cr && (line += "\n\n");
+    // console.error(line);
+    return line;
 }
 
 function saveLastWords(words: string) {
@@ -209,9 +227,9 @@ function saveLastWords(words: string) {
     }
 
     function last2(last: string) {
-	if (!re.test(last)) {
-	    return "";
-	}
+        if (!re.test(last)) {
+            return "";
+        }
         const a = last.split(" ");
 
         if (a.length > 0) {
@@ -242,13 +260,6 @@ function saveLastWords(words: string) {
         last_word = last;
     }
     // last_word = last.replace(/\s+/g, " ").replace(/\s+$/, "");
-}
-
-function handleLine(text: string) {
-    let line = text.replace(/法句经要义|陈燕珠编述/g, "").trim();
-    line = line.replace(/　/g, "").replace(/\s+/g, " ").trim() + "\n\n";
-    // console.error(line);
-    return line;
 }
 
 function stripFont3(html: string | null) {

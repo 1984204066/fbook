@@ -1,3 +1,17 @@
+僧人阿示具和富那婆修 圣者珍惜善导
+
+
+<div class="e2">
+<img src="images/fjj-28-1.gif" width="250" height="268" hspace="30" vspace="10" align="middle" alt="僧人阿示具和富那婆修 圣者珍惜善导"/>
+<div>
+<p>&nbsp;</p> <p></p> <p align="center"> 6～2<br>
+ 训诫与教导<br>
+ 阻他人犯恶<br>
+ 善者爱此人<br>
+ 恶者憎此人</p>
+</div>
+</div>
+
 佛陀居住在祇树给孤独园时，有一次提到比丘阿示具和富那婆修，以及一些不修行的僧人。
 
 他们住在迦罗赖精舍时，屡犯清规，扰乱清修，佛陀派舍利弗和大目犍连两位尊者前往告诫。有些僧人因此接受劝导而纠正了自己的行为，有些僧人还俗，品性恶劣的比丘被开除僧籍。
@@ -7,6 +21,7 @@
 有智慧的人懂得珍惜别人的规劝而放弃邪恶，培养善德，努力精进于正念内观，感激善知识的教导。
 
 车匿尊者 与贤者为伍
+
 
 <div class="e2">
 <img src="images/fjj-28-2.gif" width="250" height="269" hspace="30" vspace="10" align="middle" alt="车匿尊者 与贤者为伍"/>
@@ -30,6 +45,7 @@
 
 
 摩诃劫宾那尊者 智者乐妙法
+
 
 <div class="e2">
 <img src="images/fjj-28-3.gif" width="250" height="265" hspace="30" vspace="10" align="middle" alt="摩诃劫宾那尊者 智者乐妙法"/>

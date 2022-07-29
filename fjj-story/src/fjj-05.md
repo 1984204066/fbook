@@ -10,6 +10,7 @@
 
 难陀尊者 善修心者无贪欲
 
+
 <div class="e2">
 <img src="images/fjj-05-1.jpg" width="160" height="180" alt="难陀尊者 善修心者无贪欲"/>
 <div>
@@ -21,6 +22,7 @@
  必为贪欲漏入</p>
 </div>
 </div>
+
 
 <div class="e2">
 <img src="images/fjj-05-2.jpg" width="160" height="180" alt="难陀尊者 善修心者无贪欲"/>

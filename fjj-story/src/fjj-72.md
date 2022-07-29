@@ -1,5 +1,6 @@
 富翁门达卡 夸大别人的过失
 
+
 <div class="e2">
 <div>
 18～18<br>
@@ -19,6 +20,7 @@
 
 爱批评别人的比丘 只见他人的过失
 
+
 <div class="e2">
 <div>
 18～19<br>
@@ -36,6 +38,7 @@
 
 游方僧须跋陀罗 如来无虚妄动乱
 
+
 <div class="e2">
 <div>
 18～20<br>
@@ -46,6 +49,7 @@
 </div>
 <img src="images/fjj-72-3.jpg" width="300" height="318" alt="游方僧须跋陀罗 如来无虚妄动乱"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -66,6 +70,7 @@
 
 法官收受贿赂 公平正义辨别正邪
 
+
 <div class="e2">
 <div>
 19～1<br>
@@ -76,6 +81,7 @@
 </div>
 <img src="images/fjj-72-5.jpg" width="300" height="323" alt="法官收受贿赂 公平正义辨别正邪"/>
 </div>
+
 
 <div class="e2">
 <div>

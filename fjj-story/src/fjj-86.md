@@ -2,6 +2,7 @@
 
 有一次，佛陀因比丘争执不听劝解，独自一人到一处森林结夏安居。这期间大象帕利里亚卡妥善守护着佛陀。信徒们知道此事，就不再供养那些比丘。那年的结夏安居，那些比丘的生活很困苦。结夏安居后，他们请求阿难尊者带他们向佛陀请罪。他们向佛陀顶礼问讯后，说：“世尊！您一个人独自在此森林结夏安居，真是辛苦了。”佛陀回答说：“比丘们！快别这样说，这段期间，大象帕利里亚卡妥善守护着我，它实在是我真正的好朋友。一个人如果无法找到善知识为伴，宁可独处。”
 
+
 <div class="e2">
 <div>
 23～11<br>
@@ -13,6 +14,7 @@
 <img src="images/fjj-86-1.jpg" width="300" height="317" alt="宁可独处 无善者为伴宁可独处（2）"/>
 </div>
 
+
 <div class="e2">
 <div>
 23～12<br>
@@ -23,6 +25,7 @@
 </div>
 <img src="images/fjj-86-2.jpg" width="300" height="328" alt="宁可独处 无善者为伴宁可独处（2）"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -43,6 +46,7 @@
 
 口臭的金鱼 掘除爱欲之根
 
+
 <div class="e2">
 <div>
 24～1<br>
@@ -53,6 +57,7 @@
 </div>
 <img src="images/fjj-86-4.jpg" width="300" height="317" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
+
 
 <div class="e2">
 <div>
@@ -65,6 +70,7 @@
 <img src="images/fjj-86-5.jpg" width="300" height="321" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
 
+
 <div class="e2">
 <div>
 24～3<br>
@@ -75,6 +81,7 @@
 </div>
 <img src="images/fjj-86-6.jpg" width="300" height="327" alt="口臭的金鱼 掘除爱欲之根"/>
 </div>
+
 
 <div class="e2">
 <div>
