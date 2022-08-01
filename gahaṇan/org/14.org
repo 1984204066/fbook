@@ -5,19 +5,12 @@
 #+macro: DOCX 14清淨道論 廣說学取业处 202200726.docx
 #+include: "preamble-macro.org"
 {{{audio-docx({{{caudio}}},{{{docx}}},{{{date}}})}}}
+诵古德所写如下偈诵一遍.
+
+#+include: chant.org
 
 
-诵古德所写如下偈诵一遍：
 
-[[file:media/14/image1.png]]
-
-Jalena bhavati paṅkaṃ,jaleneva visajjhati.
-
-Cittena bhavati pāpaṃ,citteneva visujjhati.
-
-由水生长的青苔，仅以水洗涤干净；
-
-由心生起的恶法，仅以心清除净化。
 
 凡夫内心生起的贪嗔痴烦恼，必须由心来加以净化。我们学习业处禅法，势必能够除去烦恼不善法。“仅以心清除净化”，其“心”指的是定心、是毘鉢舍那心，以定心、毘鉢舍那心能够清除内心生起的恶法。
 

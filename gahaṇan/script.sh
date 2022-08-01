@@ -17,7 +17,9 @@ for i ({3..11}.org) {k=`basename $i .org`.docx;echo $k;sed -i "2,6d;7s/.*/#+DATE
 
 #mp3 rename
 fd -x echo {} | (while read f; do k=`echo $f|sed 's/ //'`; mv $f $k;done)
-sed -i '/^诵古德所写如下偈诵一遍。$/,/.*仅以心清除净化 。$/d' [1-9]*.org
 
+sd '\(Visuddhimagga·Kammaṭṭhānaggahaṇanidessa\)' '' [1-9]*.org
+sed -i '/^诵古德所写如下偈诵一遍.$/,/.*仅以心清除净化 *。$/d' [1-9]*.org
+sed -i '10i \#+include: chant.org\n' [1-9]*.org
 
-for i ({1..11}.org) {emacs $i --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
+for i ({1..14}.org) {emacs $i --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}

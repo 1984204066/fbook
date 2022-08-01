@@ -1,23 +1,16 @@
-* 清净道论•广说学取业处(Visuddhimagga·Kammaṭṭhānaggahaṇanidessa) 第五讲
+* 清净道论•广说学取业处 第五讲
 #+DATE: 2022年4月1日
 #+macro: caudio  5中文清净道论广说学取业处5.mp3
 #+macro: DOCX 5.docx
 #+include: preamble-macro.org
 {{{audio-docx({{{caudio}}},{{{docx}}},{{{date}}})}}}
 
-Namo tassa Bhagavato Arahato Sammāsambuddhassa！
+诵古德所写如下偈诵一遍.
 
-诵古德所写如下偈诵一遍。
+#+include: chant.org
 
-[[./media/5/image1.png]]
 
-Jalena bhavati paṅkaṃ,jaleneva visajjhati.
 
-Cittena bhavati pāpaṃ,citteneva visujjhati.
-
-由水生长的青苔，仅以水洗涤干净；
-
-由心生起的恶法，仅以心清除净化。
 
 一、八项目之三：定的种类之四分定，第六组/六组
 

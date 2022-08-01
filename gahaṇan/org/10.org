@@ -1,23 +1,16 @@
-* 清净道论•广说学取业处(Visuddhimagga·Kammaṭṭhānaggahaṇanidessa) 第十讲
+* 清净道论•广说学取业处 第十讲
 #+DATE: 2022年7月18日
 #+macro: caudio  10中文清净道论广说学取业处10.mp3
 #+macro: DOCX 10.docx
 #+include: preamble-macro.org
 {{{audio-docx({{{caudio}}},{{{docx}}},{{{date}}})}}}
 
-Namo tassa Bhagavato Arahato Sammāsambuddhassa！
+诵古德所写如下偈诵一遍.
 
-诵古德所写如下偈诵一遍。
+#+include: chant.org
 
-[[./media/10/image1.png]]
 
-Jalena bhavati paṅkaṃ,jaleneva visajjhati.
 
-Cittena bhavati pāpaṃ,citteneva visujjhati.
-
-由水生长的青苔，仅以水洗涤干净；
-
-由心生起的恶法，仅以心清除净化。
 
 内心生起的烦恼，必须由心来加以净化。我们学习业处禅法，势必能够除去烦恼不善法。
 

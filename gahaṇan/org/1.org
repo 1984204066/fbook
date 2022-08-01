@@ -1,4 +1,4 @@
-* 清净道论•广说学取业处(Visuddhimagga·Kammaṭṭhānaggahaṇanidessa) 第一讲
+* 清净道论•广说学取业处 第一讲
 
 #+DATE: 2022年3月28日
 #+macro: caudio 1中文清净道论广说学取业处1.mp3
@@ -6,19 +6,9 @@
 #+include: "preamble-macro.org"
 {{{audio-docx({{{caudio}}},{{{docx}}},{{{date}}})}}}
 
-[[./media/1/image1.png]]
-
 今天是《清净道论•广说学取业处》第一课，请复述下边偈诵三遍。
 
-[[./media/1/image2.png]]
-
-Jalena bhavati paṅkaṃ,jaleneva visajjhati.
-
-Cittena bhavati pāpaṃ,citteneva visujjhati.
-
-由水生长的青苔，仅以水洗涤干净；
-
-由心生起的恶法，仅以心清除净化。
+#+include: chant.org
 
 一、广说学取业处
 
