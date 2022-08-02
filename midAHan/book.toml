@@ -7,3 +7,5 @@ title = "中阿含"
 
 [build]
 build-dir = "midAHan-book"
+[output.html]
+additional-css = ["poem.css"]
