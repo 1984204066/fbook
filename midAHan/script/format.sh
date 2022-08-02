@@ -32,4 +32,9 @@ emacs 1.org --eval "(use-package org  :demand   :load-path \"./lisp/org-mode/lis
 # mdbook 处理toc不正确。
 1. for i ([1-9]*.md) {sed -n 's/^- *\[\(.*\)\](\(.*\))/\1\2/p' $i | while {IFS='#' read t id} {echo $t, "#$id"; sed -i "s/^[# ]*$t$/<span id=\"$id\"><\/span>\n\n&/" $i;} }
 
+1. for i (*.org) {echo $i; ../script/newtitle.sh $i;}
+1. sd '^\* ' '** ' *.org
+1. sd '^# ' '* ' *.org
+1. sd 'headlines 1' 'headlines 2' *.org
+
 sed -i 's/^[ \t]\+//g;s/\(.*[^ \t]\)[ \t]*$/\1/g' format.sh

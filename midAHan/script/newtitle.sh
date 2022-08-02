@@ -1,3 +1,4 @@
+echo $1
 gawk '
 function newtitle(t, i) {
      split(t, a); for (k=1;k<=i;k++)delete a[k]; ret = ""; for( x in a) ret = ret" " a[x];
