@@ -7,3 +7,10 @@ sed 's|\[\*\*\([^*]*\)\*\*\]{[^}]*}$|<p style="text-align: center;"><span style=
 sed -i 's|^\*\*.\([^][}*]\).[^}]*\**$|<p style="text-align: center;"><span style="color: rgb(2, 30, 170);">\1</span></p>|' *
 
 sed -i 's/　/ /g' *
+
+1. sd '.*> *[(（](.*)[)）] *<.*' '## ($1)' 卷*.md
+1. sed -i 's/^  *"/"\n&/' tmp
+sed -i '/偈[白佛答言：]*$/{:start N;s/\([.\n]*\)\n\n$/\1<br>\n/g;s/"$/"\n\n<\/div>\n\n/;T start;s/["“” 　]//g;s/^.*偈[白佛答言：]*\n/&\n\n<div class="poem">\n\n/}' tmp
+1. sed -i '/偈[白佛答言：]*$/{N;:start N;:again s/\([.\n]*\)\n$/\1<br>/;t again;s/"$/"<\/div>/;T start;s/["“” 　]//g;s/^.*偈[白佛答言：]*\n/&<div class="poem">/}' 卷*.md
+1. sed -i 's/<div class/\n&/'  卷*.md
+
