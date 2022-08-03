@@ -16,6 +16,9 @@ sed -i '/偈[白佛答言：]*$/{:start N;s/\([.\n]*\)\n\n$/\1<br>\n/g;s/"$/"\n\
 1. sed -i -f ../script/s.sed  卷*
 1. sed -i 's/<div class/\n&/'  卷*.md
 1. sed -i 's/^<\/div>$/&\n/' 卷*
+1. sed -i '/^<\/div.*/N; /^<\/div.*\n..*$/s/\n/\n\n/' *.md
 
 # 去掉"
-1. sed -i '/^"$/N;/^"\n  *".*"$/s/^"\n  *"/"/;/^"\n  *".*[^"]$/s/^"\n  *"//' 卷*.md
+1. sed -i -f -f ../script/del.sed 卷*.md
+# add"
+1. sed -i -f ../script/add.sed 卷*.md

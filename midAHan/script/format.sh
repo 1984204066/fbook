@@ -42,4 +42,6 @@ sed '/.*\\\\$/{:start N;s/.*[^\\]$/&/;T start;s/[\"\“\”]//g;s/^/<div class="
 1. for i (*.org) {sed -i '/.*\\\\$/{:start N;s/.*[^\\]$/&/;T start;s/$/\n\n<\/div>/;s/["“” 　]//g;s/^/<div class="poem">\n\n/;}' $i}
 1.  sd "'" "" *.org
 
+1. sd 'Table of Contents' '本品内容' *.md
+
 sed -i 's/^[ \t]\+//g;s/\(.*[^ \t]\)[ \t]*$/\1/g' format.sh
