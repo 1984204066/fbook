@@ -40,6 +40,6 @@ emacs 1.org --eval "(use-package org  :demand   :load-path \"./lisp/org-mode/lis
 sed -n '/.*\\\\$/{:start N;s/.*[^\\]$/&/;T start;s/^/<div class="poem">\n/;s/$/\n<\/div>/;p}' 3-4-业相应品.org
 sed '/.*\\\\$/{:start N;s/.*[^\\]$/&/;T start;s/[\"\“\”]//g;s/^/<div class="poem">\n/;s/$/\n<\/div>/;}' 3-4-业相应品.org
 1. for i (*.org) {sed -i '/.*\\\\$/{:start N;s/.*[^\\]$/&/;T start;s/$/\n\n<\/div>/;s/["“” 　]//g;s/^/<div class="poem">\n\n/;}' $i}
-
+1.  sd "'" "" *.org
 
 sed -i 's/^[ \t]\+//g;s/\(.*[^ \t]\)[ \t]*$/\1/g' format.sh
