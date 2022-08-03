@@ -7,3 +7,5 @@ title = "长阿含.合集"
 
 [build]
 build-dir = "longAHan-book"
+[output.html]
+additional-css = ["poem.css"]
