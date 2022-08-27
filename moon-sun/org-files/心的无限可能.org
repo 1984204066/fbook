@@ -323,7 +323,7 @@ http://www.logicalhierarchy.com/Miscellaneous-Images/Thrive_PrintStill_120302_To
 
 \\
 
-* 心的无限可能（3）    [2016-10-24]--[2016-10-25]
+* 心的无限可能（3）    [2016-10-24]-<feff>-[2016-10-25]
   :PROPERTIES:
   :CUSTOM_ID: 心的无限可能3
   :CLASS: entry-title

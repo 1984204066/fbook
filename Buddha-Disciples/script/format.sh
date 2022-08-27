@@ -28,3 +28,5 @@ for i (./*.org) {sed -i '/^\*.*《佛陀的圣弟子传》.*/,+3d' $i; emacs $i 
 
 sed 's/.*(\(.*\))/\1/' src/SUMMARY.md | sed '1,2d' | while {read line} { f="src-org/$(basename $line .md).org"; echo $f; cat $f >> 0.org}
 
+sed -i 's/\([^-][^-]*\)---*/\1-<feff>-/g' *.org
+

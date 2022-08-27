@@ -29,7 +29,7 @@
 
 
 | varaṃ, | bhikkhave, | tattāya | ayosalākāya | ādittāya | sampajjalitāya |
-|--------+------------+---------+-------------+----------+----------------|
+|-<feff>-+-<feff>-+-<feff>-+-<feff>-+-<feff>-+-<feff>-|
 
 
 sajotibhūtāya cakkhundriyaṃ sampalimaṭṭhaṃ, na tveva cakkhuviññeyyesu
