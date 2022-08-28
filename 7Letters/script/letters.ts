@@ -1,4 +1,4 @@
-import { load } from "cheerio";
+import { load,BasicAcceptedElems, AnyNode} from "cheerio";
 import * as fs from "fs";
 import assert from "assert";
 
@@ -32,6 +32,23 @@ if (fs.existsSync(fname)) {
     $(content).prevAll().map((i, e) => {
         $(e).remove();
     });
+    {
+	function pick(i:number,e:BasicAcceptedElems<AnyNode>) : boolean {
+	    const style=$(e).attr('style');
+	    if (style !== undefined && style.match(/text-align: center/)) {
+		// console.log($(e).text());
+		return true;
+	    }
+	    return false;	    
+	}
+	const content = $("section,p[style]").filter(pick).map((i,e)=>{
+	    const txt = $(e).text();
+	    if (txt !== "" && !txt.match(/写给红尘男女/)) {
+		$(e).replaceWith("<h2>" + txt + "</h2>")
+	    }
+	});
+	
+    }
     // $(title).prepend(mpvoice);
     let imgs = "";
     $("img", main).each((i, img) => {
