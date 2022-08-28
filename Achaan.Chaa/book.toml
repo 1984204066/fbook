@@ -1,0 +1,8 @@
+[book]
+authors = ["1984204066"]
+language = "en"
+multilingual = false
+src = "src"
+title = "阿姜查 • 须跋多传"
+[build]
+build-dir = "Achaan.Chaa-book"
