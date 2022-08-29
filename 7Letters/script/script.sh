@@ -11,7 +11,7 @@ for i ({1..31} ) {sed -i -e '1,7d' -e '/-.-.*连载.*-.-*/,$d' -e '/-.-.*进行�
 sed -i 's/\([^-][^-]*\)---*/\1-<feff>-/g' *.org
 sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-<feff>-/g' *.org
 sed -i 's/-<feff>-/-<feff>-<feff>-/g' *.org
-sd '^\\\\$' '' *.org
+sd '\\\\$' '' *.org
 sd '^\*\*$' '' *.org
 sed -i '/^$/N;/^\n$/D' *.org
 
@@ -23,6 +23,7 @@ i=1;while {read  title} { if [[ "$title" == '' ]] {continue;};t=`echo $title | s
 
 sd ' ' '' 第* 缘*
 sed -i '1i#+include: forget.org' 第* 缘*
+sed -i ':again /^\*.*\-.*\-.*\-.*\*$/{s/\-.*\-.*\-[^*]*/\/&\//;s/\*\n\n\*/ /g;s/^\*\(.*\)\*$/#+begin_quote\n\1\n#+end_quote\n/;};/^\*.*[*\n]$/{N;b again;};' 第* 缘*
 
 for i (第*.org 缘*.org) { echo $i; emacs $i --batch --eval "(require 'ox-md)" --eval "(org-md-export-to-markdown)";}
 sed -i 's/-<feff>-/-❣-/g' *.md
