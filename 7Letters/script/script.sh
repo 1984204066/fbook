@@ -20,4 +20,6 @@ sed -i "1i \\\n\n" 1.org
 
 i=1;while {read  title} { if [[ "$title" == '' ]] {continue;};t=`echo $title | sd '^.*[|] *(.*)' '$1'`;echo $t|sed -e 's/信./信./' -e 's/ *//g'|IFS='.' read envelope title; [[ "$title" == "" ]] && title=$envelope; sed -i "1s/.*/* $title/" $i.org;cat $i.org >>$envelope.org; echo >>$envelope.org; t=${title%\(*};[[ $t != "$tt" ]] && {tt=$t;echo "* [$t]($envelope.md)">>summary.s;}; i=$((i+1));} <../script/title
 
+sd ' ' '' 第* 缘*
+sed -i '1i#+include: forget.org' 第* 缘*
 for i (第*.org 缘*.org) { echo $i; emacs $i --batch --eval "(require 'ox-md)" --eval "(org-md-export-to-markdown)";}
