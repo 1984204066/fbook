@@ -1,4 +1,1 @@
 #+macro: audio-docx (eval (progn (setq embed-str "<embed src=\"%s\" width=\"530px\" height=\"80px\" />") (setq ahref-str "<a href=\"%s\">%s</a>") (setq mp3_audio (if (not (string-lessp "" $1)) "" (format embed-str (concat "media/mp3/" $1)))) (setq docx_format (if (not (string-lessp "" $2)) "" (format ahref-str (concat "./docx/" $2) "docx")))  (shell-command-to-string (format "sed -e 's,mp3_audio,%s,' -e 's,docx_format,%s,' -e 's,speak_date,%s,' template" mp3_audio docx_format $3))))
-
-#+macro: preamble (eval (progn (setq header "{{{audio-docx(%s,%s,%s)}}}\n 诵古德所写如下偈诵一遍.\n \n #include< /fbook/gahaṇan/src/chant.md > \n ") (format header $1 $2 $3)))
-

@@ -1,3 +1,5 @@
+* 走向寂静
+
 #+begin_export md
 <section data-support="96编辑器" data-style-id="35017" style="margin-bottom: unset; visibility: visible;"><section style="margin: 10px 0px; visibility: visible;"><section style="background-color: rgb(255, 242, 235); border-radius: 10px; text-align: center; visibility: visible;" data-darkmode-bgcolor-16612150324089="rgb(198, 188, 182)" data-darkmode-original-bgcolor-16612150324089="#fff|rgb(255, 242, 235)" data-style="background-color: rgb(255, 242, 235); border-radius: 10px; text-align: center;" class="js_darkmode__0"><section style="text-align: center; padding: 15px; visibility: visible;" data-darkmode-bgcolor-16612150324089="rgb(198, 188, 182)" data-darkmode-original-bgcolor-16612150324089="#fff|rgb(255, 242, 235)">
 <img src="./img/0.jpg">

@@ -1,0 +1,13 @@
+* 清净道论•广说学取业处 第十二讲
+
+#+DATE: 2022年7月20日
+#+macro: caudio 12中文清净道论广说学取业处12.mp3
+#+macro: DOCX 12.docx
+#+include: "preamble-macro.org"
+{{{audio-docx({{{caudio}}},{{{docx}}},{{{date}}})}}}
+诵古德所写如下偈诵一遍.
+
+#+include: chant.org
+
+
+
