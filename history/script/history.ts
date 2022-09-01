@@ -8,7 +8,7 @@ if (fs.existsSync(fname)) {
     const html = v;
 
     const $ = load(html);
-    const main = $("div#js_content");
+    let main = $("div#js_content");
     let mp3 = "";
     // const mpvoice = $("embed", main);
     $("mpvoice", main).each((i, voice) => {
@@ -34,26 +34,38 @@ if (fs.existsSync(fname)) {
         imgs += fname + " % " + src + "\n";
 	$(img).replaceWith("<img src='./img/" + fname + "'>")
     });
-    let image = imgs.split("\n", -1);
-    // console.log(image);
-    // assert(image.length >= 2);
-    // a删除第一和最后一个元素。
-    image.shift();
-    let img : string | undefined;
-    do {
-	img = image.pop();
-    } while(img !== undefined && img === '');
-    imgs = image.join("\n")+"\n";
-    fs.appendFileSync("img-urls", imgs);
-
-    const title = $("h1").text();
+    const imgn = $('img', main).length;
+    
+    const title = $("h1").eq(0).text();
     console.error(title);
+    $('h1').map((i,e)=>{
+	$(e).replaceWith("<p>" + $(e).text() + "</p>");
+    });
     const content = $(main).children().eq(3);
     // console.log($(main).children().length, $(content).text());
     $(content).prevAll().map((i, e) => {
 	// console.log(i, $(e).text());
         $(e).remove();
     });
+    const trim_head = imgn !== $('img', main).length;
+    appendImage(imgs, trim_head);
     // main chanaged, so reload it.
-    console.log($("div#js_content").html());
+    main = $("div#js_content");
+    console.log($(main).html());
+}
+
+function appendImage(imgs: string, trim_head = false, trim_tail = true) {
+    let image = imgs.split("\n", -1);
+    // console.log(image);
+    // assert(image.length >= 2);
+    // a删除第一和最后一个元素。
+    if (trim_head) {
+	image.shift();
+    }
+    let img : string | undefined;
+    do {
+	img = image.pop();
+    } while(img !== undefined && img === '');
+    imgs = image.join("\n")+"\n";
+    fs.appendFileSync("img-urls", imgs);
 }
