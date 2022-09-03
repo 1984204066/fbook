@@ -1,0 +1,846 @@
+* 近代中国落后之一大因素：满清愚治，毁书灭学，使民众呈现蒙昧化，与明朝截然不同，与影视剧大相径庭
+由此，自上而下，各行各业繁荣发展，科技实践与理论达到了一个前所未有的高度。
+
+耶稣会传教士在尚未抵达中国传教前，其实先去了小日子那里。
+
+不过，沙勿略在日本传教时，发现了一个现象，------就是日本人每每在进行激辩时，总是会把华夏搬出来，因为彼时的他们认为中国最先进，是无可争议的各方面的权威，哪怕是在涉及宗教和行政方面，他们也会乞灵于华夏智慧。
+
+面对耶稣会，他们常常会说：“如果JD教是真正的宗教，那么聪明的中国人肯定知道它并接受它。”
+
+传教士们在小日子哪里碰了壁以后，就决定把目光转向华夏。而他们在华夏的传教，不仅巧妙利用了朝堂形势，而且抓住了某些人贪财的心理，以金钱贿赂，从入教发钱开始的。
+
+在传教士利玛窦于1601年到达北京前，明朝各方面的学科已经发展到了一定程度，并许多领域远远领先于世界。
+
+*** *一、气象学*
+:PROPERTIES:
+:CUSTOM_ID: 一气象学
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 14世纪中叶出现的《白猿献三光图》载有132幅气象云图，绝大部分与现代气象学原理一致，*这是世界现存最早的云图集。*
+:PROPERTIES:
+:CUSTOM_ID: 世纪中叶出现的白猿献三光图载有132幅气象云图绝大部分与现代气象学原理一致这是世界现存最早的云图集
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-1
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 要知道，欧洲直到1879年，是的，直到近代1879年才出版云图，而且只有区区16幅。
+:PROPERTIES:
+:CUSTOM_ID: 要知道欧洲直到1879年是的直到近代1879年才出版云图而且只有区区16幅
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-2
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 早在西元前18-前11世纪，华夏就出现了世界上最早的甲骨气象记载，即甲骨卜辞。虽然并不是成形的气象云图，但是这代表着华夏从很早就开始观测天象，并对风雨雷电等各种天气现象尝试进行记录总结，同时，依据生活经验进行短期的天气预测。
+:PROPERTIES:
+:CUSTOM_ID: 早在西元前18-前11世纪华夏就出现了世界上最早的甲骨气象记载即甲骨卜辞虽然并不是成形的气象云图但是这代表着华夏从很早就开始观测天象并对风雨雷电等各种天气现象尝试进行记录总结同时依据生活经验进行短期的天气预测
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-3
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 战国时期，当时的人们已经对各种云进行了详细地分类。
+:PROPERTIES:
+:CUSTOM_ID: 战国时期当时的人们已经对各种云进行了详细地分类
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-4
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 《吕氏春秋•应同》中将云分为四类“山云草莽（积云和积雨云）、水云鱼鳞（卷积云）、旱云烟火（卷云）、雨云水波（层云和层积云）”。
+:PROPERTIES:
+:CUSTOM_ID: 吕氏春秋应同中将云分为四类山云草莽积云和积雨云水云鱼鳞卷积云旱云烟火卷云雨云水波层云和层积云
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-5
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 山云草莽（积云和积雨云），图片来源：中国气象局
+:PROPERTIES:
+:CUSTOM_ID: 山云草莽积云和积雨云图片来源中国气象局
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+
+[[./img/31-0.jpeg]]
+
+水云鱼鳞（卷积云），图片来源：中国气象局
+
+[[./img/31-1.jpeg]]
+
+旱云烟火（卷云），图片来源：中国气象局
+
+[[./img/31-2.jpeg]]
+
+雨云水波（层云和层积云），图片来源：中国气象局
+
+[[./img/31-3.jpeg]]
+
+从秦代到汉代，古人还绘制出了各种各样的云图。
+
+《汉书˙艺文志》中有《国章观霓云图》等书，宋代典籍中有《日月晕珥云气图占》一卷、《天文占云气图》一卷、《云气图》一卷、《占风云气图》一卷等云图。
+
+明时，云图的绘制已经变得相当精美了。
+
+明代茅元仪的《武备志˙载度占》记载了《玉帝亲机云气占候》的图，里面有51幅云图和日月星辰的星象图。
+
+与《玉帝亲机云气占候》图相比，《白猿献三光图》的科技含量更高，它吸收了前人观察天气的心得，以日月星为“三光”为指针，将日、月、星、银河作为背景，通过描绘云朵位置、色彩、运动来制成云图，用于天气预报。而且，每幅云图上都有详细说明。
+
+[[./img/31-4.jpeg]]
+
+[[./img/31-5.jpeg]]
+
+[[./img/31-6.jpeg]]
+
+看，华夏气象学有明显的技术发展脉络吧？不是从天而降、突然爆发的吧？
+
+是的，气象学是建立在无数华夏古人积累的经验之上。
+
+*二、航天
+
+您可能会发笑，明朝怎么可能有航天？
+
+明朝诞生了航天事业的先驱啊。
+
+嘉靖年间，万户进行世界上最早的火箭升空试验，不幸牺牲，成为人类载人飞行先驱，为纪念其为科学献身精神，现在月球和火星有以其名字命名的环形山。
+
+20世纪70年代，1970年国际天文联合会将月球背面一座环形山命名为“Wan
+Hoo（万户）”。万户环形山是一个撞击坑，直径五十二公里，位于月球背面南纬九点八度、西经一百三十八点八度区域。
+
+[[./img/31-7.jpeg]]
+
+中国是最早发明和使用火箭的国家。1500年前后，万户提出了乘火箭遨游太空的设想，这个设想的时间比前苏联的“火箭始祖”齐奥尔科夫斯基早了300多年。
+
+万户的设想是这样的：在一把椅子后面绑上47枚当时最大的火箭，人坐在椅子上，双手拿着大风筝。利用火箭的推力把人送上天再巧妙地拿着风筝返回地面。万户不仅这样想了，而且这样做了。虽然实验并未成功，但他却成了人类历史上航天事业的先驱，被誉为“世界航天第一人”。
+
+[[./img/31-8.png]]
+
+你们只记得我的官职，却把我的真名给忘了，唉，俺的本名是陶成道啊
+
+[[./img/31-9.jpeg]]
+
+*三、天文历法、数学乐律*
+
+朱载堉（1536---1611年），系朱元璋九世孙，仁宗帝六示孙，郑藩王族嫡世。是明代著名的律学家、历学家、数学家。他一生撰述了大量音乐、数学著作，史称“律圣”或“乐圣”，被中外学者誉为“东方文艺复兴式的圣人”。
+
+朱载堉最大的贡献是他创建了十二平均律，这是音乐学和音乐物理学的一大革命，也是世界科学史上的一大发明。
+
+[[./img/31-10.jpeg]]
+
+朱载堉注重实验，并特别注意把理论放在实践中检验。他的书中记述了大量的实验事实，如管口校正实验、和声实验、累黍实验、度量实验等，充分反映了他的这种思想方法。如“异径管律”管口校正法，先用数学推导出理论，再进行实践检验，证明其正确、有效。
+
+17世纪，朱载堉研究出的十二平均律的关键数据------“根号2开12次方”被欧洲传教士通过丝绸之路带到了西方，深深影响了西方的音乐。在西方，十二平均律被一致认为是“标准调音”、“标准的西方音律”。
+
+没有十二平均律，巴赫是无法发明钢琴的。
+
+此理论被广泛应用在世界各国的键盘乐器上，包括钢琴
+，故朱载堉被誉为“钢琴理论的鼻祖”。
+
+朱载堉在天文学上也有很高造诣。
+
+他曾上书皇帝，进献《圣寿万年历》、《律历融通》二书，提请更改常出差错的《大统历》，得到皇帝应允。
+
+邢云路是明末著名天文学家，曾参加两次改历运动（1595年和1610年）。朱载堉为其著作作序，并称自己与邢“面讲古今历事，夜深忘倦”，邢“摘历史紧要处问难”，朱“于灯下步算以答”，二人“携手散步中庭，仰窥玄象。”
+
+德国传教士汤若望并没有太多真才实学，其供职之处是占星台，并非其吹嘘的天文台、司天台。这个传教士无耻至极，在明朝灭亡后，窃取了当时邢云路、朱载堉的成果，以及参与编撰的《崇祯历书》献给了满清统治者，从而获得青睐，有资格随意进出禁中，甚至被孝庄尊称为“爷爷”，一时手眼通天。就连顺治都对其恭敬有加，可以说红透了半边天。
+
+也正因为如此，此人在清初为所欲为，干了不少缺德事。
+
+李亮在《被“遗漏”的交食------传教士对崇祯改历时期交食记录的选择性删除》一文中特别指出：传教士南怀仁、汤若望等人100多年来，把持华夏钦天监篡改天文数据，欺骗朝堂，行径十分卑劣。
+
+/*南怀仁的自叙（详见《传教士盗取中华文明颠倒世界历史》），一不小心就暴露了其真实嘴脸：*/
+
+“即便是欧洲最著名的天文学家的表格和计算常常都会出现与实际观测到的天象之间的巨大差异......
+
+正是由于上帝格外的恩惠，在中国人把我们的天文学和计算同天体运动进行比较的这么多年中，竟然没有发现有丝毫的差池......
+
+这是因为神的仁慈掩盖了任何可能的误差；通过观测者的粗心、阴云或者上天对我们某种类似的骄纵，因为它要让一切朝有利于我们宗教的方向发展。”
+
+搞笑的是，前面提到的汤若望，号称在明朝著述颇丰，参与编写翻译的著作就有《远镜说》《主制群征》《坤舆格致》《浑天仪说》五卷、《西洋测日历》一卷、《民历补注释惑》一卷、《大测》二卷、《星图》八幅、《恒星表》五卷、《交食历指》七卷、《测食说》二卷、《测天约说》二卷、《新法历引》一卷、《历法西传》、《主制群徵》二卷、《古今交食考》一卷、《学历小辩》一卷、《恒星出没》、《交食表》等等，实际上其中涉及天文历法的，基本上全都包含在《崇祯历书》内，或与《崇祯历书》有关。
+
+/*然而，在满清治下，从1644年到1663年，汤若望居然一本书都没有写出来，再也没有任何创造性的著述。*/
+
+/*羽陵在《1629年，当中国面对西方科学》中写道：*/
+
+“汤若望保存了明末刊行《崇祯历书》的雕版，并献给了清政府。且当时清政府迫切期望一部新历法来印证其天命所归，汤若望对《崇祯历书》作了删改和修订，顺治亲笔题名为《西洋新法历书》，《崇祯历书》终于得以另一个面目颁行于世。
+
+但汤若望最终因为这部历法获罪入狱，几乎遭磔刑（被孝庄救下，新帝登基，他的好日子就到头了），不久病死了，即所谓‘历狱'。”
+
+王文素的算学宝鉴就不多说了，这是那个时代世界数学史上的高峰。
+
+王文素，字尚彬，山西汾州（今汾阳市）人，约生于1465年，于明朝成化年间（1465－1487）随父王林到河北饶阳经商，遂定居。
+
+王文素出生于中小商人家庭的王文素，受所处社会及家庭影响，自幼颖悟，涉猎书史，诸子百家，无所不知。尤长于算法，留心通证，以一生之精力，完成了《新集通证古今算学宝鉴》这一数学巨著，为后人留下了宝贵的财富。
+
+没有导数，是不会有后来李善兰在此基础上发展出的微积分的。
+
+[[./img/31-11.jpeg]]
+
+[[./img/31-12.jpeg]]
+
+[[./img/31-13.jpeg]]
+
+*《算学宝鉴》大约50万字，其中成就有：*
+
+/解高次方程的方法，比英国的霍纳、意大利的鲁非尼早200多年。/
+
+/在解代数方程上，走在牛顿、拉夫森的前面140多年。/
+
+/对于17世纪微积分创立时期出现的导数，他在16世纪已率先发现并使用。/
+
+/《算学宝鉴》中的“开方本源图”独具中国古代数学传统特色，国外类似的图首见于法国数学家斯蒂非尔1544年著的《整数算术》一书，比《算学宝鉴》迟20年且不够完备。/
+
+明末，还有另一位数学大家程大位。
+
+程大位（1533～1606）明代商人，珠算发明家。字汝思，号宾渠，汉族，安徽休宁县率口（今黄山市屯溪）人。少年时，读书极为广博﹐对书法和数学颇感兴趣，一生没有做过官。20岁起便在长江中﹑下游一带经商。
+
+因商业计算的需要，他随时留心数学，遍访名师，搜集很多数学书籍，刻苦钻研，时有心得。约40岁时回家，专心研究，参考各家学说，加上自己的见解，于60岁时完成其杰作《直指算法统宗》（简称《算法统宗》）。
+
+[[./img/31-14.jpeg]]
+
+/
+/
+
+*四、物理学*
+
+崇祯年间，曾任兵部尚书的*熊明遇*著有*《格致草》*一书，此书别具特色：
+
+“不但对于个别自然现象作了科学的研究与记录，而且*更重要的是他有意从这些个别研究中寻找出通则与定理。*因此他著作中有不少所谓的‘恒论'‘演说'。如卷一有‘原理恒论'‘原理演说'。”
+
+熊明遇的儿子熊人霖，著有《悬象说》《地纬》和《函宇通》。
+
+熊明遇对明末大思想家方以智的影响也非常大，方以智对自然科学和所谓西学的兴趣，即与熊明遇的启蒙有关。
+
+方以智在物理学原理和规律探索方面有诸多创见。他从气一元论自然观出发，提出朴素的光波动学说，认为：
+
+“气凝为形，发为光声，犹有未凝形之空气与之摩荡嘘吸。故形之用，止于其分，而光声之用，常溢于其余：气无空隙，互相转应也。”
+
+（详见《物理小识》卷一）
+
+[[./img/31-15.jpeg]]
+
+方以智认为，光的产生是由于气受到激发的缘故。
+
+由于气弥漫分布于所有空间，彼此间无任何空隙，被激发的气必然要与周围静止的气发生相互作用，“摩荡嘘吸”，将激发传递出去，这就形成了光的传播。
+
+方以智所描述的是一种朴素的光波动学说。
+
+为区别于近代光的电磁波动说，可称之为气光波动说。
+
+从气光波动说的角度出发，方以智进一步提出了光不走直线的主张，他把它叫做“光肥影瘦”，认为光在传播过程中，要向几何光学的阴影范围内侵入，使有光区扩大，阴影区缩小。
+
+他指出，由于光肥影瘦现象的存在，使得基于光线直进性质进行的测量得到的结果都不准确。
+
+“物为形碍，其影易尽，声与光常溢于物之数，声不可见矣，光可见，测而测不准矣。”
+
+（详见《物理小识》卷一）
+
+为了证实自己的观点，他还做了小孔成像实验，并且努力用自己的理论去解释常见光学现象。
+
+另外，他对于光的反射和折射和声音的发生、传播、反射、隔音效应，色散，以及炼焦、比重、磁效应等诸多问题的记述，都是很领先。
+
+方以智还在《物理小识》卷一中正确地解释了蒙气差（即大气折射）现象。
+
+他在卷二中提出：
+
+“宙轮于宇，则宇中有宙，宙中有宇。”
+
+宇宙之宙，意为时间，宇宙之宇，意为空间。
+
+所以，方以智提出的是*时间和空间不能彼此独立存在的时空观。*
+
+1637年，《天工开物》的作者宋应星在《论气·气声》中对声音的产生和传播作出了合乎科学的解释，他认为声音是由于物体振动或急速运动冲击空气而产生的，声音是通过空气来传播的，同水波相类似。
+
+孙云球制造放大镜、显微镜等几十种光学仪器，并著《镜史》（已佚）。
+
+......
+
+但凡知道耶稣会传教士的剽窃行径、知道一些有关熊明遇、方以智、宋应星等明人的著作和事迹，都不会困惑于所谓的李约瑟难题，即李约瑟之问（《中国科学技术史》15卷）：
+
+“尽管中国古代对人类科技发展做出了很多重要贡献，但为什么科学和工业革命没有在近代的中国发生？”
+
+公知们经常拿这个来奚落嘲讽，以讹传讹，说华夏只有技术应用，没有技术理论。
+
+是真的没有吗？还是被人别有用心地里应外合地篡改了、剽窃了？
+
+详见：[[https://mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247486360&idx=1&sn=334166bcbe56f9b3836fc4d6e83a06b5&chksm=cef83ee1f98fb7f7c98031dea9049603a21ea62fc0bbf0a594794a0cb2f3bc13286ef78d1dbf&token=94802627&lang=zh_CN&scene=21#wechat_redirect][明代科技是怎么“消失”的：刑云路的万有引力也是砸中牛顿神父的苹果？利玛窦自称西域番僧，勾结白莲创编耶稣天主教？]]
+
+*满清治下，康熙、乾隆对科学的兴趣只限于个人玩乐，却不愿科学技术在民间传播。*
+
+*五、植物学*
+
+朱橚（sù）（1361年-1425年），明太祖朱元璋第五子，明成祖朱棣的胞弟。洪武三年（1370年）封吴王，洪武十一年（1378年）改封为周王，十四年（1381年）就藩开封。洪武二十二年（1389年）冬，因擅自离开封地到凤阳秘密会见岳父冯胜而获罪，被太祖下令迁往云南。
+
+洪武二十四年（1391年）底获准回到开封。此后三十余年间，组织编著有《保生余录》、《袖珍方》、《普济方》和《救荒本草》等作品，对我国西南边陲医药事业的发展做出了巨大的贡献。
+
+朱橚利用自己身份地位，组织了一些专家学者，收集大量资料，并设立植物园进行野生植物观察实验。
+
+1406年《救荒本草》问世，收集414种可供食用的野生植物资料，载明产地、形态、性味及其可食部分和食法，并绘有精细图谱。其中近2/3是第一次记载。
+
+[[./img/31-16.jpeg]]
+
+《救荒本草》是从传统本草学中分化出来的记载食用野生植物的专书，也是我国本草学从药物学向应用植物学发展的标志。
+
+有学者认为近代植物化学领域中吸附分离法的应用，可能始于《救荒本草》。
+
+《救荒本草》在海内外广泛流传，对于民众有重要意义，并得到近现代外国学者们的高度赞扬。李约瑟等认为，朱橚等人的工作是中国人在人道主义方面的一个很大贡献。
+
+*** *六、生物学*
+:PROPERTIES:
+:CUSTOM_ID: 六生物学
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-6
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 王夫之在《思问录·外篇》中提出了关于生物体的新陈代谢的观念：
+:PROPERTIES:
+:CUSTOM_ID: 王夫之在思问录外篇中提出了关于生物体的新陈代谢的观念
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-7
+:END:
+*** “质日代而形如一......肌肉之日生而旧者消也，人所未知也。人见形之不变而不知其质之已迁......”
+:PROPERTIES:
+:CUSTOM_ID: 质日代而形如一肌肉之日生而旧者消也人所未知也人见形之不变而不知其质之已迁
+:END:
+
+方以智在《物理小识》一书中，记述有大量动植物的生态学内容和栽培、管理等知识。他认为“脑主思维”，介绍了关于人体骨骼、肌肉等方面的知识。他自己对于传统医学也素有研究，撰有多种医学著作。
+
+*** *七、化工与冶炼*
+:PROPERTIES:
+:CUSTOM_ID: 七化工与冶炼
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-8
+:END:
+*** 宋应星在《天工开物》记载了我国古代冶金技术的许多成就，如冶炼生铁和熟铁（低碳钢）的连续生产工艺，退火、正火、淬火、化学热处理等钢铁热处理工艺和固体渗碳工艺等，并把铅、铜、汞、硫等许多化学元素看作是基本的物质，而把与它们有关的反应所产生的物质看作是派生的物质，*从而产生化学元素概念的萌芽。*
+:PROPERTIES:
+:CUSTOM_ID: 宋应星在天工开物记载了我国古代冶金技术的许多成就如冶炼生铁和熟铁低碳钢的连续生产工艺退火正火淬火化学热处理等钢铁热处理工艺和固体渗碳工艺等并把铅铜汞硫等许多化学元素看作是基本的物质而把与它们有关的反应所产生的物质看作是派生的物质从而产生化学元素概念的萌芽
+:END:
+
+[[./img/31-17.jpeg]]
+
+*** *
+
+:PROPERTIES:
+:CUSTOM_ID: section-9
+:END:
+*** *宋应星曾任江西分宜县教谕、福建汀州府推官及亳州知州等官职。他是明末抛弃功名转向科技研究的科学家。他还有《论气》、《画音归正》、《春秋戎狄》等十几本著作。从这些著作中可以看出他朴素的哲学思想和文学造诣。英国李约瑟则称他是“中国的狄德罗”。*
+:PROPERTIES:
+:CUSTOM_ID: 宋应星曾任江西分宜县教谕福建汀州府推官及亳州知州等官职他是明末抛弃功名转向科技研究的科学家他还有论气画音归正春秋戎狄等十几本著作从这些著作中可以看出他朴素的哲学思想和文学造诣英国李约瑟则称他是中国的狄德罗
+:END:
+*** *
+
+:PROPERTIES:
+:CUSTOM_ID: section-10
+:END:
+*** *狄德罗是法国《百科全书》的作者与著名的哲学家，实际法国百科全书是抄袭永乐大典，昨日在文中已说过这个问题。*
+:PROPERTIES:
+:CUSTOM_ID: 狄德罗是法国百科全书的作者与著名的哲学家实际法国百科全书是抄袭永乐大典昨日在文中已说过这个问题
+:END:
+
+*** **
+:PROPERTIES:
+:CUSTOM_ID: section-11
+:END:
+*** *详见：[[https://mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247486934&idx=1&sn=a94e85dae4204ac2a9bbef5f7ec66376&chksm=cef838aff98fb1b9085230cd9aca5b3ae22e7a8fd2ff4e0aad971dfb632a5539a5b5ca424756&token=94802627&lang=zh_CN&scene=21#wechat_redirect][消失的永乐大典：西方打死也不会说的一大崛起奥秘，一册3200万，永乐大典共有11095册，价值超过3550亿......]]*
+:PROPERTIES:
+:CUSTOM_ID: 详见消失的永乐大典西方打死也不会说的一大崛起奥秘一册3200万永乐大典共有11095册价值超过3550亿
+:END:
+
+*关于天工开物：*
+
+1. 在世界上第一次记载炼锌方法；
+
+2. “物种发展变异理论”比德国卡弗·沃尔弗的“种源说”早一百多年；“动物杂交培育良种”比法国比尔慈比斯雅的理论早两百多年；
+
+3. 挖煤中的瓦斯排空、巷道支扶及化学变化的质量守恒规律等，也都比当时国外的科学先进许多。
+
+4. “骨灰蘸秧根”、“种性随水土而分”等研究成果，更是农业史上的重大突破。
+
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-12
+:END:
+*** 明代炼钢技术在前朝的基础上有新的发展。嘉靖年间，发明了‘苏钢'冶炼法。
+:PROPERTIES:
+:CUSTOM_ID: 明代炼钢技术在前朝的基础上有新的发展嘉靖年间发明了苏钢冶炼法
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-13
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-14
+:END:
+*** /*现代冶炼专家周志宏说：*/
+:PROPERTIES:
+:CUSTOM_ID: 现代冶炼专家周志宏说
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-15
+:END:
+*** “*（苏钢冶炼法）在国外还没有类似发明*，显然是一种*创造性的发明*......整个过程适合现代的冶金原理，不用坩埚而创造出一种淋铁氧化的方法而使渣铁分开，成为*比较纯的工具钢*。这是中国古代先进炼钢工人的智慧结晶'。
+:PROPERTIES:
+:CUSTOM_ID: 苏钢冶炼法在国外还没有类似发明显然是一种创造性的发明整个过程适合现代的冶金原理不用坩埚而创造出一种淋铁氧化的方法而使渣铁分开成为比较纯的工具钢这是中国古代先进炼钢工人的智慧结晶
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-16
+:END:
+*** 同时，还发明了生铁淋口法，运用生铁水淋灌工具刀口，使工具有钢的锋刃，也是明朝人民的独特创造。”
+:PROPERTIES:
+:CUSTOM_ID: 同时还发明了生铁淋口法运用生铁水淋灌工具刀口使工具有钢的锋刃也是明朝人民的独特创造
+:END:
+
+永乐通宝（1403-1424年）有的含锌量高达99%，欧洲到18世纪才开始冶炼锌。
+
+方以智在《物理小识》卷7中记载了炼焦炭的方法，欧洲到西元1771年才开始炼焦。
+
+*** *八、机械工程*
+:PROPERTIES:
+:CUSTOM_ID: 八机械工程
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-17
+:END:
+*** 王徵的著作中有自行车、自转磨、虹吸、鹤饮、刻漏、水铳、连弩、代耕、轮壶等等，有部分是他的发明创造，但也有不少是抄袭前辈的书籍。
+:PROPERTIES:
+:CUSTOM_ID: 王徵的著作中有自行车自转磨虹吸鹤饮刻漏水铳连弩代耕轮壶等等有部分是他的发明创造但也有不少是抄袭前辈的书籍
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-18
+:END:
+*** 王徵和传教士邓玉函合作翻译编写创作了《远西奇器图说》，之前就以前专门说过了，这是中国第一部系统引进西方机械工程学与物理学的著作。
+:PROPERTIES:
+:CUSTOM_ID: 王徵和传教士邓玉函合作翻译编写创作了远西奇器图说之前就以前专门说过了这是中国第一部系统引进西方机械工程学与物理学的著作
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-19
+:END:
+根据程碧波教授的考证，王徴加入耶稣会后，编撰了一本《新制诸器图说》，而其中记载了*“火船自去，火雷自轰，风轮转动，风车行远”*等诸多奇妙构思的物件，王徵在耶稣会的授意下，将这些新奇的物件悉数归为“额辣济亚牗造诸器图说”，所谓“额辣济亚”，即“Greek”，希腊。
+
+可是，人们惊奇地发现，王徴书中所谓的*“火船自去，火雷自轰，风轮转动，风车行远”并非其所创，而是来自唐顺之编撰的著作《武编》，即《唐荆川先生篡辑武编》一书。*
+
+*所谓，拷贝不走样，一模一样。*
+
+详见：[[https://mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247486254&idx=1&sn=53b034000cd421ae61bc980868ab62e3&chksm=cef83e57f98fb741661226622a67edae5b3bf317d7f415d000773a0a01177355c95eb4d48a20&token=94802627&lang=zh_CN&scene=21#wechat_redirect][逝去近500年依然可以打假：西方处心积虑又删又改，结果撞见明朝爱国将领唐顺之，忽然又漏了馅儿]]
+
+*九、其他学科*
+
+*** 明末清初，在西方连哲学和科学都无法区分时，方以智已经明确提出有关两者概念与关系的论述。
+:PROPERTIES:
+:CUSTOM_ID: 明末清初在西方连哲学和科学都无法区分时方以智已经明确提出有关两者概念与关系的论述
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-20
+:END:
+*** /*其将学术分为三类：*/
+:PROPERTIES:
+:CUSTOM_ID: 其将学术分为三类
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-21
+:END:
+*** “考测天地之家，象数、律历、音声、医药之说，皆质之通者也，皆物理也。专言治教，则宰理也。专言*通几*，则所以为物之至理也。”（《通雅·文章薪火》）
+:PROPERTIES:
+:CUSTOM_ID: 考测天地之家象数律历音声医药之说皆质之通者也皆物理也专言治教则宰理也专言通几则所以为物之至理也通雅文章薪火
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-22
+:END:
+*** 所谓通几，是对事物发生根本原因的探讨，而质测则要求脚踏实地考察事物变化原因，按特性予以整理分类，总结验证已知规律，预测未来发展变化。
+:PROPERTIES:
+:CUSTOM_ID: 所谓通几是对事物发生根本原因的探讨而质测则要求脚踏实地考察事物变化原因按特性予以整理分类总结验证已知规律预测未来发展变化
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-23
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-24
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 显然，通几与质测是从研究目的和研究方法着眼对学术活动所做的分类。
+:PROPERTIES:
+:CUSTOM_ID: 显然通几与质测是从研究目的和研究方法着眼对学术活动所做的分类
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-25
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** *
+
+:PROPERTIES:
+:CUSTOM_ID: section-26
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** *这种分类是方以智的独创。*
+:PROPERTIES:
+:CUSTOM_ID: 这种分类是方以智的独创
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-27
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 通几概念：“器固物也；心一物也；深而言性命，性命亦物也；通观天地，天地亦物也。推而至于不可知，转以可知者摄之。以费知隐，重玄一实，是物物神神之几也。寂感之蕴，深究其所自来，是曰*通几*。”
+:PROPERTIES:
+:CUSTOM_ID: 通几概念器固物也心一物也深而言性命性命亦物也通观天地天地亦物也推而至于不可知转以可知者摄之以费知隐重玄一实是物物神神之几也寂感之蕴深究其所自来是曰通几
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-28
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** 这里的通几就相当于现在所说的哲学。
+:PROPERTIES:
+:CUSTOM_ID: 这里的通几就相当于现在所说的哲学
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+*** /*
+*/
+:PROPERTIES:
+:CUSTOM_ID: section-29
+:END:
+*** /*方以智在《物理小识·自序》中提出“质测”的概念：*/
+:PROPERTIES:
+:CUSTOM_ID: 方以智在物理小识自序中提出质测的概念
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-30
+:END:
+*** “物有其故，实考究之，大而元会，小而草木螽蠕，类其性情，征其好恶，推其常变，是曰：质测。”
+:PROPERTIES:
+:CUSTOM_ID: 物有其故实考究之大而元会小而草木螽蠕类其性情征其好恶推其常变是曰质测
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-31
+:END:
+*** *这近似于现在的自然科学概念。*
+:PROPERTIES:
+:CUSTOM_ID: 这近似于现在的自然科学概念
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-32
+:END:
+*** 方以智论述了质测与通几二者之间的关系：
+:PROPERTIES:
+:CUSTOM_ID: 方以智论述了质测与通几二者之间的关系
+:END:
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-33
+:END:
+*** “质测即藏通几者也，有意扫质测，而冒举通几，以显其*密之神者，其流遗物”，“通几护质测之穷”，“不可以质测废通几，不可以通几废质测。或质测，或通几，不相坏也”。
+:PROPERTIES:
+:CUSTOM_ID: 质测即藏通几者也有意扫质测而冒举通几以显其密之神者其流遗物通几护质测之穷不可以质测废通几不可以通几废质测或质测或通几不相坏也
+:END:
+
+至于其他各领域的研究及著作，还有很多，比如喻本元、喻本亨《元亨疗马牛驼经全集》
+
+[[./img/31-18.jpeg]]
+
+马一龙《农说》
+
+[[./img/31-19.jpeg]]
+
+屠本畯《闽中海错疏》
+
+[[./img/31-20.jpeg]]
+
+诸如此类，还有很多很多。
+
+*统计显示，在明朝灭亡之前，华夏平均每年就有一项世界级的科技发明贡献给人类。*
+
+再来看看各领域中明朝技术带动产业的发展情况：
+
+“（明代）纺织业生产技术不断提高，缫丝的缫车比元代更精良和完善，已研制成功‘一人执，二人专打丝头，二人主缫'大缫车。《天工开物》记载的花机由两人共同操作，提花小厮坐在花楼上提花，织工门楼下织丝，两人配合可织出各种花纹的丝织品。”
+
+“明代各种新搅车，‘句容式，一人可当四人；太仓式，两人可当八人。'有的地方还使用水转大纺车。......由于明朝政府的鼓励和生产工具的改进，城市棉纺业得到普遍发展，江南一代成为全国棉纺中心。”
+
+“在印刷技术方面，也有了极为重要的发展。首先是铜活字的应用。......万历年间又流行起来木活字印书。《太平御览》、《太平广记》等大部头书籍也都有了木活字印本。崇祯年间又用木活字印行《邸报》，这可以认为是中国用活字版印报纸的起源。”
+
+洪武十八年（1385年）明廷罢官铁冶，开放民营。官府对民冶征收1/15的铁课。
+
+明朝铁产量为北宋的两倍半，*永乐年间的铁产量高达9700吨，到了17世纪欧洲产铁量最多的俄罗斯才2400吨。*
+
+《明代钢铁生产的发展》中列举唐宋元明的铁产量：
+
+唐元和初年，每年为207万斤；
+
+北宋治平年间是824万1千斤；
+
+南宋初年是216万2144斤（不包括金国）；
+
+元朝中统四年（1263年）584万4000斤；
+
+明朝永乐初年是1957万5026斤。
+
+上表中所列并不是实际的铁产量，仅仅是政府征收的铁课量。计算得出永乐初年实际产量应该是2亿7362万斤左右，约为16万2550吨。
+
+18世纪初，整个欧洲（包括俄国）的总产量才14.5万-18万吨。
+
+也就是说，得益于冶铁技术的长足进步，明代永乐初年的铁产量已经相当于18世纪初整个欧洲的全部产量。
+
+明朝无论是铁，造船，建筑等重工业，还是丝绸，纺织，瓷器，印刷等轻工业，在世界都是遥遥领先，工业产量占全世界的2/3以上，比农业产量在全世界的比例还要高得多。
+
+据中国社会科学院历史研究所万明等人引述《铅书》的记载，晚明方圆几千里的各种大量名、优、特产等汇萃于山陬一隅，很能反映明后期商品的繁茂景象。其它如铁器、瓷品、纸张、食糖......也在由生产它们的原产地源源不断地贩运到全国各地，进入大小城市中的千店万铺，供当地市民消费。
+
+“明代造纸印刷术空前发达，出现不少大规模民间印书工场......印书工场很大，可分三个部门。”
+
+ “毛晋汲古阁，不仅抄书、刻书，也售卖书籍......有着一套规模十分广大而完备的机构。从亲自投资、招聘人才、组稿、校勘、编审、书写、镌刻、印刷、装帧，分工细致，工序环节紧密。书籍刻成之后，直接进行销售。从编、印、出版、发行，全部由自己成立的机构运作完成。已经*具备了初步的新型资本主义经营的性质。*"
+
+/*葡萄牙人曾德昭在《大中国志》一书中写道：*/
+
+“中国人天生好经商，不仅从一省到另一省做买卖，获得大利，甚至也在同一城市做生意。商店里有的东西，街上几乎都有售卖......富有的商人信用良好，很守时（葡人多年的经验证明了这点）。”
+
+然而，令人遗憾的是，明朝民间的工业不断壮大，而官营工业却不断萎缩。
+
+晚明时期的中国民间私营的经济力量远比同期西方强大得多，当英国的商人手工场业主拥有几万英镑已经算是巨富的时候，明朝民间商人和资本家动用几百万两的银子进行贸易和生产已经是很寻常。
+
+/*《明末中国的私人海上贸易》引用了宋应星的记载：*/
+
+“民窑发展非常快，容量也比官窑大的多，以青窑为例子，官窑每座烧盘，碟样器二百多件，尺碗三十多件，大覃十六七件，小酒杯五六百件，而民间青窑每座可烧器皿千余件。”
+
+“景德镇陶瓷业中一般民窑的窑身和每窑产量要比官窑大3-4倍。明后期景德镇3000座窑中，官窑仅有几十座。崔、周、陈、吴4家民窑的产品畅销中外，质量远远超过官窑。这时京郊门头沟煤窑很多，官窑只一两座，余皆民窑。”
+
+*【满清治下，对科学技术的态度画风大变】
+
+*一、窥斑见豹，《天工开物》的遭遇*
+
+宋应星的《天工开物》无疑是一部华夏古代科技的总结性著作，是世界上第一部有关农业和手工业生产和科学技术的百科全书。其特点是图文并茂，注重实际，重视实践，*充分反映明朝中国具有世界先进水平的生产技术。*
+
+世界各国的专家学者对《天工开物》都有很高的评价：
+
+英国的达尔文说此书是“权威的著作”；
+
+法国的儒莲称它是“技术的百科全书”；
+
+日本的学者则认为这是一本“中国技术全貌的书籍”。
+
+*** 
+:PROPERTIES:
+:CUSTOM_ID: section-34
+:END:
+可是，就这样一本促使欧洲突飞猛进的科技巨著，连同后来对东亚国家农业、手工业的发展贡献巨大的《农政全书》全都不见了，被满清统治者销毁了。
+
+民国初年，有一个人查阅《云南通志》，发现里面说冶炼铜矿之处引用到《天工开物》，但是他到北京各个大图书馆去搜寻这本书无果，去询问各个藏书家也无人知晓。
+
+后来，他偶然间在日本朋友家发现《天工开物》日文版，于是到日本的图书馆查，发现有英语，俄语，德语，法语翻译本，以及法语全译本，而具有讽刺意味的是唯独在中国找不到这本书。
+
+经过努力，他在法国国家图书馆里找到《天工开物》的明朝原刻本，而这个原刻本是所有版本中印制最精美的。然后按照此本，《天工开物》才在中国重见天日，广为印行。
+
+*二、文字狱，桐城方氏的遭遇*
+
+方以智是明末四公子之一，也是明末清初的科学家、思想家，他28岁时完成著述《通雅》和《物理小识》。不久，满清入关。
+
+慑于满清的文化高压政策和文字狱的空前繁荣，桐城方氏放弃了自然科学的研究，重新去扒拉故纸堆。即使非常小心谨慎，桐城方氏仍然不能免于文字狱。如戴名世南山集案。
+
+康熙时另一次著名的文字狱是《南山集》狱，又称戴名世狱。戴名世著有《南山集》，书中采用了桐城方孝标《滇黔纪闻》一书的材料，对南明诸王朝颇发感慨，寄以同情，并书南明桂王永历年号。
+
+戴、方两家三百多人坐死，经康熙的“宽恕”，戴名世寸磔（分裂肢体），方孝标戮尸，戴、方直系子弟坐死，其余流徒。
+
+方苞是桐城派的理论奠基人，原判绞刑，经李光地营救后幸免。
+
+明末清初死于战乱和屠城，以及灭门惨祸的文人士大夫阶层除桐城方氏一家外，不计其数。
+
+其实，因文字狱而获刑的人多不胜数，金圣叹也是其中一位。
+
+文字狱的处理是非常残酷的，逮捕、抄家、坐牢、受审，判罪极重，至少是终身监禁，流放边远，充军为奴，大多数是杀头凌迟。已死的人，则开棺戮尸。而且一人得罪，株连甚广，近亲家属，不管是否知情，即使是目不识丁，也一概“从坐”。
+
+清朝最早发生的较大的文字狱，是康熙时的庄廷鑨《明史》案。牵涉此案的一些官吏和书商、刻工、列名书中的人等等，有的罢官充军，有的处死，这个案子一共死七十余人。
+
+/*文字狱最厉害的是乾隆时期。*/
+
+在整个清朝160余起文字狱案中,乾隆时期就有130余起,占全部案件的80%。乾隆时期的文字狱之多和他在全国范围内彻底清查禁书有密切关系。因此,一些不是文人的老百姓也因禁书而被杀。
+
+乾隆时期文字狱的主要案犯,被处以“大律论拟”的就有47例,生者凌迟,死者戮尸,亲属男15岁以上皆斩,15岁以下及女性给功臣家为奴。就连连张廷玉、沈德潜些备受乾隆恩宠的重臣,一不留神都会大祸临头,其他人就更不必多说了。
+
+*三、以编撰四库全书的名义，禁书毁书、篡改典籍*
+
+满清统治者通过修纂《四库全书》，对华夏文化进行了一次史无前例的大清洗，禁毁和篡改了大量代表华夏文明最高发展阶段思想精华的书籍，包括大量科技著作，查缴的书竟达15万多部。
+
+销毁对满清不利的书籍总数，以万卷计。销毁版片总数170馀种、8万馀块。
+
+除了禁毁书籍，满清还系统地对明代档案进行了销毁。
+
+目前，明代档案仅三千余件，主要是天启、崇祯朝兵部档案，也有少量洪武、永乐、宣德、成化、正德、嘉靖、隆庆、万历、泰昌朝的官方文书（其中很多已经被满清修改过）。
+
+“康雍乾三代，尤其是乾隆时期，不但对满清统治不满或对明朝有所怀念的书籍统统禁毁，而且连与和朱理学相抵触的书籍也不得超生。从乾隆三十九年到四十七年，光是浙江就进行了大规模的清查和毁书24次。
+
+仅乾隆一代，销毁的书籍“将近三千余种，六、七万卷以上，种数几与四库现收书相埒（等同）”。
+
+[[./img/31-21.jpeg]]
+
+粗略估计，有至少1000万份明代档案，被悉数销毁。
+
+*此外，满清还系统地对残存的书籍和档案进行篡改。*
+
+《四库全书》所收古籍许多经过篡改是史学界皆知的事实。《四库全书》的编纂者对于反映民族矛盾、民族压迫和民族战斗精神的作品尽行摒弃和抽毁，对于不得不收录的名家名作则大肆篡改。
+
+/*例如：*/
+
+岳飞的《满江红》“壮志饥餐胡虏肉，笑谈渴饮匈奴血”在《四库全书》中被改为“壮志饥餐飞食肉，笑谈欲洒盈腔血”。
+
+张孝祥名作《六州歌头•长淮望断》描写北方孔子家乡被金人占领：
+
+“洙泗上，弦歌地，亦膻腥。”
+
+“膻腥”被改作“凋零”。
+
+陈亮的《水调歌头•不见南师久》：
+
+“尧之都，舜之壤，禹之封。于中应有，一个半个耻臣戎。”
+
+“耻臣戎”被改作“挽雕弓”。
+
+满清使用春秋笔法，把明朝从上到下都篡改了一遍，让后世对明朝历史发生了重大偏差。
+
+根据海宁陈乃乾的记载，当代学者顾关元先生认为满清统治者所销毁的书籍是《四库全书》收录总数的十倍。
+
+是故，吴晗一声长叹，振腕不已：“清人纂修《四库全书》而古书亡矣！”
+
+*除此以外，满清统治者还有意识控制府学、裁减县学，在一些地方关禁私学，让大量百姓教育程度降低，蜕变为文盲。*
+
+*四、漠视科技，愚民统治产生的后果*
+
+如此统治，自然是文明大倒退，各领域全方位渐渐落后。
+
+1、地理大倒退
+
+尽管明朝刊印出版了《舆地山海全图》、《舆地图》、《山海舆地全图》、《缠度图》《坤图》等诸多世界地图，但从康熙年间起，已经找不到西方各国的具体位置了，连“佛郎机”都不知道在哪儿，把住在澳门的葡萄牙人唤作“澳门夷”了事，可见其倒退程度之大。
+
+2、火炮技术大倒退
+
+/*根据《黄一农：红夷大炮与明清战争》记载：*/
+
+“嘉庆四年(1799)曾改造一百六十门明朝的“神机炮”，并改名为“得胜炮”，惟经试放后发现其射程竟然还不如旧炮。” 
+
+明朝的“定辽大将军”的铸造技术，被誉为堪比1860年美国军官托马斯.罗德曼(Thomas.J.Rodman)在南北战争时才发明一种铸炮新法。
+
+19世70年代，左宗棠督师西征新疆，在陕西凤翔县进行了一次“考古挖掘”，竟从一处明代炮台遗址挖掘出开花弹百余枚，不禁感慨万千，叹道：
+
+“利器之入中国三百年矣，使当时有人留心及此，何至岛族纵横海上，数十年挟此傲我？” 
+
+需要说明的是，明朝的开花弹是华夏自己研制的，不是外来货。
+
+明末的兵书《兵录》、《神器谱》、《武备志》、《西法神机》、《火攻挚要》、《筹海图编》、《军器图说》、《火龙神器阵法》等等，详细记录了明军装备火器的制法、图谱以及火器部队的编制和战法，可惜好多都被销毁了，又或是束之高阁。
+
+3、造船技术大倒退
+
+《天工开物》在全国绝迹，相应的是，满清封舟一代不如一代，令人无法直视：
+
+- 1684年，长15丈,宽2.6丈
+
+- 1719年,长10丈,宽2.8丈,深1.5丈
+
+- 1756年，长11.5丈,宽2.75丈,深1.4丈
+
+- 1800年, 长只有7丈,宽2.75丈,深为1.3丈
+
+　　　
+
+明末，1633年，封王尚丰，舟长20丈，宽6丈，深五丈，造船度量为1200个单位，而若用俞大猷（1503-1580年）《洗海近事》中记载的：“福船势力雄大......吃水一、二丈”的吃水深度来要求，那么这些满清封舟都将成为潜水艇或半潜船。
+
+根据明朝天启年间的《武备志》第116、117
+卷之“战船”篇记载，作为明朝水军战船的福船，由大到小，一共分为六个型号：
+
+1. 一号福船最大，吃水二丈（6.6米）； 
+
+2. 二号福船，吃水最少一丈（3.3米）；　　　　　　
+
+3. 三号哨船；　　　　　　
+
+4. 四号冬船，也叫海沧船，吃水七八尺（2.475米）；　　　　　　
+
+5. 五号名鸟船；　　　　　　
+
+6. 六号名快船。　　　　　
+
+*清代，主力战船成了鸟船、赶缯船。*
+
+据《皇朝通典》记载，这些船的身长约在七丈到十丈之间，即20米到30米之间，宽6米到7米之间，深2米到2.5米之间，排水量算下来就在100~150吨左右。
+
+换言之，满清水师的船，在明朝水师中仅仅排到第5号，鸟船级别。
+
+1793年，英国马嘎尔尼使团到满清后，惊奇地发现中国帆船很不结实，由于船只吃水浅，无法抵御大风的袭击。
+
+由此，西人判断“中国船的构造根本不适应航海”。
+
+[[./img/31-22.jpeg]]
+
+/*
+*/
+
+/*马嘎尔尼发出感叹道：*/
+
+“中国人首次看见欧洲的船只，至今已经有250年了，他们毫不掩饰对我们航海技术的赞赏，然而他们从未模仿过我们的造船工艺或航海技术。他们顽固的沿用他们无知祖先的笨拙方法，由于世界上没有一个国家能比中国更需要航海技术，因而中国人这种惰性更加令人难以置信”。
+
+（详见：佩雷菲特所著《停滞的帝国------两个世界的撞击》）
+
+4、战术大倒退　　　　
+
+明朝后期，海战战术战法极为先进，郑氏水师独步海疆的“五五制”战舰队形和指挥系统，即利用“五点梅花阵法”将对方“线形队列”分成几段，形成局部围攻以后，用轻巧的快船架设重炮进行艉射（Raking
+Fire），此战法比英国海军称霸全球的“纳尔逊战法”（Nelson
+touch）早出现了一百多年。
+
+可是，满清统治者对这样先进的作战思想和战术也视若无睹。
+
+明朝时，利玛窦在《基督教远征中国史》一书中记载，中国物质生产极大丰富，无所不有，糖比欧洲白，布比欧洲精美......人们衣饰华美，风度翩翩，百姓精神愉快，彬彬有礼，谈吐文雅......
+
+清朝乾隆年间，来访的英国特使马戛尔尼则说：
+
+“遍地都是惊人的贫困；
+
+“很多人没有衣服穿”；
+
+“象叫花子一样破破烂烂的军队”......
+
+两相对比，还能怎么说呢？
+
+在满清治下的268年漫长岁月中，几千年来，华夏形成的士大夫精神、民族气节荡然无存，中国再也没能诞生一个真正意上的大思想家。
+
+百姓奴化的结果就是，在此期间，除了留学归来的詹天佑发明的火车车厢挂钩，居然没有一项具有世界影响的科技发明。
+
+汉唐宋明的精神气节消失了，士大夫阶层也不见了，满眼望去，都是奴才。
+
+最终，满清统治者用268年的时间证明了自己的错误，亲手埋葬了自己，却带给华夏难以估量且无法挽回的巨大损失，与难以磨灭的绵长伤痛。
+

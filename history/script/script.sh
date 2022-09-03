@@ -12,7 +12,7 @@ sd '^\*\**$' '' *.org;
 sed -i '/^$/N;/^\n$/D' *.org
 sed -i '/^\*\**关注我.*\*$/,$d'  *.org
 sed -i '/^\*\**  *[^*]*$/s/\** *//' *.org
-
+i=1;while {read line} {cmd='1s/.*/* '"$line/"; echo $i $cmd;sed -i -e "$cmd" ../org/$i.org; i=$((i+1));} < out.title
 for i (*.org) {emacs $i --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
 
 # 奇怪，执行失败。
