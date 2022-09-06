@@ -4,8 +4,10 @@
      align-items: center;
      justify-content: space-around;
  }
+ .e2 div:first-line{color: green}
  .e2 * {
      display: flex;
      align-content: center;
      text-align: center;
+     color: #1354a6;
  }
