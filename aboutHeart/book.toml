@@ -1,0 +1,8 @@
+[book]
+authors = ["1984204066"]
+language = "en"
+multilingual = false
+src = "src"
+title = "关于这颗心 — 戒 定 慧"
+[build]
+build-dir="aboutHeart-book"

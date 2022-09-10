@@ -34,4 +34,5 @@ for i (`cat files`) { echo " - [$i]($i)" } >SUMMARY.md
 sed -i '3,$s/^#.*$/\n------\n\n&/g' *品
 sed -i 's/^[◎◆◇○]*//g' *品
 
+for i (*品.md) {sed -i -e 's, *<p>\( *&nbsp; *\)* *\(<br>\)*</p> *,\n,g' -e 'y/１２３４５６７８９０/1234567890/'  -e '/<p> *<br> *$/d' -e 's,<p> *\(.*[0-9]\) *\([^.0-9]*\)<br>,\1<br>\n\2<br>,;s/\n<br>$//;' -e 's,</p>,<br>,' $i}
 sed -i 's/^[ \t]\+//g' ../script/script.sh
