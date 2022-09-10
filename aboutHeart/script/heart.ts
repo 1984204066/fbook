@@ -10,7 +10,6 @@ if (fs.existsSync(fname)) {
     const $ = load(html);
     let main = $("div#js_content");
     let mp3 = "";
-    // const mpvoice = $("embed", main);
     $("mpvoice", main).each((i, voice) => {
         const addr = "https://res.wx.qq.com/voice/getvoice?mediaid=" +
             $(voice).attr("voice_encode_fileid");
@@ -20,6 +19,7 @@ if (fs.existsSync(fname)) {
             "<embed src='./mp3/" + fname + ".mp3' width='530px' height='80px' />",
         );
     });
+    const mpvoice = $("embed", main);
     if (mp3 !== "") {
         fs.appendFileSync("voice-urls", mp3);
     }
@@ -42,7 +42,7 @@ if (fs.existsSync(fname)) {
         // $(e).replaceWith("<p>" + $(e).text() + "</p>");
         $(e).remove();
     });
-    const content = $('section[data-role="title"]', main);
+    let content = $('section[data-role="title"]', main);
     // console.log($(main).children().length, $(content).text());
     // console.log($(content).html());
     $(content).prevAll().map((i, e) => {
@@ -52,6 +52,9 @@ if (fs.existsSync(fname)) {
     // const h2= $("h2", content).text();
     // console.log(h2);
     $(content).replaceWith("<h1>" + $(content).text() + "</h1>");
+    $("h1").after(mpvoice);
+    // $(content).append(mpvoice);
+    // console.log($.xml($(content).next()));
     const trim_head = imgn - $("img", main).length;
     appendImage(imgs, trim_head);
     // main chanaged, so reload it.
