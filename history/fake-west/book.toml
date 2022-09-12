@@ -1,0 +1,10 @@
+[book]
+authors = ["1984204066"]
+language = "en"
+multilingual = false
+src = "src"
+title = "西史辨伪"
+[build]
+build-dir="fake-west-book"
+[output.html]
+additional-css = ["fake.west.css"]
