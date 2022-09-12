@@ -1,0 +1,295 @@
+* 中国是印度，还是“罗马帝国”：十字架是甲骨文的亚字变体，华北是上印度，华南是南印度，上印度与南印度之间是中原坝……
+以上述说法来看，欧洲人称呼中国为“印度”，大略起始于13世纪，而结束以印度称呼中国的时间，是在耶稣传教士来华之后，也就是17世纪以后。
+
+1507年的地图，由马丁·瓦尔德西米勒 (Martin Waldseemüller) 和马蒂亚斯·林曼
+(Matthias Ringmann) 所绘制，请见东亚中国部分
+
+[[./img/33-0.jpeg]]
+
+1992年，新加坡国立大学蓝丽容教授出版了《雪泥鸿爪朔数源》(Fleeting
+Footsteps, Tracing the Concept of Arithmetic and Algebra in Ancient
+China)一书，充分论证了阿拉伯数字起源中国的史实，因此斩获国际数学史最高奖。
+
+经过蓝丽蓉教授的考证，花拉子米在《算法》一书（根据乌兹别克文本同时参考俄文本译出的中译本，其实只是在大唐学习时留下的一本课堂笔记而已）中，所言能用“九个数码”表示任何数字的宏大叙事，其实就是中国算术、中国算筹。
+
+[[./img/33-1.jpeg]]
+
+/*花拉子米称：*/
+
+“我看见印度人把九个符号经过任意排列而得到他们想要得到的数......”
+
+“数位从作者的右边起数，其中第一个称为个位。当用十来代替这个一并把它摆在第二位时，则它在形式上与一相似，于是他们就需要一种在形式上与‘一'相似的十，为了看得出它是十，他们在它的右边留了一个空位置并将像‘0'形式的小圈摆在这个位置上。这样他们就知道这个位置是空的。”
+
+[[./img/33-2.jpeg]]
+
+他在书中举了一个生成“*三 二 五*（325）”的例子：
+
+“从作者的右边开始，在第一位上放置五，然后向作者的左边方向移动一位，把二十摆在第二位上，把三百摆在第三位上。
+
+每一个数字应摆在相应的数位上，即：个位数摆在个位上，这是第一位；整十数摆在十位上，这是第二位；整百数摆在百位上，这是第三位。”
+
+令人困惑的是，此书一直在说中国的算术、算筹，可是，却压根不提中国，只是在说看见“印度人”如何如何，这不是很奇怪么？
+
+其实，如果知道13-17世纪，西人一直把中国称为印度，就不觉得奇怪了。
+
+14世纪20年代，欧洲修士鄂多立克由海路东行，到达中国，他在游记中写道：
+
+“在我东航大洋海若干天后，我来到吾人称之*为上印度*的*著名蛮子省。*”
+
+这里的蛮子省是指南部中国，*上印度的蛮子省，那不就是中国的蛮子省么？*
+
+显然，中国在他的脑海中，潜意识里就是印度。
+
+1338-1353年，意大利人约翰·马黎诺里在教皇派遣之下率领使团抵达中国，他称中国北方为契丹，称中国南方为蛮子，又称*“蛮子”为“最大印度”。*
+
+*根据文献史料，当时的欧洲人称呼中国的名称多多，不仅包括“上印度”、“最大印度”等名号，有时也称中国为“东印度”、“西印度”等。*
+
+法国学者安田朴在《中国文化西传欧洲史》第47页写道：
+
+“根据蒙田的判断，在16世纪末左右，最具有远见卓识的人都看到了中国的重要地位。但在这种关注中，......确实远不如对像发现印度------西印度（中国）那更要震动人心的事受人重视。”（第47页） 
+
+为什么说“东印度”有时也是指代中国呢？
+
+根据林鹏、诸玄识、董并生《西方中心论批判》第2卷的考证，在欧洲中世纪晚期的地理概念中，“印度”一名正是用来指称中国的。西方人称呼中国为“印度”由来已久，并不是什么新鲜事。
+
+在地理大发现之前，欧洲人朝思暮想、苦苦追寻的天堂，苦苦寻觅的“印度”，其实就是中国（明朝）。当时，无论是“东印度”，还是“西印度”，起初都是指代中国。
+
+自从欧洲人知道许多精美的贸易商品源自东方后，一直想越过二道贩子阿拉伯人，与东方直接从事交易。
+
+可是，精明的阿拉伯商人在贸易中获得了巨大的利益，又怎么会轻易把中国的信息泄露给西人呢？
+
+无论西人怎么问，出于保护自己利益的目的，阿拉伯人肯定都会用一个模糊的地理概念来打发他们：“这些精美的商品是从哪儿来的？呃......‘印度'。
+
+随着贸易地不断扩大，经年累月，“印度”就成了一个高频词，“印度”也因此声名远播，西人信以为真，最后将船驶向东方，终于发现了*上印度的蛮子省、南印度的广东。*
+
+而彼时的印度，尚未统一，大大小小有着数十甚至上百个小国，当达迦马发现新航线前往马六甲、并途经印度次大陆时，他将其称为*“小阿拉伯半岛”。*
+
+故此，西方典籍中记载的印度，其实就是指中国。印度数字（阿拉伯数字）就是中国数字，西方典籍所记载的印度文明，便是华夏文明。
+
+1492年10月，哥伦布到达南美洲，但是哥伦布认为自己到达的是印度。意大利人Amerigo于耶元1501年首航至南美洲不久后宣布，此处并非亚洲的印度，而是一片“新大陆”。他们回到欧洲以后，Amerigo的《航海日志》被法国的洛林公爵（Duke
+of Lorraine）买走，后者命令修道士马丁·维尔德西姆勒（Martin
+Waldseemuller）根据这本《航海日志》画出新的世界地图。
+
+马丁·维尔德西姆勒将世界地图切割成三角形，以三角形为单位，将原本球状的地球分割，以便绘制地图。
+
+[[./img/33-3.jpeg]]
+
+其后，经过拼接，马丁·维尔德西姆勒绘制成以下这幅地图。该地图又被称为瓦尔德泽米勒（Waldseemuller）地图，原本于1507年4月出版。
+
+[[./img/33-4.jpeg]]
+
+不过，该地图据说后来长期失传，一直到神父约瑟夫·费舍尔于1901年在瓦尔特一个城堡的图书馆意外发现了地图原本，才重新现世。2003年5月，美国国会图书馆以1000万美元购得此图，将其放置在图书馆入口处的大厅中。联合国教科文组织于2005年将瓦尔德泽米勒所作地图列入世界历史文献遗产。
+
+好了，介绍完这幅地图的背景，我们来看看此图上对中国的标注。
+
+[[./img/33-5.png]]
+
+根据程碧波教授的考证，此图明确将中国标为了印度，并且把华北地区称为*上印度（India
+superior）*、把华南地区称为*南印度（India meri donalis）。*
+
+而在*上印度*和*南印度*之间，标注的是*“Cyamba Provincia
+Magna”。“Cyamba”*就是*“大中原坝”*（“C”按传教士音为[z]），“Magna”为拉丁语，意即“巨大的，伟大的”。
+
+注意，上印度之左下位置，标注着Thebet Provin（吐蕃，即西藏）。
+
+而黄河则被标注为“山东河（fulicaudom）”。
+
+*最令人意外的是，整个中国地区，上、下、左、中，以及右下角位置，一共出现了五个十字架。*
+
+与此同时，意大利乃至整个欧洲，甚至是中国以外的所有其他地方，均无十字架标志。
+
+[[./img/33-6.jpeg]]
+
+[[./img/33-7.jpeg]]
+
+*原来，“十”字最早为中国甲骨文“亚”字，表示聚居处所和祭坛。*
+
+在西藏的原始苯教和后来的佛教中，十字金刚杵由四个带有莲花座的金刚杵组成，四个金刚杵的杵头从中心点向四大方位散射，象征着绝对的定力。在对须弥山进行宇宙学的描述中，巨大的十字金刚杵承托着物质宇宙或横在其下面。
+
+同样，在描述坛城时，巨大的十字金刚杵是坛城宫不可撼动的支撑物或地基。
+
+通常而言，还会在“十”字四角，缀上四个小*“卐”*字符。而万字符并不是原始苯教或佛教发明，它来源华夏先民的天文观测。
+
+坐北朝南
+
+[[./img/33-8.jpeg]]
+
+*所以，所谓“十字架”的原始天文含义在这里。*
+
+下图中有一个地点，标注了“lama”，程碧波教授认为应是“喇嘛”标记，因为“lama”的全文为“blama”。其中，“ma”的含义为：“对待一切众生犹如母亲呵护自己的孩子一般慈悲，是慈悲至高无上的意思”。
+
+显然，这就是汉语“妈”。
+
+[[./img/33-9.jpeg]]
+
+“blama”喇嘛，是对喇嘛教僧侣之尊称，为长老、上座、高僧之称号。唐三藏就被尊称为“Tangsang
+blama”。
+
+“bla”就是前述“班佛”之“班”，也即“ban”。由于拼音文字拼读时对音节的划分混淆，所以“ban”被读为“ba”和“n”，即为“bla”。是故，“喇嘛”本应是“班妈”，表示有大智慧而慈悲如母亲的长老。
+
+在历史长河的发展与演进中，“blama”又被后人拼读为“波罗蜜”、“婆罗门”。
+
+有意思的是，经过程碧波教授等学者的考证，*发现“Ptolemy（托勒密）”居然与此相关，来源于此，而所谓的金字塔恰恰正是波罗蜜塔“Pyramid”。*
+
+前两天，无意间刷到一则视频，是某科技大V在为金字塔背书，声称金字塔是真货，俄罗斯科学家胡说，而他面对诸多质疑，却一个证据都没有列出，只是轻描淡写地说，俄罗斯科学家还质疑中国的长城，所以，这位科学家说的内容完全不可信。
+
+笔者当时颇为惊讶，因为俄罗斯科学家说的金字塔的事情，是有大量证据的，并且还有世界排名前三的两位材料学家的研究论文和著作为证，而质疑中国的长城却缺乏相关证据，这完全是两个不同的论点和论题，怎么能混为一谈呢？
+
+怛罗斯之战时，因葛逻禄临阵倒戈，导致高仙芝败走，杜环等一众随军工匠被俘。
+
+杜环所著《经行记》中将穆罕默德（Muhammad）译作“暮门”，华夏典籍也曾将之译为“摩诃末”。“摩诃”的梵文含义是“大”，写作“Maha”，其来自中文“弥大”。
+
+韩愈《唐故秘书少监赠绛州刺史独孤府君墓志铭》上有云：
+
+“朋游益附，华问弥大”。
+
+因此，“Muhammad”与“Banma”均为同源。而后，由“Muha”演化出“马”姓或“穆”姓。
+
+1513年，上文提及的马丁·维尔德西姆勒（Martin
+Waldseemüller）又制作了一幅世界地图。在1513年的地图中，对中国的称呼“上印度（India
+Superior）”仍然保留，但将*中原坝（Cyamba）*改为了*“Ciamba”*，向后来的“Cina”靠近了。
+
+1507年时，中原坝还是CYAMBA
+
+[[./img/33-10.jpeg]]
+
+1513年时，中原坝CYAMBA变成了右下角那个Ciamba
+
+[[./img/33-11.png]]
+
+此时，原来标注为lama的位置，变成了“tholoma”，姑且翻译为“（大）罗马”。
+
+** 据称是1514的现代版完整的全世界地图，绘图者欧龙斯·费恩（Oronce
+Finé，1494--1555
+年）是巴黎皇家学院（今法兰西学院）的首任数学系主任，也是法国最早从事地图绘制的学者之一。
+:PROPERTIES:
+:CUSTOM_ID: 据称是1514的现代版完整的全世界地图绘图者欧龙斯费恩oronce-finé14941555-年是巴黎皇家学院今法兰西学院的首任数学系主任也是法国最早从事地图绘制的学者之一
+:into-catalog-status: 
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+** 
+:PROPERTIES:
+:CUSTOM_ID: section
+:into-catalog-status: 
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+** 1514年的这幅地图原名Nova, et integra universi orbis descriptio
+:PROPERTIES:
+:CUSTOM_ID: 年的这幅地图原名nova-et-integra-universi-orbis-descriptio
+:into-catalog-status: 
+:style: margin: 0px;padding: 0px;font-weight: 400;font-size: 16px;color: rgb(51, 51, 51);font-family: mp-quote, -apple-system-font, BlinkMacSystemFont, "Helvetica Neue", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei UI", "Microsoft YaHei", Arial, sans-serif;font-style: normal;font-variant-ligatures: normal;font-variant-caps: normal;letter-spacing: normal;orphans: 2;text-align: justify;text-indent: 0px;text-transform: none;white-space: normal;widows: 2;word-spacing: 0px;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
+:END:
+
+[[./img/33-12.jpeg]]
+
+在这幅地图中（从北极上空的俯视图），中国也被称为Ciamba，而旁边就是大罗马（Tholoma）。此外，在亚洲ASIA的A和S之间，也横空出现了一个Toloma。这个位置看起来很像是吐蕃（西藏）的方位。
+
+此时，左边有个一个非常醒目的地标“Parias”，即巴黎。
+
+1538年，墨卡托地图，如下，也是北极上空的俯视图。
+
+墨卡托（Gerardus
+Mercator，1512-1594年）是弗兰德斯（今比利时）著名的地理学与制图学家，它是当时低地国家（荷兰和比利时）制图学的代表人物。墨卡托的地理知识大多来自于丰厚的藏书。
+
+[[./img/33-13.jpeg]]
+
+在墨卡托地图中，华中地区*中原坝也被改称为Ciamba，而Tholoman出现在了吐蕃（西藏）以西的位置。*
+
+*大罗马Tholoma、Toloma在被不断西移。*
+
+1566年全球地图，东亚部分。
+
+[[./img/33-14.png]]
+
+此时的华中地区*中原坝“Ciamba”*已经转音，变为了*“Simba”。有意思的是，以前从未出现的希腊（SINAR），横空出现在了本土最上方。*
+
+“Tholoma（大罗马）”则位于“SINAR”（希腊）和“Siamba”（中原坝）之间。
+
+上印度（华北地区）摇身一变，成了SINAR（希腊）？
+
+不仅如此，南中国海、南中国也变成了SINARUM、SINA。
+
+[[./img/33-15.jpeg]]
+
+卫匡国《中国文法》之后不久，著名的《中国哲学家孔子》(Confucius *Sinarum*
+philosophus)1687年于巴黎面世；
+
+1687年，柏应理在巴黎以拉丁文出版了《中国贤哲孔子》(Confucius *Sinarum*
+Philosophus)一书。
+
+雷孝思(Régis)所翻译的《易经:中国最古之书》将“中国的”也称为*“Sinarum”。*
+
+*原来，中国在西人眼中，还是SINAR（希腊）。
+
+除此之外，更令人震惊的是，1897年，共济会曾刊印出版一份文件“The secret
+scocieties of all ages and
+countries”，上面赫然写有*Roma（China）的表述：*
+
+/“The Order was said to have been brought by a Chinese mandarin (a
+Jesuit missionary?) to England, it being in great repute in *China
+(Rome),* and to possess extraordinary secrets.”/
+
+[[./img/33-16.jpeg]]
+
+//
+
+[[./img/33-17.jpeg]]
+
+[[./img/33-18.jpeg]]
+
+[[./img/33-19.jpeg]]
+
+//
+
+本想把后面的具体页面也贴出来的，无奈电脑卡了半天，PDF打开太慢，一共369页，应该在有关英国和中国的条目下，今天太累了，下次找到截图再发吧。
+
+由此可见，*真正的罗马帝国其实也是暗指中国*，而不是坤图上的罗马小城、罗马小村。
+
+[[./img/33-20.jpeg]]
+
+*搞了半天，罗马帝国的故事版本是中国，是大明。*
+
+程碧波教授特别指出，此时的传教士已经修改完西域语音，“Rome”已经可发汉语音“罗马”。
+
+1562年，全球地图右方赫然出现了*“LA
+CHINA”字样*，意即*“南中原”*，用以代称“南中国”。上方是“CHEOE（中）-AN（原）”，可近似发音为“CHINA”。
+
+[[./img/33-21.png]]
+
+1570年世界天体剧场地图册中的世界地图，中国已经变为China。
+
+[[./img/33-22.jpeg]]
+
+世界天体剧场地图册（Theatrum Orbis
+Terrarum）出版于1570年，地图册的作者Abraham
+Ortelius出生于今天比利时的安特卫普（当时与荷兰都属于低地国家）。
+
+1572年全球地图Mappamondo，紧邻吐蕃（Tipura）上方的仍是大罗马（Toloman），中原已经完全写为“China”。
+
+[[./img/33-23.png]]
+
+从上面西人绘制地图的名称变化可以看出，从“CYAMBA” - “Ciamba” - "Simba" -
+“SINAR” - “SINARUM” - “SINA” - “CHINA”的整个演化过程。
+
+“SINA”、“CHINA”的发音并非此时完成。
+
+这个演化过程实则体现了上述地图的中国来源：从跟随中国古汉语发音“CYAMBA”，逐渐建立书面语言体系，在采用汉语对译方式成功建立自己的词汇和语言体系后，转向采用自己的西语发音方式。
+
+也就是说，自己啥也没有的时候，就照着华夏的地名抄，等自己有了书面语言后，就开始逐一按照自己的意愿进行更改。
+
+18世纪以后，现今印度出现了包括著名的《梨俱吠陀》在内的各种吠陀经的写本，到了19世纪，由欧洲人第一次将之刊印成册。而在其中的两部经文《摩诃婆罗多》和《罗摩衍那》中，首次出现了对中国的称呼：cina（梵文）。
+
+由上述多图和分析可知，“TOLOMAR（大罗马）与吐蕃（即“TIPVRA”，西藏）高度相关，“大罗马”正是来自宗教含义“大喇嘛”。这可不是瞎猜，实际上迄今为止，西藏“纳木错”的发音还有“TOLOMAR”的残留，纳木即罗马。
+
+此外，“珠穆朗玛”也应是“TOLOMAR”的发音残留，朗玛即罗马。
+
+所以，罗马是当时西人对西藏一大片区域广域之称。
+
+综上所述，1513年之前，西人眼中的所谓*印度*，主要就是指代中国，“India
+Superior”、“India meri
+donalis”铁定是中国无疑。而吐蕃在当时西人的心目中，则是大罗马。“China”是中原，即代表中国。
+
+至此，一切恍然大悟，不仅希腊SINAR（SINA）是中国，连罗马Tholoma也是指代中国！
+
+呵呵，呵呵呵！
+

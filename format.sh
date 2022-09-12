@@ -12,18 +12,25 @@ format_file() {
 }
 
 # wget_url_to out_dir url url_start fname_start
-wget_url_to() {    
+wget_url_to() {
+    local force=0
     # i: 代表可以接受一个带参数的 -i 选项
     # c 代表可以接受一个不带参数的 -c 选项
-    while {getopts h arg} {
+    while {getopts hf arg} {
 	      case $arg {
 		      (h)
-		      echo "IFS=' % ' wget_url_to out_dir url url_start fname_start"
+		      echo "IFS=' % ' wget_url_to -f out_dir url url_start fname_start"
 		      return;
 		      ;;
+		      (f)
+			  echo "set force"
+			  force=1
+			  ;;
 		  }
 	  }
-	  
+	  # echo $0,$1,$2,$3;return;
+	  shift $((OPTIND-1))
+	  echo $OPTIND, $*
 	  local out=$1
 	  local urls=$2
 	  local ustart=1
@@ -33,12 +40,16 @@ wget_url_to() {
 	  # [[ $IFS == "\n" ]] && IFS=' % '
 	  local suffix=
 	  [[ $out =~ "html" ]] && suffix=".html"
-	  while {read -r url f} {
+	  while {read -r f url} {
+		    # echo $f '--' $url;return;
 		    if (( --ustart > 0)) {continue};
 		       local fname=$out/$fstart$suffix
-		       [[ $f != "" ]] && fname=$out/$f
-		       echo $fname;
-		       if [[ "$url" == '' ]] {continue;} else {
+		       [[ -n "$f" ]] && fname=$out/$f
+		       if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
+			      echo $force ",Ignore" $fname
+			      continue;
+			  } else {
+			      echo $fname;
 			      wget -O $fname $url;
 			      fstart=$((fstart+1));
 			  }
