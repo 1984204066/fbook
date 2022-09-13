@@ -13,6 +13,24 @@ format_file() {
     sed -i '/^$/N;/^\n$/D'  *.$suffix
 }
 
+footnote() {
+    local f='*.org'
+    (($+1)) && f=$1
+    # concat footnote to one line
+    sed -i '/^\[[0-9]\+\]/{:a N;s/\n\([^\n]\+\)$/\1/;t a;}' $f
+    # change footnote to [fn:xx] defination.
+    sed -i 's/^\[\([0-9]\+\)\]\(.*\)/[fn:\1] \2/' $f
+    # change footnote ref from ^{[xxx]} to [fn:xxx]
+    sed -i 's/\^{\[\([0-9]\+\)\]}/[fn:\1]/g' $f
+    # some fn ref is like [xx]
+    sed -i 's/\[\([0-9]\+\)\]/[fn:\1]/g' $f
+}
+
+foot2md() {
+    footnote $1
+    org2md $1
+}
+
 title2summary() {
     local usage="title2summary -c <check md file existance> -h"
     local check=0
@@ -30,15 +48,15 @@ title2summary() {
 
 	  i=1;
 	  while {read  title} {
-	      if [[ "$title" == '' ]] {continue;}
-		 t=`echo $title | sd '^.*[：:|] *(.*)' '$1'`;
-		 # t=$title
-		 if ((check == 1)) {
-			while [[ ! -f $i.md ]] {i=$((i+1));}
-		    }
-		 echo "* [$t]($i.md)";
-		 i=$((i+1))
-	  }
+		    if [[ "$title" == '' ]] {continue;}
+		       t=`echo $title | sd '^.*[：:|] *(.*)' '$1'`;
+		       # t=$title
+		       if ((check == 1)) {
+			      while [[ ! -f $i.md ]] {i=$((i+1));}
+			  }
+			  echo "* [$t]($i.md)";
+			  i=$((i+1))
+		}
 }
 
 # wget_url_to out_dir url url_start fname_start
@@ -107,7 +125,12 @@ genXfile() {
 }
 
 org2md() {
-    for f (*.org) {
-	emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
-    }
+    local f=$1
+    if (($+1)) {
+	   emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";	   
+       } else {
+	   for f (*.org) {
+	       emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
+	   }
+       }
 }

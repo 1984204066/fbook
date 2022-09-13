@@ -1,4 +1,8 @@
 * 假的真不了：西方伪作斐波那契《计算之书》剽窃华夏《孙子算经》等多部著作
+
+http://mp.weixin.qq.com/s?__biz=Mzg3MTc2OTExMA==&mid=2247487335&idx=1&sn=6edcdefcc7f5216bd3e4ec03d4a02374&chksm=cef83a1ef98fb3089be63b287ec25cc6c3ff8cde84e83a45bb4395b4b58419f6b2584d6a8ba4#rd
+
+
 许多人或许没有听过《计算之书》的大名，但若提到它的作者斐波那契，应该多多少少会有些耳闻。
 
 因为，数学上有个很有名的*“斐波那契数列”*。
