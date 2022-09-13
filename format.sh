@@ -7,23 +7,40 @@ format_once() {
 
 format_file() {
     local suffix=$1
-    sd '\\\\ *$' '' *.$suffix
-    sd '^  *$' '' *.$suffix
+    # \\ 即是换行的意思，所以替换成\n
+    sd '\\\\ *$' '\n' *.$suffix
+    # 结尾的空格要去掉。
+    sd '  *$' '' *.$suffix
     sd '^\*[ \*]*$' '' *.$suffix
     sed -i '/^$/N;/^\n$/D'  *.$suffix
 }
 
+concatSlash() {
+    local f=(*.org)
+    (($+1)) && f=$1
+    # /xxx有时<slash>分成了2行.*/ 把它们放在一行。 /&开头的当成quote,不合并。
+    # 如果/在最后一行 没有问题。t a;不跳转，正好最后一个s合并起来。与concatLines不同。
+    sed -i '\,^/[^/]\+ *$,{:a N;s,^/[^/&]\+ *$,&,;t a;s/\n/ /g;}' $f
+}
+
+concatLines() {
+    local f=(*.org)
+    (($+1)) && f=$1
+    sed -i '/^$/!{:a N;s/\n\([^\n]\+\)$/\1/;t a}' $f
+}
+
 footnote() {
-    local f='*.org'
+    local f=(*.org)
     (($+1)) && f=$1
     # concat footnote to one line
-    sed -i '/^\[[0-9]\+\]/{:a N;s/\n\([^\n]\+\)$/\1/;t a;}' $f
+    sed -i '/^\[\+[0-9]\+\]\+/{:a N;s/\n\([^\n]\+\)$/\1/;t a;}' $f
     # change footnote to [fn:xx] defination.
-    sed -i 's/^\[\([0-9]\+\)\]\(.*\)/[fn:\1] \2/' $f
-    # change footnote ref from ^{[xxx]} to [fn:xxx]
-    sed -i 's/\^{\[\([0-9]\+\)\]}/[fn:\1]/g' $f
-    # some fn ref is like [xx]
-    sed -i 's/\[\([0-9]\+\)\]/[fn:\1]/g' $f
+    sed -i 's/^\[\+\([0-9]\+\)\]\+\(.*\)/[fn:\1] \2/' $f
+    # change footnote ref from ^{[xxx]} ^{xxx} [xx] or [[xxx]] to [fn:xxx]
+    sed -i 's/\^*[{[]\+\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
+    # some fn ref is like 
+    # sed -i 's/\[\+\([0-9]\+\)\]\+/[fn:\1]/g' $f
+    # sed -i 's/\^*[{[]\+fn:\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
 }
 
 foot2md() {
