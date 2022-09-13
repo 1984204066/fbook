@@ -35,4 +35,7 @@ sd '(.[^* ])(\*[^*]+\*)' '$1 $2' 1.org #当一行有两对 黑体 时有问题�
 sd '(.[^ ])(\*[^ *]+\*)' '$1 $2' 1.org
 sed -i 's/\([^ ]\)\(\*[^ *]\+\*\)/\1 \2/' 1.org
 
+for i ({1..26}) {sed -i -e '5s/.*/[[转载请注明出处][###]]\n\n&/' ../org/$i.org;}
+for i ({1..26}) {read url;sd '###' "$url" ../org/$i.org;} <urls
+
 emacs 1.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";

@@ -86,11 +86,11 @@ wget_url_to() {
 		} < $urls
 }
 
-getXfile() {
+genXfile() {
     while {getopts h arg} {
 	      case $arg {
 		      (h)
-		      echo "getXfile js-script"
+		      echo "genXfile js-script start_x_no <default=1>"
 		      return;
 		      ;;
 		  }
@@ -107,7 +107,7 @@ getXfile() {
 }
 
 org2md() {
-    for i (*.org) {
-	emacs $i.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
+    for f (*.org) {
+	emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
     }
 }
