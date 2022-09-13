@@ -1,14 +1,44 @@
+format_once() {
+    local suffix=$1
+    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' *.$suffix
+    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' *.$suffix
+    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' *.$suffix
+}
+
 format_file() {
     local suffix=$1
-    sd '\\\\$' '' *.$suffix
-    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' *.$suffix
-    sed -i '/^  *$/d' *.$suffix
-    sd '^  *' ''  *.$suffix
-    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' *.$suffix
+    sd '\\\\ *$' '' *.$suffix
+    sd '^  *$' '' *.$suffix
     sd '^\*[ \*]*$' '' *.$suffix
     sed -i '/^$/N;/^\n$/D'  *.$suffix
-    # sed -i 's/^Image$//' *.$suffix
-    # fd -e .org -x  sed -i 's/\([^-][^-]*\)---*/\1-<feff>-/g'    
+}
+
+title2summary() {
+    local usage="title2summary -c <check md file existance> -h"
+    local check=0
+    while {getopts ch arg} {
+	      case $arg {
+		      (h)
+		      echo $usage
+		      return;
+		      ;;
+		      (c)
+			  check=1
+			  ;;
+		  }
+	  }
+
+	  i=1;
+	  while {read  title} {
+	      if [[ "$title" == '' ]] {continue;}
+		 t=`echo $title | sd '^.*[：:|] *(.*)' '$1'`;
+		 # t=$title
+		 if ((check == 1)) {
+			while [[ ! -f $i.md ]] {i=$((i+1));}
+		    }
+		 echo "* [$t]($i.md)";
+		 i=$((i+1))
+	  }
 }
 
 # wget_url_to out_dir url url_start fname_start
@@ -74,4 +104,10 @@ getXfile() {
 		 # echo $i
 		 node $ts $html $i >X/$i.x;
 	  }
+}
+
+org2md() {
+    for i (*.org) {
+	emacs $i.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
+    }
 }

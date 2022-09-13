@@ -49,3 +49,22 @@ export function appendImage(imgs, trim_head = 0, trim_tail = 0) {
     fs.appendFileSync("img-urls", imgs);
     return imgs;
 }
+function upOne($, elem, main) {
+    const parent = $(elem).parent();
+    if ($(parent).is(main)) {
+        return [elem, 0];
+    }
+    if ($(parent).text().trim() === $(elem).text().trim()) {
+        $(parent).replaceWith(elem)
+        return [parent, 1];
+    }
+    return [elem, -1];
+}
+function levelUp($, elem, lable) {
+    const main = $(lable);
+        let [parent, ret] = upOne($, elem, main);
+        if (ret === 1) {
+            return levelUp($, parent, lable);
+        }
+    return [parent, ret];
+}
