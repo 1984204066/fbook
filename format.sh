@@ -9,9 +9,18 @@ format_file() {
     local suffix=$1
     # \\ 即是换行的意思，所以替换成\n
     sd '\\\\ *$' '\n' *.$suffix
-    # 结尾的空格要去掉。
+    # 其他地方的\\直接取缔。
+    sd '\\\\' '' *.$suffix
+    # 不破坏行结构。去掉空格
+    sd '^  *$' '\n' *.$suffix
+    # 结尾的空格要去掉。此时开头处肯定有字符， 所以不破坏行结构。
     sd '  *$' '' *.$suffix
-    sd '^\*[ \*]*$' '' *.$suffix
+    # 开头的空格要去掉。
+    sd '^  *' '' *.$suffix
+    # 在sd里*是特殊字符，故此，只删除^*****$
+    # sd '^\*[ \*]*$' '' *.$suffix
+    # [ \*] 含义在sd , sed中含义不一样。
+    sed -i 's/^\*[ \*]*$//' *.$suffix #会删除 *\\*
     sed -i '/^$/N;/^\n$/D'  *.$suffix
 }
 
@@ -26,7 +35,10 @@ concatSlash() {
 concatLines() {
     local f=(*.org)
     (($+1)) && f=$1
-    sed -i '/^$/!{:a N;s/\n\([^\n]\+\)$/\1/;t a}' $f
+    # 不破坏行结构。去掉空格
+    sd '^  *$' '\n' $f
+    # 不在空白行或#+功能行上 开始。但是有可能结合空白行。
+    sed -i '/^ *$\|^#+/!{:a N;s/\n\([^\n]\+\)$/\1/;t a}' $f
 }
 
 footnote() {
@@ -138,6 +150,36 @@ genXfile() {
 		 i=`basename $html .html`
 		 # echo $i
 		 node $ts $html $i >X/$i.x;
+	  }
+}
+
+x2org() {
+   local usage="x2org inx org -h <help>
+		     inx: input dir or file <default=X/>
+		     org: output dir or file <default=../org/>\n"
+   local dx='X/'
+   local dorg='../org'
+   while {getopts h arg} {
+	      case $arg {
+		      (h)
+		      echo $usage
+		      return;
+		      ;;
+		  }
+	  }
+   (($+1)) && dx=$1
+   (($+2)) && dorg=$2
+	 if [[ -d "$dx" && ! -d "$dorg" ]] {
+	 echo "$usage in/out should be dir";return;
+	 }
+	if [[ -f "$dx" ]] {
+	pandoc -f html -t org -o $dorg $dx
+	return;
+	}
+	  for i ($dx/*.x) {
+	    echo $i
+		f=`basename $i .x`
+		pandoc -f html -t org -o $dorg/$f.org $i
 	  }
 }
 

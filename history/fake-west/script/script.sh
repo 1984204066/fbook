@@ -7,7 +7,11 @@ getXfile -h
 getXfile fake.js 2 2>title
 
 for i ({2..26}) {pandoc -f html -t org -o ../org/$i.org X/$i.x }
-# 黑体2 h2  跳过发言：之后3段。  
+format_once org
+concatLines 3.org
+format_file org
+
+# 黑体-> h2  跳过发言：之后3段。  
 sed -i '/:$/{n;n;n}; /^\*\**[^ :「]\+\*.*/s/\*\([^*]\+\)\*.*/** \1/' *.org
 sed -i 'y/《》/「」/' *.org
 sed -i '/^$/N;/^\n$/D' *.org
