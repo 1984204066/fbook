@@ -1,47 +1,59 @@
-while {IFS=' % ' read fname url} { if [[ "$fname" == '' ]] {continue;};echo $fname;wget -O ../src/img/$fname $url;} <img-urls
-      
 . /fbook/format.sh
-wget_url_to -h
-wget_url_to ../html urls 2 2
-getXfile -h
-getXfile fake.js 2 2>title
 
-for i ({2..26}) {pandoc -f html -t org -o ../org/$i.org X/$i.x }
-format_once org
-concatLines 3.org
-format_file org
+footnote() {
+    # local f=(*.org)
+    # (($+1)) && f=$1
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    # concat footnote to one line, 但不结合下一个note.
+    #sed -i '/^\[\+[0-9]\+\]\+/{:a N;s/\n\[\+[0-9]\+\]\+/&/;b;s/\n\([^\n]\+\)$/\1/;t a;}' $f
+    sed -i '/注释/,$s/^[{ []*\([0-9]\+\)[] }]*/\n\n&/g' $f
+    # change footnote to [fn:xx] defination.
+    sed -i 's/^[{ []*\([0-9]\+\)[] }]*\(.*\)/[fn:\1] \2/' $f
+    # change footnote ref from ^{[xxx]} ^{xxx} [xx] or [[xxx]] to [fn:xxx]
+    sed -i 's/\^*[{ []\+\([0-9]\+\)[] }]\+/[fn:\1]/g' $f
+    # some fn ref is like 
+    # sed -i 's/\[\+\([0-9]\+\)\]\+/[fn:\1]/g' $f
+    # sed -i 's/\^*[{[]\+fn:\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
+    }
+}
 
-# 黑体-> h2  跳过发言：之后3段。  
-sed -i '/:$/{n;n;n}; /^\*\**[^ :「]\+\*.*/s/\*\([^*]\+\)\*.*/** \1/' *.org
-sed -i 'y/《》/「」/' *.org
-sed -i '/^$/N;/^\n$/D' *.org
-# 去掉/ [[./img/xxx]]/
-sed -n '/img/s,^/\(.*\)/$,\1,p'  tmp
-sed -i '/img/s,^/\(.*\)/ *$,\1,' *.org
-# 加上\n
-sed -i 's,]]/,]]\n\n/,' *.org
-sed -i 's,/ *\[\[,/\n\n[[,g' *.org
-# 去掉黑体
-sed -n '/img/s,\*\([^*]\+\)\*,\1,p'  tmp
-# 去掉 ^{img}
-sed -n '/img/s,\^{\([^}]\+\)},\1,p'  *.org
-sed -i '/img/s,\^{\([^}]\+\)},\1,g'  *.org
+foot2md() {
+    footnote $1
+    org2md $1
+}
 
-# /图解.*/ 放在一行。
-sed -i '\,^/[^/]\+ *$,{:a N;s,[^/] *$,&,;t a;s/\n/ /g;}' 1.org
-# <div>图解</div>
-sed -i -f ../script/caption.sed 1.org
+fakeWest() {
+    echo $PWD
+    # :t 是取文件名，即最后一个 / 之后的部分，如果没有 / 则为字符串本身
+    [[ ${PWD:t} != "script" ]] && return 1;
+    #set -x
+    x2org X out
+    firstCanon out/*.org
+    footnote out/*.org
+    hewImg out/*.org
+    footnote out/*.org
+        #set +x
+    return 0;
+}
 
-# 右面加空格
-sd '\*[^ *]+\*' '$0 ' 1.org
-# 左面
-sd '(.[^* ])(\*[^*]+\*)' '$1 $2' 1.org #当一行有两对 黑体 时有问题。
-sd '(.[^ ])(\*[^ *]+\*)' '$1 $2' 1.org
-sed -i 's/\([^ ]\)\(\*[^ *]\+\*\)/\1 \2/' 1.org
-# 处理11.org. footnote
-sed -i '/注释/,$s/\[fn:[0-9]\+\]/\n\n&/g' 11.org
+hewImg() {
+    for file ($*) {
+    [[ -d $file ]] && { echo "$file is directory"; continue;}
+    concatImgLines $file
+    sd '[/\{\*^]+[\[]+./img/([^]]+)[]]+[/\}\*]+' '[[./img/$1]]' $file
+    sed -i -f hewImg.sed $file
+    }
+}
 
-for i ({1..26}) {sed -i -e '5s/.*/[[转载请注明出处][###]]\n\n&/' ../org/$i.org;}
-for i ({1..26}) {read url;sd '###' "$url" ../org/$i.org;} <urls
+modBold() {
+    for file ($*) {
+    [[ -d $file ]] && { echo "$file is directory"; continue;}
+    # 结尾是*的是黑体，那么开头的** 可以去掉。
+    sed -i '/.*\*$/{:a s,^\*\*,,;t a;}; s/\*\([^*]\+\)\*/<<\1>>/g' $file
+    }
+}
 
-emacs 1.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
+modItalic() {
+    
+}

@@ -1,27 +1,46 @@
-format_once() {
-    local suffix=$1
-    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' *.$suffix
-    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' *.$suffix
-    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' *.$suffix
+firstCanon() {
+    for file ($*) {
+    [[ -d $file ]] && { echo "$file is directory"; continue;}
+    #echo $file
+    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' $file
+    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $file
+    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $file
+    trimDoubleEsc $file
+    trimSpace $file
+    sed -i '/^$/N;/^\n$/D'  $file
+    # sed -i '/^ *$/N;s/^ *\n *$/\n/'  $file
+    }
 }
 
-format_file() {
-    local suffix=$1
+trimDoubleEsc() {
+    local file=$1
     # \\ 即是换行的意思，所以替换成\n
-    sd '\\\\ *$' '\n' *.$suffix
+    sd '\\\\ *$' '\n' $file
     # 其他地方的\\直接取缔。
-    sd '\\\\' '' *.$suffix
+    sd '\\\\' '' $file    
+}
+
+trimSpace() {
+	local file=$1
     # 不破坏行结构。去掉空格
-    sd '^  *$' '\n' *.$suffix
+    sd '^  *$' '\n' $file
     # 结尾的空格要去掉。此时开头处肯定有字符， 所以不破坏行结构。
-    sd '  *$' '' *.$suffix
+    sd '  *$' '' $file
     # 开头的空格要去掉。
-    sd '^  *' '' *.$suffix
+    sd '^  *' '' $file
+}
+
+onlyMark() {
+    for file ($*) {
+    [[ -d $file ]] && { echo "$file is directory"; continue;}
+    trimSpace $file
+    trimDoubleEsc $file
     # 在sd里*是特殊字符，故此，只删除^*****$
-    # sd '^\*[ \*]*$' '' *.$suffix
+    # sd '^\*[ \*]*$' '' $file
     # [ \*] 含义在sd , sed中含义不一样。
-    sed -i 's/^\*[ \*]*$//' *.$suffix #会删除 *\\*
-    sed -i '/^$/N;/^\n$/D'  *.$suffix
+    sed -i 's,^\*[{} \*^/]*$,,' $file #会删除 *\\* 应该在concatLines后。去掉bold, italic之后
+    sed -i '/^$/N;/^\n$/D'  $file
+    }
 }
 
 concatSlash() {
@@ -33,31 +52,21 @@ concatSlash() {
 }
 
 concatLines() {
-    local f=(*.org)
-    (($+1)) && f=$1
-    # 不破坏行结构。去掉空格
-    sd '^  *$' '\n' $f
-    # 不在空白行或#+功能行上 开始。但是有可能结合空白行。
-    sed -i '/^ *$\|^#+/!{:a N;s/\n\([^\n]\+\)$/\1/;t a}' $f
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    trimSpace $f
+    # 不在空白行,图片或#+功能行上 开始。但是有可能结合带空格的空白行。
+    sed -i '\,^ *$\|^#+\|/img/,!{:a N;s,\n.*/img/.*,&,;b;s/\n\([^\n]\+\)$/\1/;t a}' $f
+    }
 }
 
-footnote() {
-    local f=(*.org)
-    (($+1)) && f=$1
-    # concat footnote to one line
-    sed -i '/^\[\+[0-9]\+\]\+/{:a N;s/\n\([^\n]\+\)$/\1/;t a;}' $f
-    # change footnote to [fn:xx] defination.
-    sed -i 's/^\[\+\([0-9]\+\)\]\+\(.*\)/[fn:\1] \2/' $f
-    # change footnote ref from ^{[xxx]} ^{xxx} [xx] or [[xxx]] to [fn:xxx]
-    sed -i 's/\^*[{[]\+\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
-    # some fn ref is like 
-    # sed -i 's/\[\+\([0-9]\+\)\]\+/[fn:\1]/g' $f
-    # sed -i 's/\^*[{[]\+fn:\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
-}
-
-foot2md() {
-    footnote $1
-    org2md $1
+concatImgLines() {
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    onlyMark $f #删除3但行的符号。
+    # 不在空白行,#+功能行上 开始。但是有可能结合带空格的空白行。
+    sed -i '\,^ *$\|^#+\,!{:a N;s/\n\([^\n]\+\)$/\1/;ta}' $f
+    }
 }
 
 title2summary() {
