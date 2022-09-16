@@ -181,14 +181,15 @@ x2org() {
 	 if [[ -d "$dx" && ! -d "$dorg" ]] {
 	 echo "$usage in/out should be dir";return;
 	 }
-	if [[ -f "$dx" ]] {
+	    if [[ -f "$dx" ]] {
+		   echo $dorg
 	pandoc -f html -t org -o $dorg $dx
 	return;
 	}
 	  for i ($dx/*.x) {
-	    echo $i
-		f=`basename $i .x`
-		pandoc -f html -t org -o $dorg/$f.org $i
+		f=$dorg/`basename $i .x`.org
+	    echo $f
+		pandoc -f html -t org -o $f $i
 	  }
 }
 

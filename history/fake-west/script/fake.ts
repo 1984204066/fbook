@@ -1,6 +1,7 @@
-import { load } from "cheerio";
+import { CheerioAPI, load, BasicAcceptedElems, Node } from "cheerio";
 import * as fs from "fs";
-import {getImgs, appendImage} from "./lib.js";
+import {getImgs, appendImage, levelUp} from "./lib.js";
+// import {getImgs, appendImage, levelUp} from "../../../typedscript/lib.js";
 
 let fname = process.argv[2];
 const chapter = process.argv[3];
@@ -14,9 +15,16 @@ if (fs.existsSync(fname)) {
     
     const title = $("h1").eq(0).text();
     console.error(title);
-    // $('h1').map((i,e)=>{
-    // 	$(e).replaceWith("<p>" + $(e).text() + "</p>");
-    // });
+    $('h1 h2 h3 h4 h5').map((i,e)=>{
+	let h="";
+	if ($(e).is('h1')) { h="h1"}
+	if ($(e).is('h2')) { h="h2"}
+	if ($(e).is('h3')) { h="h3"}
+	if ($(e).is('h4')) { h="h4"}
+	if ($(e).is('h5')) { h="h5"}
+	$(e).replaceWith("<p> (" + h + ")" + $(e).text() + "</p>");
+	console.log($(e).html());
+    });
     let imgs = getImgs($, main, chapter);
     const imgn = $('img', main).length;
     // const content = $(main).children().eq(2);
@@ -33,6 +41,11 @@ if (fs.existsSync(fname)) {
     // console.log($.xml(last));
     // main chanaged, so reload it.
     main = $("div#js_content");
-    console.log($(main).html());
+    // console.log($(main).html());
 }
 
+//function upImage($: CheerioAPI, elem: BasicAcceptedElems<Node>) {
+function upImage($: CheerioAPI, elem: number) {
+    // let main = $("div#js_content");
+    // $('img', main).map((e, i) => levelUp($, e, 'div#js_content'));
+}

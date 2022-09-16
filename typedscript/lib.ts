@@ -1,5 +1,6 @@
+import { CheerioAPI, load, BasicAcceptedElems, AnyNode } from "cheerio";
 import * as fs from "fs";
-export function getMP3($, main, num) {
+export function getMP3($:CheerioAPI, main:BasicAcceptedElems<AnyNode>, num:string) {
     let mp3 = "";
     const voc_uri = "https://res.wx.qq.com/voice/getvoice?mediaid=";
     // const mpvoc = $("embed", main);
@@ -14,7 +15,7 @@ export function getMP3($, main, num) {
     }
     return mp3;
 }
-export function getImgs($, main, num) {
+export function getImgs($:CheerioAPI, main:BasicAcceptedElems<AnyNode>, num:string) {
     let imgs = "";
     $("img", main).each((i, img) => {
         // console.log($.xml(img));
@@ -28,7 +29,7 @@ export function getImgs($, main, num) {
     });
     return imgs;
 }
-export function appendImage(imgs, trim_head = 0, trim_tail = 0) {
+export function appendImage(imgs:string, trim_head = 0, trim_tail = 0) {
     let image = imgs.split("\n", -1);
     // console.log(image);
     // assert(image.length >= 2);
@@ -49,22 +50,16 @@ export function appendImage(imgs, trim_head = 0, trim_tail = 0) {
     fs.appendFileSync("img-urls", imgs);
     return imgs;
 }
-function upOne($, elem, main) {
-    const parent = $(elem).parent();
-    if ($(parent).is(main)) {
-        return [elem, 0];
-    }
-    if ($(parent).text().trim() === $(elem).text().trim()) {
-        $(parent).replaceWith(elem)
-        return [parent, 1];
-    }
-    return [elem, -1];
-}
-function levelUp($, elem, lable) {
+
+export function levelUp($:CheerioAPI, elem: BasicAcceptedElems<AnyNode>, lable:string) {
     const main = $(lable);
-        let [parent, ret] = upOne($, elem, main);
-        if (ret === 1) {
-            return levelUp($, parent, lable);
+    let parent = $(elem).parent();
+    while (! $(parent).is(main)) {
+        if ($(parent).is('strong') || $(parent).is('em') ) {
+            $(parent).replaceWith("<span>" + $(parent).html() + "</span>");
         }
-    return [parent, ret];
+        elem=parent;
+        parent=$(parent).parent();
+    }
+    console.log($(elem).html());
 }
