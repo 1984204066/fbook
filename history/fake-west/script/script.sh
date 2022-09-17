@@ -31,18 +31,42 @@ fakeWest() {
     x2org X out
     firstCanon out/*.org
     footnote out/*.org
-    hewImg out/*.org
-    footnote out/*.org
-        #set +x
+    concatLines out/*.org
+    #footnote out/*.org
+    pickOrphanMarks out/*.org
+    outstandImgFn out/*.org
+    # concatLines out/*.org
+       #set +x
     return 0;
 }
 
-hewImg() {
+outstandImgFn() {
     for file ($*) {
     [[ -d $file ]] && { echo "$file is directory"; continue;}
-    concatImgLines $file
-    sd '[/\{\*^]+[\[]+./img/([^]]+)[]]+[/\}\*]+' '[[./img/$1]]' $file
-    sed -i -f hewImg.sed $file
+    #concatImgLines $file
+    #去掉 ^/{*[[img]]*}/
+    #sd '[/\{\*^]+[\[]+./img/([^]]+)[]]+[/\}\*]+' '[[./img/$1]]' $file
+    #去掉 *[img][img]*
+    #sd '[/\*]([\[]+./img/[^]]+\]\])+[/*]' '$1'
+    sed -i -f outstandImgFn.sed $file
+    }
+}
+
+pickOrphanMarks() {
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    trimSpace $f
+    trimDoubleEsc $f
+    trimAsterisk $f
+    # 在sd里*是特殊字符，故此，只删除^*****$
+    # sd '^\*[ \*]*$' '' $f
+    # [ \*] 含义在sd , sed中含义不一样。
+    # 把左开孤立的marks聚集起来。
+    sed -i -f orphan.sed $f
+    emptyBrackets $f
+    sed -i -n -f rightBracket.sed $f
+    #sed -i 's,^\*[{} \*^/]*$,,' $f #会删除 *\\* 应该在concatLines后。去掉bold, italic之后
+    sed -i '/^$/N;/^\n$/D'  $f
     }
 }
 

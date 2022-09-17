@@ -51,15 +51,26 @@ export function appendImage(imgs:string, trim_head = 0, trim_tail = 0) {
     return imgs;
 }
 
-export function levelUp($:CheerioAPI, elem: BasicAcceptedElems<AnyNode>, lable:string) {
-    const main = $(lable);
+export function levelUp($:CheerioAPI, main: BasicAcceptedElems<AnyNode>, elem: BasicAcceptedElems<AnyNode>) {
+    console.log("main:", $(main).html());
     let parent = $(elem).parent();
+    console.log("elem:", $.xml(elem));
+    console.log($.xml(parent));
+    let i=0;
+
     while (! $(parent).is(main)) {
+	console.log($.xml(parent));
         if ($(parent).is('strong') || $(parent).is('em') ) {
-            $(parent).replaceWith("<span>" + $(parent).html() + "</span>");
+	    console.log("ok, strong or em")
+            const newp=$(parent).replaceWith("<span><p>" + $(parent).html() + "</p></span>");
+	    console.log("newp: ", $.xml(newp));
+	    console.log(`parent xml: ${$.xml(parent)}, html: ${$(parent).html()}`);
         }
+	console.log("after, ", $.xml(parent));
         elem=parent;
         parent=$(parent).parent();
+	if (i > 3) {break;}
+	i++;
     }
     console.log($(elem).html());
 }

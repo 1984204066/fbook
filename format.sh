@@ -1,46 +1,55 @@
 firstCanon() {
-    for file ($*) {
-    [[ -d $file ]] && { echo "$file is directory"; continue;}
-    #echo $file
-    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' $file
-    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $file
-    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $file
-    trimDoubleEsc $file
-    trimSpace $file
-    sed -i '/^$/N;/^\n$/D'  $file
-    # sed -i '/^ *$/N;s/^ *\n *$/\n/'  $file
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    #echo $f
+    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' $f
+    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
+    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
+    trimDoubleEsc $f
+    trimAsterisk $f
+    trimSpace $f #已经 合并空白行
+    emptyBrackets $f #已经调用 合并空白行，所以不用下面再执行。
+    # sed -i '/^$/N;/^\n$/D'  $f
     }
+}
+
+trimAsterisk() {
+    local f=$1
+    sed '/^[*]\+$/d' $f
 }
 
 trimDoubleEsc() {
-    local file=$1
+    local f=$1
     # \\ 即是换行的意思，所以替换成\n
-    sd '\\\\ *$' '\n' $file
+    sd '\\\\ *$' '\n' $f
     # 其他地方的\\直接取缔。
-    sd '\\\\' '' $file    
+    sd '\\\\' '' $f    
 }
 
 trimSpace() {
-	local file=$1
+    local f=$1
     # 不破坏行结构。去掉空格
-    sd '^  *$' '\n' $file
+    # sd '^  *$' '\n' $f
+    zipEmptyLine $f
     # 结尾的空格要去掉。此时开头处肯定有字符， 所以不破坏行结构。
-    sd '  *$' '' $file
+    sd '  *$' '' $f
     # 开头的空格要去掉。
-    sd '^  *' '' $file
+    sd '^  *' '' $f
 }
 
-onlyMark() {
-    for file ($*) {
-    [[ -d $file ]] && { echo "$file is directory"; continue;}
-    trimSpace $file
-    trimDoubleEsc $file
-    # 在sd里*是特殊字符，故此，只删除^*****$
-    # sd '^\*[ \*]*$' '' $file
-    # [ \*] 含义在sd , sed中含义不一样。
-    sed -i 's,^\*[{} \*^/]*$,,' $file #会删除 *\\* 应该在concatLines后。去掉bold, italic之后
-    sed -i '/^$/N;/^\n$/D'  $file
-    }
+#压缩空白行为一个。
+zipEmptyLine() { 
+    local f=$1
+    sed -i '/^ *$/N;s/^ *\n\+ *$/\n/'  $f    
+}
+
+emptyBrackets() {
+    # sd '\(.\)>[ \*]*<\(.\)' '' $f
+    local f=$1
+    sed -i 's%(.)>[ *]*<(.)%%g;' $f
+    # sed -i '/^$/N;/^\n$/D'  $f
+    trimSpace $f
+    #sed -i 's%(.)>[ *]*<(.)%%g; /^$/N;s%(.)>[ *]*<(.)%%g;/^\n$/D'  $f
 }
 
 concatSlash() {
@@ -56,16 +65,7 @@ concatLines() {
     [[ -d $f ]] && { echo "$f is directory"; continue;}
     trimSpace $f
     # 不在空白行,图片或#+功能行上 开始。但是有可能结合带空格的空白行。
-    sed -i '\,^ *$\|^#+\|/img/,!{:a N;s,\n.*/img/.*,&,;b;s/\n\([^\n]\+\)$/\1/;t a}' $f
-    }
-}
-
-concatImgLines() {
-    for f ($*) {
-    [[ -d $f ]] && { echo "$f is directory"; continue;}
-    onlyMark $f #删除3但行的符号。
-    # 不在空白行,#+功能行上 开始。但是有可能结合带空格的空白行。
-    sed -i '\,^ *$\|^#+\,!{:a N;s/\n\([^\n]\+\)$/\1/;ta}' $f
+    sed -i -f concatLines.sed $f
     }
 }
 
@@ -146,7 +146,7 @@ genXfile() {
     while {getopts h arg} {
 	      case $arg {
 		      (h)
-		      echo "genXfile js-script start_x_no <default=1>"
+		      echo "genXfile js-script start_html_no <default=1>"
 		      return;
 		      ;;
 		  }
