@@ -18,6 +18,26 @@ footnote() {
     }
 }
 
+footnoteEncoded() {
+    for f ($*) {
+	[[ -d $f ]] && { echo "$f is directory"; continue;}
+	# outstanding fn:
+	local S='{s/^(P)>^*[{ []*\([0-9]\+\)[] }]*<(P)/\n\n[fn:\1] /;t; s/^[{ []*\([0-9]\{1,3\}\)[] }]*/\n\n[fn:\1] /}'
+	sed -i '/注释:/,${y/①②③④⑤⑥⑦⑧⑨/123456789/;s/⑩/10/;}' $f
+	sed -i -e "s,\[①\],[1]," -e "s,\[②\],[2]," -e "s,\[③\],[3]," -e "s,\[④\],[4]," -e "s,\[⑤\],[5]," -e "s,\[⑥\],[6]," -e "s,\[⑦\],[7]," -e "s,\[⑧\],[8]," -e "s,\[⑨\],[9]," -e "s,\[⑩\],[10]," $f
+
+	#sed -i 's/^1$/{N;s/\n//;}' $f; #顶头是1的先特殊处理一下。
+     # change footnote to [fn:xx] defination.
+     #定义不应有(P)><(P), 但是就是有，所以把它局限在第一个[1]定义之后。
+    sed -i '/^[{ []*1[^0-9][] }]*\|^[{ []*1[] }]*$/,$'"$S" $f #全文件范围执行。 #不要\n\n?
+    # change footnote ref from ^{[xxx]} ^{xxx} [xx] or [[xxx]] to [fn:xxx]
+    sed -i -e 's/(P)>^*[{ []*\([0-9]\+\)[] }]*<(P)/[fn:\1]/g' -e 's/[[ ^]\+\([0-9]\+\)[] ]\+/[fn:\1]/g' $f
+    # some fn ref is like 
+    # sed -i 's/\[\+\([0-9]\+\)\]\+/[fn:\1]/g' $f
+    # sed -i 's/\^*[{[]\+fn:\([0-9]\+\)[]}]\+/[fn:\1]/g' $f
+    }
+}
+
 foot2md() {
     footnote $1
     org2md $1
@@ -30,17 +50,17 @@ fakeWest() {
     #set -x
     x2org X out
     firstCanon out/*.org
-    footnote out/*.org
+    footnoteEncoded out/*.org
     concatLines out/*.org
     #footnote out/*.org
     pickOrphanMarks out/*.org
-    outstandImgFn out/*.org
+    outstandImg out/*.org
     # concatLines out/*.org
        #set +x
     return 0;
 }
 
-outstandImgFn() {
+outstandImg() {
     for file ($*) {
     [[ -d $file ]] && { echo "$file is directory"; continue;}
     #concatImgLines $file
@@ -48,7 +68,8 @@ outstandImgFn() {
     #sd '[/\{\*^]+[\[]+./img/([^]]+)[]]+[/\}\*]+' '[[./img/$1]]' $file
     #去掉 *[img][img]*
     #sd '[/\*]([\[]+./img/[^]]+\]\])+[/*]' '$1'
-    sed -i -f outstandImgFn.sed $file
+    sed -i -f outstandImg.sed $file
+    trimSpace $file
     }
 }
 
@@ -65,9 +86,16 @@ pickOrphanMarks() {
     sed -i -f orphan.sed $f
     emptyBrackets $f
     sed -i -n -f rightBracket.sed $f
+    reduceSameBrackets $f
     #sed -i 's,^\*[{} \*^/]*$,,' $f #会删除 *\\* 应该在concatLines后。去掉bold, italic之后
     sed -i '/^$/N;/^\n$/D'  $f
     }
+}
+
+reduceSameBrackets() {
+    local f=$1
+    # (B)意义不大。
+    sed -i -e 's%(B)>\([^<]*\)<(B)%\1%g' -e 's!<(S)(S)>!!g' -e 's!<(E)(E)>!!g' $f
 }
 
 modBold() {

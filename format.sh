@@ -15,7 +15,7 @@ firstCanon() {
 
 trimAsterisk() {
     local f=$1
-    sed '/^[*]\+$/d' $f
+    sed -i '/^[*]\+$/d' $f
 }
 
 trimDoubleEsc() {
@@ -52,14 +52,6 @@ emptyBrackets() {
     #sed -i 's%(.)>[ *]*<(.)%%g; /^$/N;s%(.)>[ *]*<(.)%%g;/^\n$/D'  $f
 }
 
-concatSlash() {
-    local f=(*.org)
-    (($+1)) && f=$1
-    # /xxx有时<slash>分成了2行.*/ 把它们放在一行。 /&开头的当成quote,不合并。
-    # 如果/在最后一行 没有问题。t a;不跳转，正好最后一个s合并起来。与concatLines不同。
-    sed -i '\,^/[^/]\+ *$,{:a N;s,^/[^/&]\+ *$,&,;t a;s/\n/ /g;}' $f
-}
-
 concatLines() {
     for f ($*) {
     [[ -d $f ]] && { echo "$f is directory"; continue;}
@@ -67,6 +59,14 @@ concatLines() {
     # 不在空白行,图片或#+功能行上 开始。但是有可能结合带空格的空白行。
     sed -i -f concatLines.sed $f
     }
+}
+
+concatSlash() {
+    local f=(*.org)
+    (($+1)) && f=$1
+    # /xxx有时<slash>分成了2行.*/ 把它们放在一行。 /&开头的当成quote,不合并。
+    # 如果/在最后一行 没有问题。t a;不跳转，正好最后一个s合并起来。与concatLines不同。
+    sed -i '\,^/[^/]\+ *$,{:a N;s,^/[^/&]\+ *$,&,;t a;s/\n/ /g;}' $f
 }
 
 title2summary() {

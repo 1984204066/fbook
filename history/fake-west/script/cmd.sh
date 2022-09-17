@@ -11,6 +11,9 @@ format_once org
 concatLines 3.org
 format_file org
 
+a="$(seq 9 | sed 'y/123456789/①②③④⑤⑥⑦⑧⑨/' |sed -e 's/^/-e "s,\\[/' -e 's/$/\\],[/' |gawk '{print $0 NR "],\""} END {print "-e "}'|sed '10s/$/"s,\\[⑩\\],[10],"/')"
+echo $a | sd '\n' ' '
+
 # 黑体-> h2  跳过发言：之后3段。  
 sed -i '/:$/{n;n;n}; /^\*\**[^ :「]\+\*.*/s/\*\([^*]\+\)\*.*/** \1/' *.org
 sed -i 'y/《》/「」/' *.org
