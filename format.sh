@@ -40,7 +40,7 @@ trimSpace() {
 #压缩空白行为一个。
 zipEmptyLine() { 
     local f=$1
-    sed -i '/^ *$/N;s/^ *\n\+ *$/\n/'  $f    
+    sed -i '/^ *$/N;s/^ *\n\+ *$/\n/'  $f #这只是把2行合并，3行以上就不行了。
     sed -i '/^$/N;/^\n$/D'  $f
 }
 

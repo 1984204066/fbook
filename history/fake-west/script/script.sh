@@ -86,7 +86,8 @@ reduceBrackets() {
 
 decodeMarks() {
     for file ($*) {
-    [[ -d $file ]] && { echo "$file is directory"; continue;}
+	[[ -d $file ]] && { echo "$file is directory"; continue;}
+	emptyBrackets $file;
     sed -i -f decodeMarks.sed $file;
     }
 }
