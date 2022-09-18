@@ -41,12 +41,13 @@ trimSpace() {
 zipEmptyLine() { 
     local f=$1
     sed -i '/^ *$/N;s/^ *\n\+ *$/\n/'  $f    
+    sed -i '/^$/N;/^\n$/D'  $f
 }
 
 emptyBrackets() {
     # sd '\(.\)>[ \*]*<\(.\)' '' $f
     local f=$1
-    sed -i 's%(.)>[ *]*<(.)%%g;' $f
+    sed -i -e 's:(.)>[ *]*<(.)::g;' -e 's:(..)>[ *]*<(..)::g;' $f
     # sed -i '/^$/N;/^\n$/D'  $f
     trimSpace $f
     #sed -i 's%(.)>[ *]*<(.)%%g; /^$/N;s%(.)>[ *]*<(.)%%g;/^\n$/D'  $f

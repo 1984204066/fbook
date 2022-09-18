@@ -15,14 +15,16 @@ if (fs.existsSync(fname)) {
 
     const title = $("h1").eq(0).text();
     console.error(title);
-    $("h1, h2, h3, h4, h5").map((i, e) => {
+    $("h1, h2, h3, h4, h5, h6").map((i, e) => {
         let h = "";
         if ($(e).is("h1")) h = "h1";
         if ($(e).is("h2")) h = "h2";
         if ($(e).is("h3")) h = "h3";
         if ($(e).is("h4")) h = "h4";
         if ($(e).is("h5")) h = "h5";
-        $(e).replaceWith("<p>(" + h + ")👉" + $(e).text() + "👈("  + h + ")</p>");
+        if ($(e).is("h6")) h = "h6";
+	h = "(" + h + ")>" + $(e).text() + "<("  +h  + ")"
+        $(e).replaceWith("<p>" + h + "</p>");
         // console.log($(e).html());
     });
     let imgs = getImgs($, main, chapter);
