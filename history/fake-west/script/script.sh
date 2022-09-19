@@ -43,7 +43,7 @@ fakeWest() {
     pickOrphanMarks out/*.org
     outstandImg out/*.org
     # concatLines out/*.org
-    decodeMarks out/*.org
+    #decodeMarks out/*.org
     # set +x
     return 0;
 }
