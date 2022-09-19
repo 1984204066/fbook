@@ -1,23 +1,62 @@
-for i (../../typedscript/*) {echo $i; ln -sf $i;}
+. /fbook/format.sh
 
-i=1;while {read -r line} {echo $i; wget -O ../html/$i.html $line; i=$((i+1));} < urls
-4. for i ({1..10}) {echo $i; node go2calm.js ../html/$i.html $i;}
-1. for i ({1..10}) {echo $i; node go2calm.js ../html/$i.html $i >$i.x;}
-for i ({1..10}) {echo $i; node go2calm.js ../html/$i.html $i > X/$i.x;}
+go2calm() {
+    local usage="go2calm n1..n2 <specify range, like 1..10 etc.>"
+    echo "$PWD, $#"
+    # :t 是取文件名，即最后一个 / 之后的部分，如果没有 / 则为字符串本身
+    [[ ${PWD:t} != "script" ]] && return 1;
+    (($# < 1)) && {echo "$usage"; return;}
+    local range=$1
+    for i ({$range}) {
+	echo $i;
+	x2org X/$i.x out/$i.org
+	firstCanon out/$i.org
+	concatLines out/$i.org
+    }
+}
 
-while {IFS=' % ' read fname url} {echo $fname, $url; wget -O ../src/mp3/$fname.mp3 "$url";}  < voice-urls
+chopTail() {
+    local usage="chopTail n1..n2 <specify range, like 1..10 etc.>"
+    (($# < 1)) && {echo "$usage"; return;}
 
-while {IFS=' % ' read fname url} { if [[ $fname != *png ]] { echo $fname;wget -O ../src/img/$fname $url;}; }  < img-urls.bak	     
+    local range=$1
+    for i ({$range}) {
+	echo $i;
+	sed -i '/连载进行中/,$d' out/$i.org;
+    }
+}
 
-for i ({1..10}) {pandoc -f html -t org -o ../org/$i.org X/$i.x }
+titleFromOrg() {
+    local usage="titleFromOrg n1..n2 <specify range, like 1..10 etc.>"
+    (($# < 1)) && {echo "$usage"; return;}
 
-1. sed -i '/^--.*连载.*--*/,$d' 1.org
-for i ({1..10} ) {sed -i -e '1,2d;3s/^/* /' -e "9s/.*/<embed src=.\/mp3\/$i-0.mp3 width='530px' height='80px'\/>/" -e '/^--.*连载.*--*/,$d' $i.org}
-for i ({11..19} ) {sed -i -e '1,2d;3s/^/* /' -e "5s/.*/<embed src=.\/mp3\/$i-0.mp3 width='530px' height='80px'\/>/" -e '/^--.*连载.*--*/,$d' $i.org}
+    local range=$1
+    for i ({$range}) {
+	#echo $i;
+	read line <out/$i.org;
+	#echo $line
+	echo -n $line|sd '.*' '* [$0]('"$i.md)\n"
+    }    
+}
 
-1. for i ({1..10}) {read line <$i.org; echo -n $line|sed 's/^\* //'|sd '.*' '* [$0]('"$i.md)\n" >>summary.s }
-sd '\\\\$' '' *.org
-sd '^\*\*$' '' *.org
-sed -i '/^$/N;/^\n$/D' *.org
+modTitle() {
+    local usage="modTitle n1..n2 <specify range, like 1..10 etc.>"
+    (($# < 1)) && {echo "$usage"; return;}
 
-for i ({11..19}) {emacs $i.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
+    local range=$1
+    for i ({$range}) {
+	local f=out/$i.org
+	sed -i -f modTitle.sed $f
+    }    
+}
+
+insertMp3() {
+    local usage="insertMp3 n1..n2 <specify range, like 1..10 etc.>"
+    (($# < 1)) && {echo "$usage"; return;}
+
+    local range=$1
+    for i ({$range}) {
+	local f=out/$i.org
+	sed -i "3i<iframe frameborder='0' marginwidth='0' marginheight='0' width=500 height=86 src='./mp3/$i-0.mp3'></iframe>\n" $f;
+    }    
+}

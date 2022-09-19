@@ -29,7 +29,7 @@ trimDoubleEsc() {
 trimSpace() {
     local f=$1
     # 不破坏行结构。去掉空格
-    # sd '^  *$' '\n' $f
+    sd '^  *$' '\n' $f
     zipEmptyLine $f
     # 结尾的空格要去掉。此时开头处肯定有字符， 所以不破坏行结构。
     sd '  *$' '' $f
@@ -41,7 +41,8 @@ trimSpace() {
 zipEmptyLine() { 
     local f=$1
     sed -i '/^ *$/N;s/^ *\n\+ *$/\n/'  $f #这只是把2行合并，3行以上就不行了。
-    sed -i '/^$/N;/^\n$/D'  $f
+    #开头及空行删除。
+    sed -i -e '1{/^$/{:a $bX;$!N;/^\n\+$/!{:X s/^\n\+//;b};ba}}' -e '/^$/N;/^\n$/D' $f 
 }
 
 emptyBrackets() {
@@ -101,12 +102,13 @@ title2summary() {
 # wget_url_to out_dir url url_start fname_start
 wget_url_to() {
     local force=0
+    local usage="IFS=' % ' wget_url_to -f <force> out_dir url url_start fname_start"
     # i: 代表可以接受一个带参数的 -i 选项
     # c 代表可以接受一个不带参数的 -c 选项
     while {getopts hf arg} {
 	      case $arg {
 		      (h)
-		      echo "IFS=' % ' wget_url_to -f out_dir url url_start fname_start"
+		      echo $usage
 		      return;
 		      ;;
 		      (f)
@@ -122,18 +124,18 @@ wget_url_to() {
 	  local urls=$2
 	  local ustart=1
 	  local fstart=1
-	  (($+2)) && ustart=$3
-	  (($+3)) && fstart=$4
+	  (($+3)) && ustart=$3
+	  (($+4)) && fstart=$4
 	  # [[ $IFS == "\n" ]] && IFS=' % '
 	  local suffix=
 	  [[ $out =~ "html" ]] && suffix=".html"
 	  while {read -r f url} {
 		    # echo $f '--' $url;return;
 		    if (( --ustart > 0)) {continue};
-		       local fname=$out/$fstart$suffix
+		       local fname=$out/$fstart$suffix  #只用于html
 		       [[ -n "$f" ]] && fname=$out/$f
 		       if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
-			      echo $force ",Ignore" $fname
+			      echo "force="$force ",Ignore" $fname
 			      continue;
 			  } else {
 			      echo $fname;
@@ -158,7 +160,7 @@ genXfile() {
 	  for html (../html/*.html) {
 	      if (( --start > 0 )) {continue;};
 		 i=`basename $html .html`
-		 # echo $i
+		 echo $i
 		 node $ts $html $i >X/$i.x;
 	  }
 }
