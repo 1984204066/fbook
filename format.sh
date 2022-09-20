@@ -2,7 +2,7 @@ firstCanon() {
     for f ($*) {
     [[ -d $f ]] && { echo "$f is directory"; continue;}
     #echo $f
-    sed -i 'y/ ：　１２３４５６７８９０《》/ : 1234567890「」/' $f
+    sed -i 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' $f
     sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
     sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
     trimDoubleEsc $f
@@ -71,6 +71,12 @@ concatSlash() {
     sed -i '\,^/[^/]\+ *$,{:a N;s,^/[^/&]\+ *$,&,;t a;s/\n/ /g;}' $f
 }
 
+modTitle() {
+    for f ($*) {
+    [[ -d $f ]] && { echo "$f is directory"; continue;}
+    sed -i -f modTitle.sed $f
+    }
+}
 title2summary() {
     local usage="title2summary -c <check md file existance> -h"
     local check=0

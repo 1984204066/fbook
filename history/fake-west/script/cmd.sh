@@ -11,6 +11,8 @@ fakeWest
 a="$(seq 9 | sed 'y/123456789/①②③④⑤⑥⑦⑧⑨/' |sed -e 's/^/-e "s,\\[/' -e 's/$/\\],[/' |gawk '{print $0 NR "],\""} END {print "-e "}'|sed '10s/$/"s,\\[⑩\\],[10],"/')"
 echo $a | sd '\n' ' '
 
+for i (*.org) {for str (${(f)"$(sed -n '/^(S)>[^><]*<(S)$/p' $i)"}) {echo "$#str : $str";};} | sort -n |bat
+    
 for i ({1..26}) {read url;sd '###' "$url" ../org/$i.org;} <urls
     for i ({1..26}) {read url;sed -i '5s/.*/[[转载请 注明出处]['"$url"']]\n\n&/' ../org/$i.org;} <urls
 	
