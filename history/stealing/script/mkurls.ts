@@ -40,7 +40,7 @@ try {
 	//如果数据列表 不够30 则一直获取
 	// const main = $("div.album__content");
 
-    } while (limap.size < 102);
+    } while (limap.size < 125);
     for (let [key, value] of limap) {
 	fs.appendFileSync("out.urls", key + ' % ' + value + '\n');	
     }

@@ -1,15 +1,15 @@
 firstCanon() {
     for f ($*) {
-    [[ -d $f ]] && { echo "$f is directory"; continue;}
-    #echo $f
-    sed -i 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' $f
-    sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
-    sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
-    trimDoubleEsc $f
-    trimAsterisk $f
-    trimSpace $f #已经 合并空白行
-    emptyBrackets $f #已经调用 合并空白行，所以不用下面再执行。
-    # sed -i '/^$/N;/^\n$/D'  $f
+	[[ -d $f ]] && { echo "$f is directory"; continue;}
+	#echo $f
+	sed -i 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' $f
+	sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
+	sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
+	trimDoubleEsc $f
+	trimAsterisk $f
+	trimSpace $f #已经 合并空白行
+	emptyBrackets $f #已经调用 合并空白行，所以不用下面再执行。
+	# sed -i '/^$/N;/^\n$/D'  $f
     }
 }
 
@@ -56,10 +56,10 @@ emptyBrackets() {
 
 concatLines() {
     for f ($*) {
-    [[ -d $f ]] && { echo "$f is directory"; continue;}
-    trimSpace $f
-    # 不在空白行,图片或#+功能行上 开始。但是有可能结合带空格的空白行。
-    sed -i -f concatLines.sed $f
+	[[ -d $f ]] && { echo "$f is directory"; continue;}
+	trimSpace $f
+	# 不在空白行,图片或#+功能行上 开始。但是有可能结合带空格的空白行。
+	sed -i -f concatLines.sed $f
     }
 }
 
@@ -73,12 +73,13 @@ concatSlash() {
 
 modTitle() {
     for f ($*) {
-    [[ -d $f ]] && { echo "$f is directory"; continue;}
-    sed -i -f modTitle.sed $f
+	[[ -d $f ]] && { echo "$f is directory"; continue;}
+	sed -i -f modTitle.sed $f
     }
 }
+
 title2summary() {
-    local usage="title2summary -c <check md file existance> -h"
+    local usage="title2summary md_start_index -c <check md file existance> -h"
     local check=0
     while {getopts ch arg} {
 	      case $arg {
@@ -91,8 +92,8 @@ title2summary() {
 			  ;;
 		  }
 	  }
-
-	  i=1;
+	  shift $((OPTIND-1))
+	  i=1; (($+1)) && i=$1
 	  while {read  title} {
 		    if [[ "$title" == '' ]] {continue;}
 		       t=`echo $title | sd '^.*[：:|] *(.*)' '$1'`;
@@ -151,11 +152,11 @@ wget_url_to() {
 		} < $urls
 }
 
-genXfile() {
+jsXfile() {
     while {getopts h arg} {
 	      case $arg {
 		      (h)
-		      echo "genXfile js-script start_html_no <default=1>"
+		      echo "jsXfile js-script start_html_no <default=1>"
 		      return;
 		      ;;
 		  }
@@ -166,18 +167,18 @@ genXfile() {
 	  for html (../html/*.html) {
 	      if (( --start > 0 )) {continue;};
 		 i=`basename $html .html`
-		 echo $i
+		 #echo $i
 		 node $ts $html $i >X/$i.x;
 	  }
 }
 
 x2org() {
-   local usage="x2org inx org -h <help>
+    local usage="x2org inx org -h <help>
 		     inx: input dir or file <default=X/>
 		     org: output dir or file <default=../org/>\n"
-   local dx='X/'
-   local dorg='../org'
-   while {getopts h arg} {
+    local dx='X/'
+    local dorg='../org'
+    while {getopts h arg} {
 	      case $arg {
 		      (h)
 		      echo $usage
@@ -185,21 +186,73 @@ x2org() {
 		      ;;
 		  }
 	  }
-   (($+1)) && dx=$1
-   (($+2)) && dorg=$2
-	 if [[ -d "$dx" && ! -d "$dorg" ]] {
-	 echo "$usage in/out should be dir";return;
-	 }
-	    if [[ -f "$dx" ]] {
-		   echo $dorg
-	pandoc -f html -t org -o $dorg $dx
-	return;
-	}
-	  for i ($dx/*.x) {
-		f=$dorg/`basename $i .x`.org
-	    echo $f
-		pandoc -f html -t org -o $f $i
+	  (($+1)) && dx=$1
+	  (($+2)) && dorg=$2
+	  if [[ -d "$dx" && ! -d "$dorg" ]] {
+		 echo "$usage in/out should be dir";return;
+	     }
+	     if [[ -f "$dx" ]] {
+		    echo $dorg
+		    pandoc -f html -t org -o $dorg $dx
+		    return;
+		}
+		for i ($dx/*.x) {
+		    f=$dorg/`basename $i .x`.org
+		    echo $f
+		    pandoc -f html -t org -o $f $i
+		}
+}
+
+pan2org() {
+    local usage="pan2org -i inx -o org -h <help> -r range inf orgf
+		     inx: input dir <default=X/>
+		     org: output dir <default=../org/>
+		     range: 1..n
+		     inf: indicate input file when no -i, -o
+		     orgf: indicate output org file when no -i -o\n"
+    local dx='X/'
+    local dorg='../org'
+    local range=
+    while {getopts i:o:r:h arg} {
+	      case $arg {
+		      (h)
+		      echo $usage; return; ;;
+		      (i)
+			  dx=$OPTARG;;
+		      (o)
+			  dorg=$OPTARG;;
+		      (r)
+			  range=$OPTARG;;
+		  }
 	  }
+	  shift $((OPTIND-1))
+	  echo "$OPTIND, $dx $dorg, remains $*"
+	  (($+1)) && dx=$1
+	  (($+2)) && dorg=$2
+
+	  if [[ -d "$dx" && ! -d "$dorg" ]] {
+		 echo "$usage in/out should be dir";return;
+	     }
+	     
+	     if [[ -f "$dx" ]] {
+		    echo "single file $dx to $dorg"
+		    pandoc -f html -t org -o $dorg $dx
+		    return;
+		}
+		local files=()
+		if  [[ -z "$range" ]] {
+			files=($dx/*.x)     
+		    } else {
+			files=({$range})
+			files=(${files/%/.x})
+			files=(${files/#/$dx/})
+		    }
+		    #print -l $files
+		    for i ($files) {
+			f=$dorg/`basename $i .x`.org
+			echo "from $i to $f"
+			pandoc -f html -t org -o $f $i
+		    }
 }
 
 org2md() {

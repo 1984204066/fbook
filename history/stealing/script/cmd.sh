@@ -1,6 +1,6 @@
 s=2;i=1;while {IFS=' % ' read -r title line} {if ((s > i)) {i=$((i+1)); continue;}; echo $i; wget -O ../html/$i.html $line; i=$((i+1));} < urls
 
-i=2; while [[ -f ../html/$i.html ]] {node history.js ../html/$i.html $i >X/$i.x;i=$((i+1));} 2>title
+i=2; while [[ -f ../html/$i.html ]] {node stealing.js ../html/$i.html $i >X/$i.x;i=$((i+1));} 2>title
 
 while {IFS=' % ' read fname url} { if [[ "$fname" == '' ]] {continue;};echo $fname;wget -O ../src/img/$fname $url;} <img-urls
 while {IFS=' % ' read fname url} { if [[ "$fname" =~ ".*-0.*" ]] {echo $fname;wget -O ../src/img/$fname $url;};} <img-urls
@@ -16,7 +16,13 @@ i=1;while {read line} {cmd='1s/.*/* '"$line/"; echo $i $cmd;sed -i -e "$cmd" ../
 
 for i ({1..102}) {sed -i '1s/.*/&\n\n#####\n/' $i.org;} <../script/urls
 for i ({1..102}) {read url; sd '#####' "$url" ../org/$i.org;} <../script/urls
+for i ({1..51}) {j=$((103-i)); echo $j;mv $i.org tmp; mv $j.org $i.org; mv tmp $j.org;}
+for i ({1..102}) {j=$((103-i)); sd "\($i.md\)" "($j.md)" tmp }
+    for i ({103..125}) {f=$i.org; sed -i '1s/^/* /' $f}
 
+	title2summary 103 <title.2 |sed '1!G;h;$!d' >summary.1
+	
+for i ({103..125}) {f=$i.org; emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
 for i (*.org) {emacs $i --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
 
 # 奇怪，执行失败。
