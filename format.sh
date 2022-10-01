@@ -106,10 +106,10 @@ title2summary() {
 		}
 }
 
-# wget_url_to out_dir url url_start fname_start
-wget_url_to() {
+# wgetUrl out_dir url skip_urln fname_start
+wgetUrl() {
     local force=0
-    local usage="IFS=' % ' wget_url_to -f <force> out_dir url url_start fname_start"
+    local usage="IFS=' % ' wgetUrl -f <force> out_dir skip_url0 fname_start <urls"
     # i: 代表可以接受一个带参数的 -i 选项
     # c 代表可以接受一个不带参数的 -c 选项
     while {getopts hf arg} {
@@ -126,30 +126,32 @@ wget_url_to() {
 	  }
 	  # echo $0,$1,$2,$3;return;
 	  shift $((OPTIND-1))
-	  echo $OPTIND, $*
+	  #echo $OPTIND, $*
 	  local out=$1
-	  local urls=$2
-	  local ustart=1
+	  # local urls=$2
+	  local uskip=0
 	  local fstart=1
-	  (($+3)) && ustart=$3
-	  (($+4)) && fstart=$4
+	  (($+2)) && uskip=$2
+	  (($+3)) && fstart=$3
 	  # [[ $IFS == "\n" ]] && IFS=' % '
-	  local suffix=
+	  local suffix=""
 	  [[ $out =~ "html" ]] && suffix=".html"
+	  [[ $out =~ "mp3" ]] && suffix=".mp3"
 	  while {read -r f url} {
 		    # echo $f '--' $url;return;
-		    if (( --ustart > 0)) {continue};
+		    if (( uskip-- > 0)) {continue};
 		       local fname=$out/$fstart$suffix  #只用于html
-		       [[ -n "$f" ]] && fname=$out/$f
+		       if (($+3)) {} else { [[ -n "$f" ]] && fname=$out/$f$suffix }
 		       if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
 			      echo "force="$force ",Ignore" $fname
 			      continue;
 			  } else {
-			      echo $fname;
+			      url=${url/#* % }
+			      echo $fname, $url;
 			      wget -O $fname $url;
 			      fstart=$((fstart+1));
 			  }
-		} < $urls
+		}
 }
 
 jsXfile() {
