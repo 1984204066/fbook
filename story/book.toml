@@ -1,9 +1,0 @@
-[book]
-title = "法句经故事集"
-authors = []
-language = "zh-CN"
-multilingual = false
-src = "src"
-
-[build]
-build-dir="story-book"

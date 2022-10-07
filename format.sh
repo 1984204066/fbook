@@ -1,3 +1,5 @@
+#!/usr/bin/zsh
+
 firstCanon() {
     for f ($*) {
 	[[ -d $f ]] && { echo "$f is directory"; continue;}
@@ -142,15 +144,15 @@ wgetUrl() {
 		    if (( uskip-- > 0)) {continue};
 		       local fname=$out/$fstart$suffix  #只用于html
 		       if (($+3)) {} else { [[ -n "$f" ]] && fname=$out/$f$suffix }
-		       if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
-			      echo "force="$force ",Ignore" $fname
-			      continue;
-			  } else {
-			      url=${url/#* % }
-			      echo $fname, $url;
-			      wget -O $fname $url;
-			      fstart=$((fstart+1));
-			  }
+			  if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
+				 echo "force="$force ",Ignore" $fname
+				 continue;
+			     } else {
+				 url=${url/#* % }
+				 echo $fname, $url;
+				 wget -O $fname $url;
+				 fstart=$((fstart+1));
+			     }
 		}
 }
 
@@ -258,12 +260,11 @@ pan2org() {
 }
 
 org2md() {
-    local f=$1
-    if (($+1)) {
-	   emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";	   
-       } else {
-	   for f (*.org) {
-	       emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
-	   }
-       }
+    local files=(*.org)
+    (($+1)) && eval "files=($1)"
+    
+    for f ($files) {
+	echo $f
+	emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
+    }
 }

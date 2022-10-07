@@ -1,0 +1,12 @@
+[book]
+title = "法句经要义"
+authors = ["1984204066"]
+language = "en"
+multilingual = false
+src = "src"
+
+[build]
+build-dir="Dhammapada-essentials-book"
+
+[output.html]
+additional-css = ["poem.css"]

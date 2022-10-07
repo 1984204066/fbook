@@ -1,3 +1,5 @@
+#!/usr/bin/zsh
+
 . /fbook/format.sh
 
 go2calm() {

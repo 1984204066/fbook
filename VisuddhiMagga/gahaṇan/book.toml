@@ -1,0 +1,9 @@
+[book]
+title = "清净道论·广说"
+authors = ["1984204066"]
+language = "zh"
+multilingual = false
+src = "src"
+
+[build]
+build-dir = "gahaṇan-book"
