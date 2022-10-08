@@ -17,17 +17,6 @@ go2calm() {
     }
 }
 
-chopTail() {
-    local usage="chopTail n1..n2 <specify range, like 1..10 etc.>"
-    (($# < 1)) && {echo "$usage"; return;}
-
-    local range=$1
-    for i ({$range}) {
-	echo $i;
-	sed -i '/连载进行中/,$d' out/$i.org;
-    }
-}
-
 titleFromOrg() {
     local usage="titleFromOrg n1..n2 <specify range, like 1..10 etc.>"
     (($# < 1)) && {echo "$usage"; return;}
@@ -41,24 +30,3 @@ titleFromOrg() {
     }    
 }
 
-modTitle() {
-    local usage="modTitle n1..n2 <specify range, like 1..10 etc.>"
-    (($# < 1)) && {echo "$usage"; return;}
-
-    local range=$1
-    for i ({$range}) {
-	local f=out/$i.org
-	sed -i -f modTitle.sed $f
-    }    
-}
-
-insertMp3() {
-    local usage="insertMp3 n1..n2 <specify range, like 1..10 etc.>"
-    (($# < 1)) && {echo "$usage"; return;}
-
-    local range=$1
-    for i ({$range}) {
-	local f=out/$i.org
-	sed -i "3i<iframe frameborder='0' marginwidth='0' marginheight='0' width=500 height=86 src='./mp3/$i-0.mp3'></iframe>\n" $f;
-    }    
-}

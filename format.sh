@@ -74,24 +74,49 @@ concatSlash() {
 }
 
 modTitle() {
-    for f ($*) {
+    local usage="modTitle files-exp <specify files, like 1..10 etc.>
+    	  for example: modTitle ../org/{50..51}.org "
+    (($# < 1)) && {echo "$usage"; return;}
+    # local files=(*.org)
+    local files=($*)
+    # eval "files=($*)"
+    for f ($files) {
+	# local f=out/$i.org
 	[[ -d $f ]] && { echo "$f is directory"; continue;}
 	sed -i -f modTitle.sed $f
+    }    
+}
+
+insertMp3() {
+    local usage="insertMp3 files-exp <specify files, like 1..10 etc.>"
+    (($# < 1)) && {echo "$usage"; return;}
+
+    for f ($*) {
+	local i=${${f:r}:t}
+	sed -i "3i<iframe frameborder='0' marginwidth='0' marginheight='0' width=500 height=86 src='./mp3/$i-0.mp3'></iframe>\n" $f;
+    }    
+}
+
+chopTail() {
+    local usage="chopTail files-exp <specify range, like 1..10 etc.>
+    for example chopTail *.org "
+    (($# < 1)) && {echo "$usage"; return;}
+
+    for f ($*) {
+	echo $f;
+	sed -i -f chopTail.sed $f;
     }
 }
 
 title2summary() {
-    local usage="title2summary md_start_index -c <check md file existance> -h"
+    local usage="title2summary md_start_index -c <check md file existance> -h <title"
     local check=0
     while {getopts ch arg} {
 	      case $arg {
 		      (h)
-		      echo $usage
-		      return;
-		      ;;
+		      echo $usage; return; ;;
 		      (c)
-			  check=1
-			  ;;
+			  check=1 ;;
 		  }
 	  }
 	  shift $((OPTIND-1))
@@ -108,22 +133,18 @@ title2summary() {
 		}
 }
 
-# wgetUrl out_dir url skip_urln fname_start
-wgetUrl() {
+# wgetUrl2 out_dir url skip_urln fname_start
+wgetUrl2() {
     local force=0
-    local usage="IFS=' % ' wgetUrl -f <force> out_dir skip_url0 fname_start <urls"
+    local usage="IFS=' % ' wgetUrl2 -f <force> out_dir skip_url0 fname_start <urls"
     # i: 代表可以接受一个带参数的 -i 选项
     # c 代表可以接受一个不带参数的 -c 选项
     while {getopts hf arg} {
 	      case $arg {
 		      (h)
-		      echo $usage
-		      return;
-		      ;;
+		      echo $usage; return; ;;
 		      (f)
-			  echo "set force"
-			  force=1
-			  ;;
+			  echo "set force"; force=1 ;;
 		  }
 	  }
 	  # echo $0,$1,$2,$3;return;
@@ -161,8 +182,7 @@ jsXfile() {
 	      case $arg {
 		      (h)
 		      echo "jsXfile js-script start_html_no <default=1>"
-		      return;
-		      ;;
+		      return; ;;
 		  }
 	  }
 	  local ts=$1
@@ -260,10 +280,11 @@ pan2org() {
 }
 
 org2md() {
-    local files=(*.org)
-    (($+1)) && eval "files=($1)"
+    local usage="org2md files-exp
+    for example org2md *.org"
+    # (($+1)) && eval "files=($1)"
     
-    for f ($files) {
+    for f ($*) {
 	echo $f
 	emacs $f --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";
     }

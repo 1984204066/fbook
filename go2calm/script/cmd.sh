@@ -24,4 +24,13 @@ go2calm 29..38
 titleFromOrg 29..38 >summary.s
 cd out; org2md
 
+IFS=' % ' wgetUrl2 ../html 0 51 <urls
+jsXfile go2calm.js 51 2>title
+
+IFS=' % ' wgetUrl2 ../src/img <img-urls
+IFS=' % ' wgetUrl2 ../src/mp3 <voice-urls
+go2calm 51..52
+titleFromOrg 51..52 >summary.s
+modTitle 51..52
+
 for i ({11..19}) {emacs $i.org --batch --eval "(require 'ox-md)" --eval "(setq org-export-with-toc nil)" --eval "(org-md-export-to-markdown)";}
