@@ -1,6 +1,6 @@
 import { AnyNode, BasicAcceptedElems, CheerioAPI, load } from "cheerio";
 import * as fs from "fs";
-import { appendImage, getImgs, levelUp } from "./lib.js";
+import { appendImage, getImgs, markH6, levelUp } from "./lib.js";
 // import {getImgs, appendImage, levelUp} from "../../../typedscript/lib.js";
 
 let fname = process.argv[2];
@@ -15,18 +15,7 @@ if (fs.existsSync(fname)) {
 
     const title = $("h1").eq(0).text();
     console.error(title);
-    $("h1, h2, h3, h4, h5, h6").map((i, e) => {
-        let h = "";
-        if ($(e).is("h1")) h = "h1";
-        if ($(e).is("h2")) h = "h2";
-        if ($(e).is("h3")) h = "h3";
-        if ($(e).is("h4")) h = "h4";
-        if ($(e).is("h5")) h = "h5";
-        if ($(e).is("h6")) h = "h6";
-	h = "(" + h + ")>" + $(e).text() + "<("  +h  + ")"
-        $(e).replaceWith("<p>" + h + "</p>");
-        // console.log($(e).html());
-    });
+    markH6($);
     let imgs = getImgs($, main, chapter);
     const imgn = $("img", main).length;
     // const content = $(main).children().eq(2);
@@ -50,33 +39,6 @@ if (fs.existsSync(fname)) {
 
 // modMark($: CheerioAPI, main: BasicAcceptedElems<AnyNode>, mark: string) {
 // }
-
-function markEmBold($: CheerioAPI, main: BasicAcceptedElems<AnyNode>) {
-    for (var lable of ["strong", "em", "sup", "sub"]) {
-        $(lable, main).map((j, e) => {
-            if ($(e).find("img").length > 0) { // 如果包含img,那么取缔 strong/em.
-                $(e).replaceWith("<span>" + $(e).html() + "</span>");
-            } else {
-                let m = "";
-                if (lable === "strong") {
-                    m = "S";
-                } else if (lable === "em") {
-                    m = "E";
-                } else if (lable === "sup") {
-		    m = "P"
-                } else if (lable === "sub") {
-		    m = "B"
-		}
-                if (m !== "") {
-		    m = "(" + m + ")";
-                    // $(e).replaceWith("<span>" + m + "👉" + $(e).html() + "👈" + m + "</span>");
-                    $(e).replaceWith("<span>" + m + ">" + $(e).html() + "<" + m + "</span>");
-                }
-            }
-            // console.log($(e).html());
-        });
-    }
-}
 //function upImage($: CheerioAPI, elem: BasicAcceptedElems<Node>) {
 function upImage($: CheerioAPI) {
     const lable = "div#js_content";

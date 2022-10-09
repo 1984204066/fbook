@@ -96,14 +96,6 @@ reduceBrackets() {
     sed -i -f reduceBrackets.sed $f
 }
 
-decodeMarks() {
-    for f ($*) {
-	[[ -d $f ]] && { echo "$f is directory"; continue;}
-	emptyBrackets $f;
-	sed -i -f decodeMarks.sed $f;
-    }
-}
-
 bold2H2() {
     for f ($*) {
 	sed -i -f bold2H2.sed $f

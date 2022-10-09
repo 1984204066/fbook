@@ -5,5 +5,5 @@ multilingual = false
 src = "src"
 title = "中华文明vs西方伪史"
 [build]
-build-dir = "stealing-Preacher-book"
+build-dir = "book-stealing-Preacher"
 

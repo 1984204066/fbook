@@ -1,6 +1,3 @@
---- layout: post title:  "人间佛陀" date:   2019-09-05 tags:- 佛学---
-
-
 # Table of Contents
 
 1.  [第一讲 佛教诞生的背景](#org257c4ca)

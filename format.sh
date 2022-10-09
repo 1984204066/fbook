@@ -79,6 +79,14 @@ concatSlash() {
     sed -i '\,^/[^/]\+ *$,{:a N;s,^/[^/&]\+ *$,&,;t a;s/\n/ /g;}' $f
 }
 
+decodeMarks() {
+    for f ($*) {
+	[[ -d $f ]] && { echo "$f is directory"; continue;}
+	emptyBrackets $f;
+	sed -i -f decodeMarks.sed $f;
+    }
+}
+
 modTitle() {
     local usage="modTitle files-exp <specify files, like 1..10 etc.>
     	  for example: modTitle ../org/{50..51}.org "
@@ -164,13 +172,15 @@ wgetUrl2() {
 	  (($+3)) && fstart=$3
 	  # [[ $IFS == "\n" ]] && IFS=' % '
 	  local suffix=""
-	  [[ $out =~ "html" ]] && suffix=".html"
+	  local inner=1; # use fname in urls.
+	  [[ $out =~ "html" ]] && {suffix=".html"; inner=0;} #使用编号当fname.
 	  [[ $out =~ "mp3" ]] && suffix=".mp3"
 	  while {read -r f url} {
 		    # echo $f '--' $url;return;
 		    if (( uskip-- > 0)) {continue};
 		       local fname=$out/$fstart$suffix  #只用于html
-		       if (($+3)) {} else { [[ -n "$f" ]] && fname=$out/$f$suffix }
+		       if ((inner > 0)) { [[ -n "$f" ]] && fname=$out/$f$suffix }
+			  
 			  if [[ "$url" == '' ]] || [[ -f $fname && $force == 0 ]] {
 				 echo "force="$force ",Ignore" $fname
 				 continue;
