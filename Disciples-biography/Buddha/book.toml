@@ -1,0 +1,8 @@
+[book]
+authors = ["1984204066"]
+language = "en"
+multilingual = false
+src = "src"
+title = "人间佛陀"
+[build]
+build-dir = "Buddha-book"

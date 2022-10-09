@@ -4,15 +4,21 @@ firstCanon() {
     for f ($*) {
 	[[ -d $f ]] && { echo "$f is directory"; continue;}
 	#echo $f
-	sed -i 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' $f
-	sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
-	sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
 	trimDoubleEsc $f
+	canonize $f
 	trimAsterisk $f
 	trimSpace $f #已经 合并空白行
 	emptyBrackets $f #已经调用 合并空白行，所以不用下面再执行。
 	# sed -i '/^$/N;/^\n$/D'  $f
     }
+}
+
+canonize() {
+    local f=$1
+    # sed -i 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' $f
+    # sed -i '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' $f
+    # sed -i '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
+    sed -i -e 'y/ ：　１２３４５６７８９０《》（）/ : 1234567890「」()/' -e '/[^-][^-]*---*\|---*[^-][^-]*/s/---*/-﻿-﻿-/g' -e '/:PROPERTIES:.*/{:again N;s/.*:END:$//;T again;}' $f
 }
 
 trimAsterisk() {
