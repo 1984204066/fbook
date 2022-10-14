@@ -1,0 +1,40 @@
+.parent{
+    margin-left: -150px;
+    margin-right: -180px;
+}
+.div3, .div2 {
+    display: flex;
+    justify-content: space-between;
+}
+.miscAgama td {
+    width: 50%;
+    text-align: left;
+    vertical-align: top;    
+}
+
+.left {
+    flex: 1 1 30%;
+}
+.right {
+    flex: 1 1 66%;    
+    margin-left: 10px;    
+}
+.right td {
+    width: 50%;
+    text-align: left;
+    vertical-align: top;
+}
+
+.agama, .pali, .nikaya {
+    /* flex flex属性是flex-grow, flex-shrink 和 flex-basis的简写，默认值为0 1 auto。后两个属性可选。 该属性有两个快捷值：auto (1 1 auto) 和 none (0 0 auto)。 */
+    flex: 1
+    /* flex: 1 1 30% */
+    /* 边距懒得算，css函数代替 */
+    /* margin-right: calc(4% / 3); */
+    /* margin-bottom: calc(4% / 3); */
+    /* margin-left: 10px; */
+}
+.pali, .nikaya {
+    margin-left: 10px;
+}
+
