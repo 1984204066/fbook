@@ -6,6 +6,10 @@
     display: flex;
     justify-content: space-between;
 }
+.note {
+    border-top:2px solid red;
+    border-bottom:2px solid red;
+}
 .miscAgama td {
     width: 50%;
     text-align: left;
@@ -37,4 +41,3 @@
 .pali, .nikaya {
     margin-left: 10px;
 }
-
