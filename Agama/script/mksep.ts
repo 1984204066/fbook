@@ -48,27 +48,7 @@ export function trs(pali:string[], nikaya:string[]) {
     return table;
 }
 
+export function multiAgama(md:string) {
+    
+}
 // type Part = [string,number]
-
-// function onePart(lines: string[], p: Part):Part {
-//     let end:number = p[1]!;
-//     const part = lines.slice(end, pali.length);
-//     for (let line of part) {
-//         end++;
-//         if (line.match(/^[ \n]*$/)) break;
-// 	if (line === "" || line === "\n") break;
-//     }
-//     const text = part.slice(0, end).join("\n"); // 不包括end.
-//     return [text, end];
-// }
-
-// let p1: Part = ["", 0];
-// let p2 : Part = ["", 0];
-// do {
-//     // [text, end] = onePart(pali.slice(end, pali.length), end);
-//     p1 = onePart(pali, p1);
-//     console.log(p1)
-//     // p2 = onePart(nikaya, p2);
-//     // console.log(`<tr><td>${p1[0]}</td>\n<td>${p2[0]}</td></tr>\n`);
-// }while (p1[1] < pali.length)
-
