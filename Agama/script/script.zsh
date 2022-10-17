@@ -50,7 +50,7 @@ combineF() {
 }
 
 modSummary() {
-for i ({1..50}) {sed -i "$i"'s/(.*.md)/('"$i.md)/" tmp.md}
+for i ({1..48}) {sed -i "$i"'s/(.*.md)/('"$i.md)/" tmp.md}
 }
 
 #Sutra

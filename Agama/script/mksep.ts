@@ -48,7 +48,4 @@ export function trs(pali:string[], nikaya:string[]) {
     return table;
 }
 
-export function multiAgama(md:string) {
-    
-}
 // type Part = [string,number]

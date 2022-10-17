@@ -1,7 +1,7 @@
 import { load } from "cheerio";
 import * as fs from "fs";
 import {execaCommand, execaNode, execaCommandSync} from 'execa';
-import {multiAgama, trs} from './mksep.js';
+import {trs} from './mksep.js';
 
 let already = new Set();
 let notes = new Set<string>(); // 页映射。一卷包括多页。
@@ -57,9 +57,24 @@ function changeAHref(fid: string, html: string | null, div_class: string) {
 }
 
 // main
+const range = process.argv[2];
+const [fstart, fend] = (()=>{
+    if (!range) return [0, -1];
+    const match = range.match(/([0-9]+)..([0-9]+)/);
+    if (match) {
+	// console.log(match);
+	const [start, end] = [match[1], match[2]];
+	// const [start, end] = match[1..2];
+	return [Number(start), Number(end)];
+    }
+    return [0, -1];
+})();
+console.log("handle input from ", fstart, " to ", fend, "(included)");
+
 loadNotes();
+
 // total 1362
-for (let f = 1111; f<=1111; f++) { 
+for (let f = fstart; f<=fend; f++) { 
     // const url = "http://www.agama.buddhason.org/SN/SN0001.htm";
     const fbase = '../html/SA/SA';
     const sa = f.toLocaleString('en',{minimumIntegerDigits:4,useGrouping:false});
